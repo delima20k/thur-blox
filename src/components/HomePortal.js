@@ -1246,15 +1246,11 @@ export class HomePortal {
   buildGamesSection() {
     const section = createElement('section', { class: 'portal-games', 'aria-labelledby': 'portal-games-title' }, [
       createElement('h2', { id: 'portal-games-title', class: 'visually-hidden' }, 'Categorias'),
-      createElement('div', { class: 'portal-games-header' }, [
-        this.buildCategoryPill()
-      ]),
       createElement('div', { class: 'portal-game-grid' }, GAME_CARDS.map((card) => this.buildGameCard(this.withMaintenanceState(card)))),
       createElement('p', { class: 'portal-search-empty', hidden: 'hidden' }, 'Nenhuma categoria encontrada.')
     ]);
     this.gameSection = section.querySelector('.portal-game-grid');
     this.emptySearch = section.querySelector('.portal-search-empty');
-    section.querySelector('[data-action="see-games"]').addEventListener('click', () => this.scrollToGames());
     this.applyCategoryFilter();
     return section;
   }
