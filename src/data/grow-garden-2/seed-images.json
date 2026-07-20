@@ -1,0 +1,401 @@
+[
+  {
+    "seedSlug": "carrot",
+    "image": "/assets/grow-garden-2/seeds/seed-placeholder.webp",
+    "sourceType": "placeholder",
+    "verifiedAt": null,
+    "usageStatus": "pending",
+    "note": "Imagem real ainda nao verificada; placeholder neutro usado para nao simular arte oficial.",
+    "sources": [
+      {
+        "name": "Relatório inicial de Seed Shop",
+        "page": "Grow a Garden 2 Seed Shop",
+        "verifiedAt": "2026-06-30"
+      }
+    ]
+  },
+  {
+    "seedSlug": "strawberry",
+    "image": "/assets/grow-garden-2/seeds/seed-placeholder.webp",
+    "sourceType": "placeholder",
+    "verifiedAt": null,
+    "usageStatus": "pending",
+    "note": "Imagem real ainda nao verificada; placeholder neutro usado para nao simular arte oficial.",
+    "sources": [
+      {
+        "name": "Relatório inicial de Seed Shop",
+        "page": "Grow a Garden 2 Seed Shop",
+        "verifiedAt": "2026-06-30"
+      }
+    ]
+  },
+  {
+    "seedSlug": "blueberry",
+    "image": "/assets/grow-garden-2/seeds/seed-placeholder.webp",
+    "sourceType": "placeholder",
+    "verifiedAt": null,
+    "usageStatus": "pending",
+    "note": "Imagem real ainda nao verificada; placeholder neutro usado para nao simular arte oficial.",
+    "sources": [
+      {
+        "name": "Relatório inicial de Seed Shop",
+        "page": "Grow a Garden 2 Seed Shop",
+        "verifiedAt": "2026-06-30"
+      }
+    ]
+  },
+  {
+    "seedSlug": "tulip",
+    "image": "/assets/grow-garden-2/seeds/tulip.webp",
+    "sourceType": "user_reference",
+    "verifiedAt": "2026-07-01",
+    "usageStatus": "confirmed"
+  },
+  {
+    "seedSlug": "tomato",
+    "image": "/assets/grow-garden-2/seeds/tomato.webp",
+    "sourceType": "user_reference",
+    "verifiedAt": "2026-07-01",
+    "usageStatus": "confirmed"
+  },
+  {
+    "seedSlug": "apple",
+    "image": "/assets/grow-garden-2/seeds/apple.webp",
+    "sourceType": "user_reference",
+    "verifiedAt": "2026-07-01",
+    "usageStatus": "confirmed"
+  },
+  {
+    "seedSlug": "bamboo",
+    "image": "/assets/grow-garden-2/seeds/bamboo.webp",
+    "sourceType": "user_reference",
+    "verifiedAt": "2026-07-01",
+    "usageStatus": "confirmed"
+  },
+  {
+    "seedSlug": "corn",
+    "image": "/assets/grow-garden-2/seeds/corn.webp",
+    "sourceType": "user_reference",
+    "verifiedAt": "2026-07-01",
+    "usageStatus": "confirmed"
+  },
+  {
+    "seedSlug": "cactus",
+    "image": "/assets/grow-garden-2/seeds/cactus.webp",
+    "sourceType": "user_reference",
+    "verifiedAt": "2026-07-01",
+    "usageStatus": "confirmed"
+  },
+  {
+    "seedSlug": "pineapple",
+    "image": "/assets/grow-garden-2/seeds/seed-placeholder.webp",
+    "sourceType": "placeholder",
+    "verifiedAt": null,
+    "usageStatus": "pending",
+    "note": "Imagem real ainda nao verificada; placeholder neutro usado para nao simular arte oficial.",
+    "sources": [
+      {
+        "name": "Relatório inicial de Seed Shop",
+        "page": "Grow a Garden 2 Seed Shop",
+        "verifiedAt": "2026-06-30"
+      }
+    ]
+  },
+  {
+    "seedSlug": "mushroom",
+    "image": "/assets/grow-garden-2/seeds/mushroom.webp",
+    "sourceType": "user_reference",
+    "verifiedAt": "2026-07-01",
+    "usageStatus": "confirmed"
+  },
+  {
+    "seedSlug": "green-bean",
+    "image": "/assets/grow-garden-2/seeds/green-bean.webp",
+    "sourceType": "user_reference",
+    "verifiedAt": "2026-07-01",
+    "usageStatus": "confirmed"
+  },
+  {
+    "seedSlug": "banana",
+    "image": "/assets/grow-garden-2/seeds/banana.webp",
+    "sourceType": "user_reference",
+    "verifiedAt": "2026-07-01",
+    "usageStatus": "confirmed"
+  },
+  {
+    "seedSlug": "grape",
+    "image": "/assets/grow-garden-2/seeds/grape.webp",
+    "sourceType": "user_reference",
+    "verifiedAt": "2026-07-01",
+    "usageStatus": "confirmed"
+  },
+  {
+    "seedSlug": "coconut",
+    "image": "/assets/grow-garden-2/seeds/coconut.webp",
+    "sourceType": "user_reference",
+    "verifiedAt": "2026-07-01",
+    "usageStatus": "confirmed"
+  },
+  {
+    "seedSlug": "mango",
+    "image": "/assets/grow-garden-2/seeds/mango.webp",
+    "sourceType": "user_reference",
+    "verifiedAt": "2026-07-01",
+    "usageStatus": "confirmed"
+  },
+  {
+    "seedSlug": "dragon-fruit",
+    "image": "/assets/grow-garden-2/seeds/seed-placeholder.webp",
+    "sourceType": "placeholder",
+    "verifiedAt": null,
+    "usageStatus": "pending",
+    "note": "Imagem real ainda nao verificada; placeholder neutro usado para nao simular arte oficial.",
+    "sources": [
+      {
+        "name": "Relatório inicial de Seed Shop",
+        "page": "Grow a Garden 2 Seed Shop",
+        "verifiedAt": "2026-06-30"
+      }
+    ]
+  },
+  {
+    "seedSlug": "acorn",
+    "image": "/assets/grow-garden-2/seeds/seed-placeholder.webp",
+    "sourceType": "placeholder",
+    "verifiedAt": null,
+    "usageStatus": "pending",
+    "note": "Imagem real ainda nao verificada; placeholder neutro usado para nao simular arte oficial.",
+    "sources": [
+      {
+        "name": "Relatório inicial de Seed Shop",
+        "page": "Grow a Garden 2 Seed Shop",
+        "verifiedAt": "2026-06-30"
+      }
+    ]
+  },
+  {
+    "seedSlug": "cherry",
+    "image": "/assets/grow-garden-2/seeds/seed-placeholder.webp",
+    "sourceType": "placeholder",
+    "verifiedAt": null,
+    "usageStatus": "pending",
+    "note": "Imagem real ainda nao verificada; placeholder neutro usado para nao simular arte oficial.",
+    "sources": [
+      {
+        "name": "Relatório inicial de Seed Shop",
+        "page": "Grow a Garden 2 Seed Shop",
+        "verifiedAt": "2026-06-30"
+      }
+    ]
+  },
+  {
+    "seedSlug": "sunflower",
+    "image": "/assets/grow-garden-2/seeds/seed-placeholder.webp",
+    "sourceType": "placeholder",
+    "verifiedAt": null,
+    "usageStatus": "pending",
+    "note": "Imagem real ainda nao verificada; placeholder neutro usado para nao simular arte oficial.",
+    "sources": [
+      {
+        "name": "Relatório inicial de Seed Shop",
+        "page": "Grow a Garden 2 Seed Shop",
+        "verifiedAt": "2026-06-30"
+      }
+    ]
+  },
+  {
+    "seedSlug": "venus-fly-trap",
+    "image": "/assets/grow-garden-2/seeds/seed-placeholder.webp",
+    "sourceType": "placeholder",
+    "verifiedAt": null,
+    "usageStatus": "pending",
+    "note": "Imagem real ainda nao verificada; placeholder neutro usado para nao simular arte oficial.",
+    "sources": [
+      {
+        "name": "Relatório inicial de Seed Shop",
+        "page": "Grow a Garden 2 Seed Shop",
+        "verifiedAt": "2026-06-30"
+      }
+    ]
+  },
+  {
+    "seedSlug": "pomegranate",
+    "image": "/assets/grow-garden-2/seeds/seed-placeholder.webp",
+    "sourceType": "placeholder",
+    "verifiedAt": null,
+    "usageStatus": "pending",
+    "note": "Imagem real ainda nao verificada; placeholder neutro usado para nao simular arte oficial.",
+    "sources": [
+      {
+        "name": "Relatório inicial de Seed Shop",
+        "page": "Grow a Garden 2 Seed Shop",
+        "verifiedAt": "2026-06-30"
+      }
+    ]
+  },
+  {
+    "seedSlug": "poison-apple",
+    "image": "/assets/grow-garden-2/seeds/seed-placeholder.webp",
+    "sourceType": "placeholder",
+    "verifiedAt": null,
+    "usageStatus": "pending",
+    "note": "Imagem real ainda nao verificada; placeholder neutro usado para nao simular arte oficial.",
+    "sources": [
+      {
+        "name": "Relatório inicial de Seed Shop",
+        "page": "Grow a Garden 2 Seed Shop",
+        "verifiedAt": "2026-06-30"
+      }
+    ]
+  },
+  {
+    "seedSlug": "venom-spitter",
+    "image": "/assets/grow-garden-2/seeds/seed-placeholder.webp",
+    "sourceType": "placeholder",
+    "verifiedAt": null,
+    "usageStatus": "pending",
+    "note": "Imagem real ainda nao verificada; placeholder neutro usado para nao simular arte oficial.",
+    "sources": [
+      {
+        "name": "Relatório inicial de Seed Shop",
+        "page": "Grow a Garden 2 Seed Shop",
+        "verifiedAt": "2026-06-30"
+      }
+    ]
+  },
+  {
+    "seedSlug": "briar-rose",
+    "image": "/assets/grow-garden-2/seeds/seed-placeholder.webp",
+    "sourceType": "placeholder",
+    "verifiedAt": null,
+    "usageStatus": "pending",
+    "note": "Imagem real ainda nao verificada; placeholder neutro usado para nao simular arte oficial.",
+    "sources": [
+      {
+        "name": "Relatório inicial de Seed Shop",
+        "page": "Grow a Garden 2 Seed Shop",
+        "verifiedAt": "2026-06-30"
+      }
+    ]
+  },
+  {
+    "seedSlug": "moon-bloom",
+    "image": "/assets/grow-garden-2/seeds/seed-placeholder.webp",
+    "sourceType": "placeholder",
+    "verifiedAt": null,
+    "usageStatus": "pending",
+    "note": "Imagem real ainda nao verificada; placeholder neutro usado para nao simular arte oficial.",
+    "sources": [
+      {
+        "name": "Relatório inicial de Seed Shop",
+        "page": "Grow a Garden 2 Seed Shop",
+        "verifiedAt": "2026-06-30"
+      }
+    ]
+  },
+  {
+    "seedSlug": "hypno-bloom",
+    "image": "/assets/grow-garden-2/seeds/seed-placeholder.webp",
+    "sourceType": "placeholder",
+    "verifiedAt": null,
+    "usageStatus": "pending",
+    "note": "Imagem real ainda nao verificada; placeholder neutro usado para nao simular arte oficial.",
+    "sources": [
+      {
+        "name": "Relatório inicial de Seed Shop",
+        "page": "Grow a Garden 2 Seed Shop",
+        "verifiedAt": "2026-06-30"
+      }
+    ]
+  },
+  {
+    "seedSlug": "dragons-breath",
+    "image": "/assets/grow-garden-2/seeds/seed-placeholder.webp",
+    "sourceType": "placeholder",
+    "verifiedAt": null,
+    "usageStatus": "pending",
+    "note": "Imagem real ainda nao verificada; placeholder neutro usado para nao simular arte oficial.",
+    "sources": [
+      {
+        "name": "Relatório inicial de Seed Shop",
+        "page": "Grow a Garden 2 Seed Shop",
+        "verifiedAt": "2026-06-30"
+      }
+    ]
+  },
+  {
+    "seedSlug": "baby-cactus",
+    "image": "/assets/grow-garden-2/seeds/seed-placeholder.webp",
+    "sourceType": "placeholder",
+    "verifiedAt": null,
+    "usageStatus": "pending",
+    "note": "Imagem real ainda nao verificada; placeholder neutro usado para nao simular arte oficial.",
+    "sources": [
+      {
+        "name": "Ghost Pepper Seed Pack audit",
+        "page": "Grow a Garden 2 Seed Pack",
+        "verifiedAt": "2026-06-30"
+      }
+    ]
+  },
+  {
+    "seedSlug": "horned-melon",
+    "image": "/assets/grow-garden-2/seeds/seed-placeholder.webp",
+    "sourceType": "placeholder",
+    "verifiedAt": null,
+    "usageStatus": "pending",
+    "note": "Imagem real ainda nao verificada; placeholder neutro usado para nao simular arte oficial.",
+    "sources": [
+      {
+        "name": "Ghost Pepper Seed Pack audit",
+        "page": "Grow a Garden 2 Seed Pack",
+        "verifiedAt": "2026-06-30"
+      }
+    ]
+  },
+  {
+    "seedSlug": "glow-mushroom",
+    "image": "/assets/grow-garden-2/seeds/seed-placeholder.webp",
+    "sourceType": "placeholder",
+    "verifiedAt": null,
+    "usageStatus": "pending",
+    "note": "Imagem real ainda nao verificada; placeholder neutro usado para nao simular arte oficial.",
+    "sources": [
+      {
+        "name": "Ghost Pepper Seed Pack audit",
+        "page": "Grow a Garden 2 Seed Pack",
+        "verifiedAt": "2026-06-30"
+      }
+    ]
+  },
+  {
+    "seedSlug": "poison-ivy",
+    "image": "/assets/grow-garden-2/seeds/seed-placeholder.webp",
+    "sourceType": "placeholder",
+    "verifiedAt": null,
+    "usageStatus": "pending",
+    "note": "Imagem real ainda nao verificada; placeholder neutro usado para nao simular arte oficial.",
+    "sources": [
+      {
+        "name": "Ghost Pepper Seed Pack audit",
+        "page": "Grow a Garden 2 Seed Pack",
+        "verifiedAt": "2026-06-30"
+      }
+    ]
+  },
+  {
+    "seedSlug": "ghost-pepper",
+    "image": "/assets/grow-garden-2/seeds/seed-placeholder.webp",
+    "sourceType": "placeholder",
+    "verifiedAt": null,
+    "usageStatus": "pending",
+    "note": "Imagem real ainda nao verificada; placeholder neutro usado para nao simular arte oficial.",
+    "sources": [
+      {
+        "name": "Ghost Pepper Seed Pack audit",
+        "page": "Grow a Garden 2 Seed Pack",
+        "verifiedAt": "2026-06-30"
+      }
+    ]
+  }
+]

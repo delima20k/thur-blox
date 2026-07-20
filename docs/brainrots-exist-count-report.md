@@ -1,0 +1,516 @@
+# Brainrots Exist Count Report
+
+- pets com quantidade existente: 0
+- pets sem contagem: 493
+- contagens contestadas: 0
+- contagens comunitarias: 0
+- contagens estimadas: 0
+- contagens oficiais: 0
+- fontes registradas: nenhuma
+- datas registradas: nenhuma
+- confianca alta: 0
+- confianca media: 0
+- confianca baixa: 0
+- confianca desconhecida: 493
+- pets disponiveis apenas por troca: 6
+- pets indisponiveis: 0
+
+## Pets com menor quantidade existente
+
+Nenhum pet possui contagem existente confiavel no arquivo atual.
+
+## Pets sem contagem
+
+- 1x1x1x1
+- 25
+- 67
+- Abyssaloco
+- Agarrini la Palini
+- Alessio
+- Anpali Babel
+- Antonio
+- Appelini
+- Aquanaut
+- Aquarino
+- Arcadopus
+- Arcadragon
+- Astrolero Cervalero
+- Avocadini Antilopini
+- Avocadini Guffo
+- Avocadorilla
+- Baby Duo Brainrots
+- Bacuru and Egguru
+- Ballerina Cappuccina
+- Ballerina Peppermintina
+- Ballerino Lololo
+- Bambini Crostini
+- Bambu Bambu Sahur
+- Bananita Dolphinita
+- Bananito
+- Bananito Bandito
+- Bandito Axolito
+- Bandito Bobritto
+- Baskito
+- Bearito Cabinito
+- Bee Loco
+- Belula Beluga
+- Berenjello Angello
+- Berryno
+- Bisonte Giuppitere
+- Blackhole Goat
+- Blueberrinni Octopusini
+- Boatito Auratito
+- Boba Panda
+- Bombardini Tortinii
+- Bombardiro Crocodilo
+- Bombardiro Vaccariro
+- Bombombini Gusini
+- Boneca Ambalabu
+- Boppin Bunny
+- Brainrot God Lucky Block
+- Brasilini Berimbini
+- Brr Brr Patapim
+- Brr es Teh Patipum
+- Brri Brri Bicus Dicus Bombicus
+- Brunito Marsito
+- Brutto Gialutto
+- Bucketoro
+- Buho de Fuego
+- Buho de Noelo
+- Buho de Volto
+- Buho del Cielo
+- Bulbito Bandito Traktorito
+- Bunito Bunito Spinito
+- Bunny and Eggy
+- Bunny Bunny Bunny Sahur
+- Bunny Tralala
+- Bunnyman
+- Buntteo
+- Burbaloni Loliloli
+- Burguro And Fryuro
+- Burrito Bandito
+- Cacasito Satalito
+- Cachorrito Melonito
+- Cacto Hipopotamo
+- Camera Ramena
+- Capi Taco
+- Capitano Gullini
+- Capitano Moby
+- Cappuccino Assassino
+- Cappuccino Clownino
+- Caramello Filtrello
+- Carloo
+- Carrotini Brainini
+- Cash or Card
+- Cavallo Virtuoso
+- Caylusaurus
+- Celestial Pegasus
+- Celularcini Viciosini
+- Centrucci Nuclucci
+- Cerberus
+- Chachechi
+- Chef Crabracadabra
+- Chicleteira Bicicleteira
+- Chicleteira Cupideira
+- Chicleteira Noelteira
+- Chicleteira Surfeiteira
+- Chicleteirina Bicicleteirina
+- Chihuanini Taconini
+- Chill Puppy
+- Chillin Chili
+- Chimnino
+- Chimpanzini Bananini
+- Chimpanzini Spiderini
+- Chipso and Queso
+- Chocco Bunny
+- Chrismasmamat
+- Churrito Bunnito
+- Cigno Fulgoro
+- Clickerino Crabo
+- Cloverat Clapat
+- Clovkur Kurkur
+- Coco and Mango
+- Cocoa Assassino
+- Cocofanto Elefanto
+- Cocosini Mama
+- Cocoteddy
+- Coffin Tung Tung Tung Sahur
+- Cola Cat
+- Combinasion (Disambiguation)
+- Cooki and Milki
+- Corn Corn Corn Sahur
+- Crabbo Limonetta
+- Craburger
+- Cuadramat and Pakrahmatmamat
+- Cupcake Koala
+- Cupid Cupid Sahur
+- Cupid Hotspot
+- Digi Narwhal
+- Divino Platypio
+- DJ Panda
+- Doi Doi Do
+- Dolphini Jetskini
+- Donkeyturbo Express
+- Dragon Aquanini
+- Dragon Cannelloni
+- Dragon Gingerini
+- Dug dug dug
+- Duggy Bros
+- Dul Dul Dul
+- Dumborino Miracello
+- Duo Brainrots
+- Easter Easter Easter Sahur
+- Eggdin Egg Egg Dun
+- Eid Eid Eid Sahur
+- Electro Quacko
+- Elefanto Frigo
+- Esok Goala
+- Esok Sekolah
+- Espresso Signora
+- Eviledon
+- Extinct Ballerina
+- Extinct Matteo
+- Extinct Tralalero
+- Festive 67
+- Fishboard
+- Fishino Clownino
+- Fizzy Soda
+- Flancito
+- Flappin Clover
+- Flipa Sandala
+- Flippo Marino
+- Fluriflura
+- Fortunu and Cashuru
+- Foxini Lanternini
+- Fragola La La La
+- Fragrama and Chocrama
+- Frankentteo
+- Frigo Camelo
+- Frio Ninja
+- Frogato Pirato
+- Frogo Elfo
+- Frullato Framingo
+- Futbolini Skatini
+- Ganganzelli Trulala
+- Gangster Footera
+- Garama and Madundung
+- Gato Celesto
+- Gattatino Neonino
+- Gattatino Nyanino
+- Gattito Tacoto
+- Gelato Lumacho
+- Giftini Spyderini
+- Ginger Cisterna
+- Ginger Gerat
+- Ginger Globo
+- Girafa Celestre
+- Girafini Raftini
+- Glaciator
+- Globa Steppa
+- Glorbo Fruttodrillo
+- GOAT
+- Gobblino Uniciclino
+- Gold Elf
+- Gold Gold Gold
+- Gorillo Subwoofero
+- Gorillo Watermelondrillo
+- Graipuss Medussi
+- Granchiello Spiritell
+- Granny
+- Griffin
+- Guerriro Digitale
+- Guest 666
+- Gym Bros
+- Harpuccino
+- Headless Horseman
+- Hippo Golazo
+- Ho Ho Ho Sahur
+- Holy Arepa
+- Hopilikalika Hopilikalako
+- Horegini Boom
+- Hydra Bunny
+- Hydra Dragon Cannelloni
+- Ice Dragon
+- Jacko Jack Jack
+- Jacko Spaventosa
+- Jackorilla
+- Jelly Moby
+- Jingle Jingle Sahur
+- Job Job Job Sahur
+- John Doe
+- John Pork
+- Jolly Jolly Sahur
+- Kalika Bros
+- Karker Sahur
+- Karkerheart Luvkur
+- Karkerkar Kurkur
+- Karkerkur Family
+- Ketchuru and Musturu
+- Ketupat Bros
+- Ketupat Kepat
+- Kraken
+- Krupuk Pagi Pagi
+- La Anniversary Grande
+- La Casa Boo
+- La Cucaracha
+- La Easter Grande
+- La Extinct Grande
+- La Food Combinasion
+- La Ginger Sekolah
+- La Grande Combinasion
+- La Jolly Grande
+- La Karkerkar Combinasion
+- La Lucky Grande
+- La Romantic Grande
+- La Sahur Combinasion
+- La Secret Combinasion
+- La Spooky Grande
+- La Summer Grande
+- La Supreme Combinasion
+- La Taco Combinasion
+- La Vacca Jacko Linterino
+- La Vacca Lepre Lepreino
+- La Vacca Prese Presente
+- La Vacca Saturno Saturnita
+- Las Capuchinas
+- Las Sis
+- Las Tralaleritas
+- Las Vaquitas Saturnitas
+- Lavadorito Spinito
+- Lazy Ducky
+- Lemonita Splashita
+- Lerulerulerule
+- Lionel Cactuseli
+- Lirilì Larilà
+- List List List Sahur
+- Los 25
+- Los 67
+- Los Amigos
+- Los Bombinitos
+- Los Bros
+- Los Bunitos
+- Los Burritos
+- Los Candies
+- Los Chicleteiras
+- Los Chihuaninis
+- Los Chillis
+- Los Combinasionas
+- Los Crocodillitos
+- Los Cucarachas
+- Los Cupids
+- Los Fruits
+- Los Gattitos
+- Los Hackers
+- Los Hotspotsitos
+- Los Jobcitos
+- Los Jolly Combinasionas
+- Los Karkeritos
+- Los Mariachis
+- Los Matteos
+- Los Mi Gatitos
+- Los Mobilis
+- Los Noobinis
+- Los Nooo My Hotspotsitos
+- Los Orcalitos
+- Los Planitos
+- Los Primos
+- Los Puggies
+- Los Quesadillas
+- Los Sekolahs
+- Los Spaghettis
+- Los Spooky Combinasionas
+- Los Spyderinis
+- Los Sweethearts
+- Los Tacoritas
+- Los Tipi Tacos
+- Los Tortus
+- Los Tralaleritos
+- Los Trios
+- Los Tungtungtungcitos
+- Love Love Bear
+- Love Love Love Sahur
+- Lovin Rose
+- Luck Luck Luck Sahur
+- Lumaca Malefica
+- Luv Luv Luv
+- Magi Ribbitini
+- Malame Amarele
+- Mangolini Parrocini
+- Mariachi Corazoni
+- Mastodontico Telepiedone
+- Matteo
+- Meowl
+- Mi Gatito
+- Mieteteira Bicicleteira
+- Money Money Bros
+- Money Money Man
+- Money Money Puggy
+- Money Money Reindeer
+- Mummio Rappitto
+- Mummy Ambalabu
+- Mythic Lucky Block
+- Nacho Spyder
+- Naughty Naughty
+- Noo La Polizia
+- Noo my Candy
+- Noo my Eggs
+- Noo my examine
+- Noo my Gold
+- Noo my Heart
+- Noo my Present
+- Noobini Pizzanini
+- Noobini Santanini
+- Nooo My Hotspot
+- North Pole Event
+- Nuclearo Dinossauro
+- Octoball
+- Odin Din Din Dun
+- Ombrello Topolino
+- Orangutini Ananassini
+- Orbi Mochi
+- Orcaledon
+- Orcalero Orcala
+- Orcalita Orcala
+- Pakrahmatmamat
+- Pakrahmatmatina
+- Pancake and Syrup
+- Pandaccini Bananini
+- Pandanini Frostini
+- Paradiso Axolottino
+- Patteo
+- Pengolino Nuvoletto
+- Penguin Tree
+- Penguino Cocosino
+- Perochello Lemonchello
+- Perrito Burrito
+- Pi Pi Watermelon
+- Piccione Macchina
+- Piccionetta Machina
+- Pinealotto Fruttarino
+- Pineaplino
+- Pipi Avocado
+- Pipi Corni
+- Pipi Kiwi
+- Pipi Potato
+- Pirulitoita Bicicleteira
+- Please my Present
+- Pop Pop Sahur
+- Popcuru and Fizzuru
+- Pot Hotspot
+- Pot Pumpkin
+- Pretzo Robo
+- Puffaball
+- Pumpkini Spyderini
+- Quackini Snackini
+- Quackula
+- Quesadilla Crocodila
+- Quesadillo Vampiro
+- Quivioli Ameleonni
+- Raccooni Jandelini
+- Rainbow and Gold
+- Rang Ring Bus
+- Ref Ref Ref Sahur
+- Reindeer Tralala
+- Reinito Sleighito
+- Rhino Helicopterino
+- Rhino Toasterino
+- Rico Dinero
+- Robo Grafito
+- Rocco Disco
+- Rocketini Frostini
+- Rosetti Tualetti
+- Rosey and Teddy
+- Rubrikiko
+- Salamino Penguino
+- Sammyni Cakini
+- Sammyni Fattini
+- Sammyni Spyderini
+- Sand Sand Sand
+- Santa Hotspot
+- Santteo
+- Sealo Regalo
+- Secret Lucky Block
+- Serafinna Medusella
+- Seraphino Gruyero
+- Sigma Boy
+- Sigma Girl
+- Signore Carapace
+- Skibidi Toilet
+- Skull Skull Skull
+- Smurf Cat
+- Snailenzo
+- Snailo Clovero
+- Spaghetti Tualetti
+- Spinny Hammy
+- Spioniro Golubiro
+- Spongini Quackini
+- Spooky and Pumpky
+- Spyder Elephant
+- Squalanana
+- Statutino Libertino
+- Steakini Fattini
+- Stoppo Luminino
+- Strawberrelli Flamingelli
+- Strawberrita
+- Strawberry Elephant
+- Sundrilla Sundae
+- Sushi Inu
+- Svinina Bombardino
+- Swag Soda
+- Swaggy Bros
+- Ta Ta Ta Ta Sahur
+- Tacorillo Crocodillo
+- Tacorita Bicicleta
+- Talpa Di Fero
+- Tang Tang Keletang
+- Tartaragno
+- Tartaruga Cisterna
+- Te Te Te Sahur
+- Telemorte
+- Tenini Ballini
+- Tentacolo Tecnico
+- Ti Ti Ti Sahur
+- Tictac Sahur
+- Tigrilini Watermelini
+- Tigroligre Frutonni
+- Tim Cheese
+- Tipi Topi Taco
+- Tirilikalika Tirilikalako
+- To to to Sahur
+- Tob Tobi Tobi
+- Toiletto Focaccino
+- Tootini Shrimpini
+- Torrtuginni Dragonfrutini
+- Tortuginni Sandcastlini
+- Tracoducotulu Delapeladustuz
+- Tractoro Dinosauro
+- Tralaledon
+- Tralalero Tralala
+- Tralalita Tralala
+- Tree Tree Tree Sahur
+- Trenostruzzo Turbo 3000
+- Trenostruzzo Turbo 4000
+- Trenotubo Axolotrico 9000
+- Tric Trac Baraboom
+- Trickolino
+- Triplito Tralaleritos
+- Trippi Troppi
+- Trippi Troppi Troppa Trippa
+- Trulimero Trulicina
+- Tuff Toucan
+- Tukanno Bananno
+- Tung Tung Tung Sahur
+- Unclito Samito
+- Urubini Flamenguini
+- Valentine's Brainrots
+- Vampira Cappucina
+- Ventoliero Pavonero
+- Venuspino
+- Vulturino Skeletono
+- W or L
+- Wheelchair Granny
+- Wombo Rollo
+- Yess my examine
+- Yeti Claus
+- Zibra Zubra Zibralini
+- Zombie Tralala

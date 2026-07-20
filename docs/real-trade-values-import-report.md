@@ -1,0 +1,489 @@
+# Importacao de valores reais de troca
+
+Data: 2026-06-30T21:17:02.983Z
+Dry run: nao
+Pets processados: 493
+Com valor comunitario: 16
+Sem valor real: 477
+Com existCount confiavel: 0
+Importacao manual: 0
+
+## Sem valor real
+
+- 1x1x1x1 | 1x1x1x1
+- 25 | 25
+- 67 | 67
+- abyssaloco | Abyssaloco
+- agarrini-la-palini | Agarrini la Palini
+- alessio | Alessio
+- anpali-babel | Anpali Babel
+- appelini | Appelini
+- aquanaut | Aquanaut
+- aquarino | Aquarino
+- arcadopus | Arcadopus
+- arcadragon | Arcadragon
+- astrolero-cervalero | Astrolero Cervalero
+- avocadini-antilopini | Avocadini Antilopini
+- avocadini-guffo | Avocadini Guffo
+- avocadorilla | Avocadorilla
+- baby-duo-brainrots | Baby Duo Brainrots
+- bacuru-and-egguru | Bacuru and Egguru
+- ballerina-cappuccina | Ballerina Cappuccina
+- ballerina-peppermintina | Ballerina Peppermintina
+- ballerino-lololo | Ballerino Lololo
+- bambini-crostini | Bambini Crostini
+- bambu-bambu-sahur | Bambu Bambu Sahur
+- bananita-dolphinita | Bananita Dolphinita
+- bananito | Bananito
+- bananito-bandito | Bananito Bandito
+- bandito-axolito | Bandito Axolito
+- bandito-bobritto | Bandito Bobritto
+- baskito | Baskito
+- bearito-cabinito | Bearito Cabinito
+- bee-loco | Bee Loco
+- belula-beluga | Belula Beluga
+- berenjello-angello | Berenjello Angello
+- berryno | Berryno
+- bisonte-giuppitere | Bisonte Giuppitere
+- blackhole-goat | Blackhole Goat
+- blueberrinni-octopusini | Blueberrinni Octopusini
+- boatito-auratito | Boatito Auratito
+- boba-panda | Boba Panda
+- bombardini-tortinii | Bombardini Tortinii
+- bombardiro-crocodilo | Bombardiro Crocodilo
+- bombardiro-vaccariro | Bombardiro Vaccariro
+- bombombini-gusini | Bombombini Gusini
+- boneca-ambalabu | Boneca Ambalabu
+- boppin-bunny | Boppin Bunny
+- brainrot-god-lucky-block | Brainrot God Lucky Block
+- brasilini-berimbini | Brasilini Berimbini
+- brr-brr-patapim | Brr Brr Patapim
+- brr-es-teh-patipum | Brr es Teh Patipum
+- brri-brri-bicus-dicus-bombicus | Brri Brri Bicus Dicus Bombicus
+- brunito-marsito | Brunito Marsito
+- brutto-gialutto | Brutto Gialutto
+- bucketoro | Bucketoro
+- buho-de-fuego | Buho de Fuego
+- buho-de-noelo | Buho de Noelo
+- buho-de-volto | Buho de Volto
+- buho-del-cielo | Buho del Cielo
+- bulbito-bandito-traktorito | Bulbito Bandito Traktorito
+- bunito-bunito-spinito | Bunito Bunito Spinito
+- bunny-and-eggy | Bunny and Eggy
+- bunny-bunny-bunny-sahur | Bunny Bunny Bunny Sahur
+- bunny-tralala | Bunny Tralala
+- bunnyman | Bunnyman
+- buntteo | Buntteo
+- burbaloni-loliloli | Burbaloni Loliloli
+- burguro-and-fryuro | Burguro And Fryuro
+- burrito-bandito | Burrito Bandito
+- cacasito-satalito | Cacasito Satalito
+- cachorrito-melonito | Cachorrito Melonito
+- cacto-hipopotamo | Cacto Hipopotamo
+- camera-ramena | Camera Ramena
+- capi-taco | Capi Taco
+- capitano-gullini | Capitano Gullini
+- capitano-moby | Capitano Moby
+- cappuccino-assassino | Cappuccino Assassino
+- cappuccino-clownino | Cappuccino Clownino
+- caramello-filtrello | Caramello Filtrello
+- carloo | Carloo
+- carrotini-brainini | Carrotini Brainini
+- cash-or-card | Cash or Card
+- cavallo-virtuoso | Cavallo Virtuoso
+- caylusaurus | Caylusaurus
+- celestial-pegasus | Celestial Pegasus
+- celularcini-viciosini | Celularcini Viciosini
+- centrucci-nuclucci | Centrucci Nuclucci
+- chachechi | Chachechi
+- chef-crabracadabra | Chef Crabracadabra
+- chicleteira-bicicleteira | Chicleteira Bicicleteira
+- chicleteira-cupideira | Chicleteira Cupideira
+- chicleteira-noelteira | Chicleteira Noelteira
+- chicleteira-surfeiteira | Chicleteira Surfeiteira
+- chicleteirina-bicicleteirina | Chicleteirina Bicicleteirina
+- chihuanini-taconini | Chihuanini Taconini
+- chill-puppy | Chill Puppy
+- chillin-chili | Chillin Chili
+- chimnino | Chimnino
+- chimpanzini-bananini | Chimpanzini Bananini
+- chimpanzini-spiderini | Chimpanzini Spiderini
+- chipso-and-queso | Chipso and Queso
+- chocco-bunny | Chocco Bunny
+- chrismasmamat | Chrismasmamat
+- churrito-bunnito | Churrito Bunnito
+- cigno-fulgoro | Cigno Fulgoro
+- clickerino-crabo | Clickerino Crabo
+- cloverat-clapat | Cloverat Clapat
+- clovkur-kurkur | Clovkur Kurkur
+- coco-and-mango | Coco and Mango
+- cocoa-assassino | Cocoa Assassino
+- cocofanto-elefanto | Cocofanto Elefanto
+- cocosini-mama | Cocosini Mama
+- cocoteddy | Cocoteddy
+- coffin-tung-tung-tung-sahur | Coffin Tung Tung Tung Sahur
+- cola-cat | Cola Cat
+- combinasion-disambiguation | Combinasion (Disambiguation)
+- cooki-and-milki | Cooki and Milki
+- corn-corn-corn-sahur | Corn Corn Corn Sahur
+- crabbo-limonetta | Crabbo Limonetta
+- craburger | Craburger
+- cuadramat-and-pakrahmatmamat | Cuadramat and Pakrahmatmamat
+- cupcake-koala | Cupcake Koala
+- cupid-cupid-sahur | Cupid Cupid Sahur
+- cupid-hotspot | Cupid Hotspot
+- divino-platypio | Divino Platypio
+- dj-panda | DJ Panda
+- doi-doi-do | Doi Doi Do
+- dolphini-jetskini | Dolphini Jetskini
+- donkeyturbo-express | Donkeyturbo Express
+- dragon-aquanini | Dragon Aquanini
+- dragon-cannelloni | Dragon Cannelloni
+- dragon-gingerini | Dragon Gingerini
+- dug-dug-dug | Dug dug dug
+- duggy-bros | Duggy Bros
+- dul-dul-dul | Dul Dul Dul
+- dumborino-miracello | Dumborino Miracello
+- duo-brainrots | Duo Brainrots
+- easter-easter-easter-sahur | Easter Easter Easter Sahur
+- eggdin-egg-egg-dun | Eggdin Egg Egg Dun
+- eid-eid-eid-sahur | Eid Eid Eid Sahur
+- electro-quacko | Electro Quacko
+- esok-goala | Esok Goala
+- esok-sekolah | Esok Sekolah
+- espresso-signora | Espresso Signora
+- eviledon | Eviledon
+- extinct-ballerina | Extinct Ballerina
+- extinct-matteo | Extinct Matteo
+- extinct-tralalero | Extinct Tralalero
+- festive-67 | Festive 67
+- fishboard | Fishboard
+- fishino-clownino | Fishino Clownino
+- fizzy-soda | Fizzy Soda
+- flancito | Flancito
+- flappin-clover | Flappin Clover
+- flipa-sandala | Flipa Sandala
+- flippo-marino | Flippo Marino
+- fluriflura | Fluriflura
+- fortunu-and-cashuru | Fortunu and Cashuru
+- fragola-la-la-la | Fragola La La La
+- fragrama-and-chocrama | Fragrama and Chocrama
+- frankentteo | Frankentteo
+- frigo-camelo | Frigo Camelo
+- frio-ninja | Frio Ninja
+- frogato-pirato | Frogato Pirato
+- frogo-elfo | Frogo Elfo
+- frullato-framingo | Frullato Framingo
+- futbolini-skatini | Futbolini Skatini
+- ganganzelli-trulala | Ganganzelli Trulala
+- gangster-footera | Gangster Footera
+- gato-celesto | Gato Celesto
+- gattatino-neonino | Gattatino Neonino
+- gattatino-nyanino | Gattatino Nyanino
+- gattito-tacoto | Gattito Tacoto
+- gelato-lumacho | Gelato Lumacho
+- giftini-spyderini | Giftini Spyderini
+- ginger-cisterna | Ginger Cisterna
+- ginger-gerat | Ginger Gerat
+- ginger-globo | Ginger Globo
+- girafa-celestre | Girafa Celestre
+- girafini-raftini | Girafini Raftini
+- glaciator | Glaciator
+- globa-steppa | Globa Steppa
+- glorbo-fruttodrillo | Glorbo Fruttodrillo
+- goat | GOAT
+- gobblino-uniciclino | Gobblino Uniciclino
+- gold-elf | Gold Elf
+- gold-gold-gold | Gold Gold Gold
+- gorillo-subwoofero | Gorillo Subwoofero
+- gorillo-watermelondrillo | Gorillo Watermelondrillo
+- graipuss-medussi | Graipuss Medussi
+- granchiello-spiritell | Granchiello Spiritell
+- granny | Granny
+- guerriro-digitale | Guerriro Digitale
+- guest-666 | Guest 666
+- gym-bros | Gym Bros
+- harpuccino | Harpuccino
+- hippo-golazo | Hippo Golazo
+- ho-ho-ho-sahur | Ho Ho Ho Sahur
+- holy-arepa | Holy Arepa
+- hopilikalika-hopilikalako | Hopilikalika Hopilikalako
+- horegini-boom | Horegini Boom
+- hydra-bunny | Hydra Bunny
+- hydra-dragon-cannelloni | Hydra Dragon Cannelloni
+- ice-dragon | Ice Dragon
+- jacko-jack-jack | Jacko Jack Jack
+- jacko-spaventosa | Jacko Spaventosa
+- jackorilla | Jackorilla
+- jelly-moby | Jelly Moby
+- jingle-jingle-sahur | Jingle Jingle Sahur
+- job-job-job-sahur | Job Job Job Sahur
+- john-doe | John Doe
+- john-pork | John Pork
+- jolly-jolly-sahur | Jolly Jolly Sahur
+- kalika-bros | Kalika Bros
+- karker-sahur | Karker Sahur
+- karkerheart-luvkur | Karkerheart Luvkur
+- karkerkar-kurkur | Karkerkar Kurkur
+- karkerkur-family | Karkerkur Family
+- ketchuru-and-musturu | Ketchuru and Musturu
+- ketupat-bros | Ketupat Bros
+- ketupat-kepat | Ketupat Kepat
+- kraken | Kraken
+- krupuk-pagi-pagi | Krupuk Pagi Pagi
+- la-anniversary-grande | La Anniversary Grande
+- la-casa-boo | La Casa Boo
+- la-cucaracha | La Cucaracha
+- la-extinct-grande | La Extinct Grande
+- la-food-combinasion | La Food Combinasion
+- la-ginger-sekolah | La Ginger Sekolah
+- la-grande-combinasion | La Grande Combinasion
+- la-jolly-grande | La Jolly Grande
+- la-karkerkar-combinasion | La Karkerkar Combinasion
+- la-lucky-grande | La Lucky Grande
+- la-romantic-grande | La Romantic Grande
+- la-sahur-combinasion | La Sahur Combinasion
+- la-secret-combinasion | La Secret Combinasion
+- la-spooky-grande | La Spooky Grande
+- la-summer-grande | La Summer Grande
+- la-supreme-combinasion | La Supreme Combinasion
+- la-taco-combinasion | La Taco Combinasion
+- la-vacca-jacko-linterino | La Vacca Jacko Linterino
+- la-vacca-lepre-lepreino | La Vacca Lepre Lepreino
+- la-vacca-prese-presente | La Vacca Prese Presente
+- la-vacca-saturno-saturnita | La Vacca Saturno Saturnita
+- las-capuchinas | Las Capuchinas
+- las-sis | Las Sis
+- las-tralaleritas | Las Tralaleritas
+- las-vaquitas-saturnitas | Las Vaquitas Saturnitas
+- lavadorito-spinito | Lavadorito Spinito
+- lazy-ducky | Lazy Ducky
+- lemonita-splashita | Lemonita Splashita
+- lerulerulerule | Lerulerulerule
+- lionel-cactuseli | Lionel Cactuseli
+- lirili-larila | Lirilì Larilà
+- list-list-list-sahur | List List List Sahur
+- los-25 | Los 25
+- los-67 | Los 67
+- los-amigos | Los Amigos
+- los-bombinitos | Los Bombinitos
+- los-bros | Los Bros
+- los-bunitos | Los Bunitos
+- los-burritos | Los Burritos
+- los-candies | Los Candies
+- los-chicleteiras | Los Chicleteiras
+- los-chihuaninis | Los Chihuaninis
+- los-chillis | Los Chillis
+- los-combinasionas | Los Combinasionas
+- los-crocodillitos | Los Crocodillitos
+- los-cucarachas | Los Cucarachas
+- los-cupids | Los Cupids
+- los-fruits | Los Fruits
+- los-gattitos | Los Gattitos
+- los-hackers | Los Hackers
+- los-hotspotsitos | Los Hotspotsitos
+- los-jobcitos | Los Jobcitos
+- los-jolly-combinasionas | Los Jolly Combinasionas
+- los-karkeritos | Los Karkeritos
+- los-mariachis | Los Mariachis
+- los-matteos | Los Matteos
+- los-mi-gatitos | Los Mi Gatitos
+- los-mobilis | Los Mobilis
+- los-noobinis | Los Noobinis
+- los-nooo-my-hotspotsitos | Los Nooo My Hotspotsitos
+- los-orcalitos | Los Orcalitos
+- los-planitos | Los Planitos
+- los-primos | Los Primos
+- los-puggies | Los Puggies
+- los-quesadillas | Los Quesadillas
+- los-sekolahs | Los Sekolahs
+- los-spaghettis | Los Spaghettis
+- los-spooky-combinasionas | Los Spooky Combinasionas
+- los-spyderinis | Los Spyderinis
+- los-sweethearts | Los Sweethearts
+- los-tacoritas | Los Tacoritas
+- los-tipi-tacos | Los Tipi Tacos
+- los-tortus | Los Tortus
+- los-tralaleritos | Los Tralaleritos
+- los-trios | Los Trios
+- los-tungtungtungcitos | Los Tungtungtungcitos
+- love-love-love-sahur | Love Love Love Sahur
+- lovin-rose | Lovin Rose
+- luck-luck-luck-sahur | Luck Luck Luck Sahur
+- lumaca-malefica | Lumaca Malefica
+- luv-luv-luv | Luv Luv Luv
+- magi-ribbitini | Magi Ribbitini
+- malame-amarele | Malame Amarele
+- mangolini-parrocini | Mangolini Parrocini
+- mariachi-corazoni | Mariachi Corazoni
+- mastodontico-telepiedone | Mastodontico Telepiedone
+- matteo | Matteo
+- mi-gatito | Mi Gatito
+- mieteteira-bicicleteira | Mieteteira Bicicleteira
+- money-money-man | Money Money Man
+- money-money-puggy | Money Money Puggy
+- money-money-reindeer | Money Money Reindeer
+- mummio-rappitto | Mummio Rappitto
+- mummy-ambalabu | Mummy Ambalabu
+- mythic-lucky-block | Mythic Lucky Block
+- nacho-spyder | Nacho Spyder
+- naughty-naughty | Naughty Naughty
+- noo-la-polizia | Noo La Polizia
+- noo-my-candy | Noo my Candy
+- noo-my-eggs | Noo my Eggs
+- noo-my-examine | Noo my examine
+- noo-my-gold | Noo my Gold
+- noo-my-heart | Noo my Heart
+- noo-my-present | Noo my Present
+- noobini-pizzanini | Noobini Pizzanini
+- noobini-santanini | Noobini Santanini
+- nooo-my-hotspot | Nooo My Hotspot
+- north-pole-event | North Pole Event
+- nuclearo-dinossauro | Nuclearo Dinossauro
+- octoball | Octoball
+- odin-din-din-dun | Odin Din Din Dun
+- ombrello-topolino | Ombrello Topolino
+- orangutini-ananassini | Orangutini Ananassini
+- orbi-mochi | Orbi Mochi
+- orcaledon | Orcaledon
+- orcalero-orcala | Orcalero Orcala
+- orcalita-orcala | Orcalita Orcala
+- pakrahmatmamat | Pakrahmatmamat
+- pakrahmatmatina | Pakrahmatmatina
+- pancake-and-syrup | Pancake and Syrup
+- pandaccini-bananini | Pandaccini Bananini
+- pandanini-frostini | Pandanini Frostini
+- paradiso-axolottino | Paradiso Axolottino
+- patteo | Patteo
+- pengolino-nuvoletto | Pengolino Nuvoletto
+- penguin-tree | Penguin Tree
+- penguino-cocosino | Penguino Cocosino
+- perochello-lemonchello | Perochello Lemonchello
+- perrito-burrito | Perrito Burrito
+- pi-pi-watermelon | Pi Pi Watermelon
+- piccione-macchina | Piccione Macchina
+- piccionetta-machina | Piccionetta Machina
+- pinealotto-fruttarino | Pinealotto Fruttarino
+- pineaplino | Pineaplino
+- pipi-avocado | Pipi Avocado
+- pipi-corni | Pipi Corni
+- pipi-kiwi | Pipi Kiwi
+- pipi-potato | Pipi Potato
+- pirulitoita-bicicleteira | Pirulitoita Bicicleteira
+- please-my-present | Please my Present
+- pop-pop-sahur | Pop Pop Sahur
+- popcuru-and-fizzuru | Popcuru and Fizzuru
+- pot-hotspot | Pot Hotspot
+- pot-pumpkin | Pot Pumpkin
+- pretzo-robo | Pretzo Robo
+- puffaball | Puffaball
+- pumpkini-spyderini | Pumpkini Spyderini
+- quackini-snackini | Quackini Snackini
+- quackula | Quackula
+- quesadilla-crocodila | Quesadilla Crocodila
+- quesadillo-vampiro | Quesadillo Vampiro
+- quivioli-ameleonni | Quivioli Ameleonni
+- raccooni-jandelini | Raccooni Jandelini
+- rainbow-and-gold | Rainbow and Gold
+- rang-ring-bus | Rang Ring Bus
+- ref-ref-ref-sahur | Ref Ref Ref Sahur
+- reindeer-tralala | Reindeer Tralala
+- reinito-sleighito | Reinito Sleighito
+- rhino-helicopterino | Rhino Helicopterino
+- rhino-toasterino | Rhino Toasterino
+- rico-dinero | Rico Dinero
+- robo-grafito | Robo Grafito
+- rocco-disco | Rocco Disco
+- rocketini-frostini | Rocketini Frostini
+- rosetti-tualetti | Rosetti Tualetti
+- rosey-and-teddy | Rosey and Teddy
+- rubrikiko | Rubrikiko
+- salamino-penguino | Salamino Penguino
+- sammyni-cakini | Sammyni Cakini
+- sammyni-fattini | Sammyni Fattini
+- sammyni-spyderini | Sammyni Spyderini
+- sand-sand-sand | Sand Sand Sand
+- santa-hotspot | Santa Hotspot
+- santteo | Santteo
+- sealo-regalo | Sealo Regalo
+- secret-lucky-block | Secret Lucky Block
+- serafinna-medusella | Serafinna Medusella
+- seraphino-gruyero | Seraphino Gruyero
+- sigma-boy | Sigma Boy
+- sigma-girl | Sigma Girl
+- skull-skull-skull | Skull Skull Skull
+- smurf-cat | Smurf Cat
+- snailenzo | Snailenzo
+- snailo-clovero | Snailo Clovero
+- spaghetti-tualetti | Spaghetti Tualetti
+- spinny-hammy | Spinny Hammy
+- spioniro-golubiro | Spioniro Golubiro
+- spongini-quackini | Spongini Quackini
+- spooky-and-pumpky | Spooky and Pumpky
+- spyder-elephant | Spyder Elephant
+- squalanana | Squalanana
+- statutino-libertino | Statutino Libertino
+- steakini-fattini | Steakini Fattini
+- stoppo-luminino | Stoppo Luminino
+- strawberrelli-flamingelli | Strawberrelli Flamingelli
+- strawberrita | Strawberrita
+- sundrilla-sundae | Sundrilla Sundae
+- sushi-inu | Sushi Inu
+- svinina-bombardino | Svinina Bombardino
+- swag-soda | Swag Soda
+- swaggy-bros | Swaggy Bros
+- ta-ta-ta-ta-sahur | Ta Ta Ta Ta Sahur
+- tacorillo-crocodillo | Tacorillo Crocodillo
+- tacorita-bicicleta | Tacorita Bicicleta
+- talpa-di-fero | Talpa Di Fero
+- tang-tang-keletang | Tang Tang Keletang
+- tartaragno | Tartaragno
+- tartaruga-cisterna | Tartaruga Cisterna
+- te-te-te-sahur | Te Te Te Sahur
+- telemorte | Telemorte
+- tenini-ballini | Tenini Ballini
+- tentacolo-tecnico | Tentacolo Tecnico
+- ti-ti-ti-sahur | Ti Ti Ti Sahur
+- tigrilini-watermelini | Tigrilini Watermelini
+- tigroligre-frutonni | Tigroligre Frutonni
+- tim-cheese | Tim Cheese
+- tipi-topi-taco | Tipi Topi Taco
+- tirilikalika-tirilikalako | Tirilikalika Tirilikalako
+- to-to-to-sahur | To to to Sahur
+- tob-tobi-tobi | Tob Tobi Tobi
+- toiletto-focaccino | Toiletto Focaccino
+- tootini-shrimpini | Tootini Shrimpini
+- torrtuginni-dragonfrutini | Torrtuginni Dragonfrutini
+- tortuginni-sandcastlini | Tortuginni Sandcastlini
+- tracoducotulu-delapeladustuz | Tracoducotulu Delapeladustuz
+- tractoro-dinosauro | Tractoro Dinosauro
+- tralaledon | Tralaledon
+- tralalero-tralala | Tralalero Tralala
+- tralalita-tralala | Tralalita Tralala
+- tree-tree-tree-sahur | Tree Tree Tree Sahur
+- trenostruzzo-turbo-3000 | Trenostruzzo Turbo 3000
+- trenostruzzo-turbo-4000 | Trenostruzzo Turbo 4000
+- trenotubo-axolotrico-9000 | Trenotubo Axolotrico 9000
+- tric-trac-baraboom | Tric Trac Baraboom
+- trickolino | Trickolino
+- triplito-tralaleritos | Triplito Tralaleritos
+- trippi-troppi | Trippi Troppi
+- trippi-troppi-troppa-trippa | Trippi Troppi Troppa Trippa
+- trulimero-trulicina | Trulimero Trulicina
+- tuff-toucan | Tuff Toucan
+- tukanno-bananno | Tukanno Bananno
+- tung-tung-tung-sahur | Tung Tung Tung Sahur
+- unclito-samito | Unclito Samito
+- urubini-flamenguini | Urubini Flamenguini
+- valentine-s-brainrots | Valentine's Brainrots
+- vampira-cappucina | Vampira Cappucina
+- ventoliero-pavonero | Ventoliero Pavonero
+- venuspino | Venuspino
+- vulturino-skeletono | Vulturino Skeletono
+- w-or-l | W or L
+- wheelchair-granny | Wheelchair Granny
+- wombo-rollo | Wombo Rollo
+- yess-my-examine | Yess my examine
+- yeti-claus | Yeti Claus
+- zibra-zubra-zibralini | Zibra Zubra Zibralini
+- zombie-tralala | Zombie Tralala

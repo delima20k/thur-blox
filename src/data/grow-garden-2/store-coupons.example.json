@@ -1,0 +1,34 @@
+{
+  "dataVersion": "2026-07-01-coupons-example-1",
+  "updatedAt": "2026-07-01T00:00:00.000Z",
+  "coupons": [
+    {
+      "code": "WELCOME10",
+      "description": "Exemplo desativado de cupom percentual.",
+      "discountType": "percentage",
+      "discountValue": 10,
+      "minimumOrderInCents": 0,
+      "maximumDiscountInCents": null,
+      "totalUsageLimit": null,
+      "usageLimitPerCustomer": null,
+      "startsAt": null,
+      "expiresAt": null,
+      "active": false,
+      "applicableProductSlugs": []
+    },
+    {
+      "code": "SEED5",
+      "description": "Exemplo desativado de cupom fixo.",
+      "discountType": "fixed",
+      "discountValue": 500,
+      "minimumOrderInCents": 0,
+      "maximumDiscountInCents": null,
+      "totalUsageLimit": null,
+      "usageLimitPerCustomer": null,
+      "startsAt": null,
+      "expiresAt": null,
+      "active": false,
+      "applicableProductSlugs": []
+    }
+  ]
+}

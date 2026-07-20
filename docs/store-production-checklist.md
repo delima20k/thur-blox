@@ -1,0 +1,21 @@
+# Store Production Checklist
+
+- [ ] Confirmar permissao para vender os itens.
+- [ ] Revisar regras atuais da Roblox.
+- [ ] Revisar regras atuais do Grow a Garden 2.
+- [ ] Definir responsavel pela loja.
+- [ ] Publicar termos de uso.
+- [ ] Publicar politica de privacidade.
+- [ ] Publicar politica de entrega.
+- [ ] Publicar politica de reembolso.
+- [ ] Criar backend/BFF.
+- [ ] Aplicar migrations em banco real.
+- [ ] Configurar admin autenticado.
+- [ ] Escolher um provedor Pix.
+- [ ] Configurar sandbox Pix.
+- [ ] Validar webhook com segredo.
+- [ ] Criar testes de integracao e E2E.
+- [ ] Informar precos em centavos.
+- [ ] Informar estoque.
+- [ ] Ativar produtos individualmente.
+- [ ] Alterar `COMMERCE_ENABLED` somente depois de todos os itens acima.

@@ -1,0 +1,214 @@
+# Pet details audit
+
+Generated: 2026-06-30T22:18:41.396Z
+
+## Summary
+- total: 493
+- complete: 0
+- withIncome: 23
+- withCommunityValue: 16
+- withSource: 16
+- withDate: 493
+
+## Sample details
+
+- 1x1x1x1 (1x1x1x1): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- 25 (25): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- 67 (67): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- abyssaloco (Abyssaloco): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- agarrini-la-palini (Agarrini la Palini): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- alessio (Alessio): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- anpali-babel (Anpali Babel): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- antonio (Antonio): purchaseCost=6000000, baseIncomePerSecond=18500, communityTradeValue=70000, demand=medium, existCount=null, sources=1, verifiedAt=2026-06-30, modalShouldFetchMerged=nao
+- appelini (Appelini): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- aquanaut (Aquanaut): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- aquarino (Aquarino): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- arcadopus (Arcadopus): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- arcadragon (Arcadragon): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- astrolero-cervalero (Astrolero Cervalero): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- avocadini-antilopini (Avocadini Antilopini): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- avocadini-guffo (Avocadini Guffo): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- avocadorilla (Avocadorilla): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- baby-duo-brainrots (Baby Duo Brainrots): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- bacuru-and-egguru (Bacuru and Egguru): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- ballerina-cappuccina (Ballerina Cappuccina): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- ballerina-peppermintina (Ballerina Peppermintina): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- ballerino-lololo (Ballerino Lololo): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- bambini-crostini (Bambini Crostini): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- bambu-bambu-sahur (Bambu Bambu Sahur): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- bananita-dolphinita (Bananita Dolphinita): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- bananito (Bananito): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- bananito-bandito (Bananito Bandito): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- bandito-axolito (Bandito Axolito): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- bandito-bobritto (Bandito Bobritto): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- baskito (Baskito): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- bearito-cabinito (Bearito Cabinito): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- bee-loco (Bee Loco): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- belula-beluga (Belula Beluga): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- berenjello-angello (Berenjello Angello): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- berryno (Berryno): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- bisonte-giuppitere (Bisonte Giuppitere): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- blackhole-goat (Blackhole Goat): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- blueberrinni-octopusini (Blueberrinni Octopusini): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- boatito-auratito (Boatito Auratito): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- boba-panda (Boba Panda): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- bombardini-tortinii (Bombardini Tortinii): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- bombardiro-crocodilo (Bombardiro Crocodilo): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- bombardiro-vaccariro (Bombardiro Vaccariro): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- bombombini-gusini (Bombombini Gusini): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- boneca-ambalabu (Boneca Ambalabu): purchaseCost=5000, baseIncomePerSecond=40, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- boppin-bunny (Boppin Bunny): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- brainrot-god-lucky-block (Brainrot God Lucky Block): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- brasilini-berimbini (Brasilini Berimbini): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- brr-brr-patapim (Brr Brr Patapim): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- brr-es-teh-patipum (Brr es Teh Patipum): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- brri-brri-bicus-dicus-bombicus (Brri Brri Bicus Dicus Bombicus): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- brunito-marsito (Brunito Marsito): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- brutto-gialutto (Brutto Gialutto): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- bucketoro (Bucketoro): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- buho-de-fuego (Buho de Fuego): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- buho-de-noelo (Buho de Noelo): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- buho-de-volto (Buho de Volto): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- buho-del-cielo (Buho del Cielo): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- bulbito-bandito-traktorito (Bulbito Bandito Traktorito): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- bunito-bunito-spinito (Bunito Bunito Spinito): purchaseCost=900000000, baseIncomePerSecond=3000000, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- bunny-and-eggy (Bunny and Eggy): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- bunny-bunny-bunny-sahur (Bunny Bunny Bunny Sahur): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- bunny-tralala (Bunny Tralala): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- bunnyman (Bunnyman): purchaseCost=500000000, baseIncomePerSecond=1500000, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- buntteo (Buntteo): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- burbaloni-loliloli (Burbaloni Loliloli): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- burguro-and-fryuro (Burguro And Fryuro): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- burrito-bandito (Burrito Bandito): purchaseCost=850000000, baseIncomePerSecond=4000000, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- cacasito-satalito (Cacasito Satalito): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- cachorrito-melonito (Cachorrito Melonito): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- cacto-hipopotamo (Cacto Hipopotamo): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- camera-ramena (Camera Ramena): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- capi-taco (Capi Taco): purchaseCost=31000000, baseIncomePerSecond=155000, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- capitano-gullini (Capitano Gullini): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- capitano-moby (Capitano Moby): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- cappuccino-assassino (Cappuccino Assassino): purchaseCost=10000, baseIncomePerSecond=75, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- cappuccino-clownino (Cappuccino Clownino): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- caramello-filtrello (Caramello Filtrello): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- carloo (Carloo): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- carrotini-brainini (Carrotini Brainini): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- cash-or-card (Cash or Card): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- cavallo-virtuoso (Cavallo Virtuoso): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- caylusaurus (Caylusaurus): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- celestial-pegasus (Celestial Pegasus): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- celularcini-viciosini (Celularcini Viciosini): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- centrucci-nuclucci (Centrucci Nuclucci): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- cerberus (Cerberus): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=1415186, demand=high, existCount=null, sources=1, verifiedAt=2026-06-30, modalShouldFetchMerged=sim
+- chachechi (Chachechi): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- chef-crabracadabra (Chef Crabracadabra): purchaseCost=150000, baseIncomePerSecond=600, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- chicleteira-bicicleteira (Chicleteira Bicicleteira): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- chicleteira-cupideira (Chicleteira Cupideira): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- chicleteira-noelteira (Chicleteira Noelteira): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- chicleteira-surfeiteira (Chicleteira Surfeiteira): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- chicleteirina-bicicleteirina (Chicleteirina Bicicleteirina): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- chihuanini-taconini (Chihuanini Taconini): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- chill-puppy (Chill Puppy): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- chillin-chili (Chillin Chili): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- chimnino (Chimnino): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- chimpanzini-bananini (Chimpanzini Bananini): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- chimpanzini-spiderini (Chimpanzini Spiderini): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- chipso-and-queso (Chipso and Queso): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- chocco-bunny (Chocco Bunny): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- chrismasmamat (Chrismasmamat): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- churrito-bunnito (Churrito Bunnito): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- cigno-fulgoro (Cigno Fulgoro): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- clickerino-crabo (Clickerino Crabo): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- cloverat-clapat (Cloverat Clapat): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- clovkur-kurkur (Clovkur Kurkur): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- coco-and-mango (Coco and Mango): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- cocoa-assassino (Cocoa Assassino): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- cocofanto-elefanto (Cocofanto Elefanto): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- cocosini-mama (Cocosini Mama): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- cocoteddy (Cocoteddy): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- coffin-tung-tung-tung-sahur (Coffin Tung Tung Tung Sahur): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- cola-cat (Cola Cat): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- combinasion-disambiguation (Combinasion (Disambiguation)): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- cooki-and-milki (Cooki and Milki): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- corn-corn-corn-sahur (Corn Corn Corn Sahur): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- crabbo-limonetta (Crabbo Limonetta): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- craburger (Craburger): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- cuadramat-and-pakrahmatmamat (Cuadramat and Pakrahmatmamat): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- cupcake-koala (Cupcake Koala): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- cupid-cupid-sahur (Cupid Cupid Sahur): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- cupid-hotspot (Cupid Hotspot): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- digi-narwhal (Digi Narwhal): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=15500, demand=high, existCount=null, sources=1, verifiedAt=2026-06-30, modalShouldFetchMerged=sim
+- divino-platypio (Divino Platypio): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- dj-panda (DJ Panda): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- doi-doi-do (Doi Doi Do): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- dolphini-jetskini (Dolphini Jetskini): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- donkeyturbo-express (Donkeyturbo Express): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- dragon-aquanini (Dragon Aquanini): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- dragon-cannelloni (Dragon Cannelloni): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- dragon-gingerini (Dragon Gingerini): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- dug-dug-dug (Dug dug dug): purchaseCost=45500000, baseIncomePerSecond=255000, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=nao
+- duggy-bros (Duggy Bros): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- dul-dul-dul (Dul Dul Dul): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- dumborino-miracello (Dumborino Miracello): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- duo-brainrots (Duo Brainrots): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- easter-easter-easter-sahur (Easter Easter Easter Sahur): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- eggdin-egg-egg-dun (Eggdin Egg Egg Dun): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- eid-eid-eid-sahur (Eid Eid Eid Sahur): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- electro-quacko (Electro Quacko): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- elefanto-frigo (Elefanto Frigo): purchaseCost=4600000, baseIncomePerSecond=14000, communityTradeValue=112500, demand=medium, existCount=null, sources=1, verifiedAt=2026-06-30, modalShouldFetchMerged=nao
+- esok-goala (Esok Goala): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- esok-sekolah (Esok Sekolah): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- espresso-signora (Espresso Signora): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- eviledon (Eviledon): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- extinct-ballerina (Extinct Ballerina): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- extinct-matteo (Extinct Matteo): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- extinct-tralalero (Extinct Tralalero): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- festive-67 (Festive 67): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- fishboard (Fishboard): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- fishino-clownino (Fishino Clownino): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- fizzy-soda (Fizzy Soda): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- flancito (Flancito): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- flappin-clover (Flappin Clover): purchaseCost=42, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- flipa-sandala (Flipa Sandala): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- flippo-marino (Flippo Marino): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- fluriflura (Fluriflura): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- fortunu-and-cashuru (Fortunu and Cashuru): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- foxini-lanternini (Foxini Lanternini): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=2500, demand=high, existCount=null, sources=1, verifiedAt=2026-06-30, modalShouldFetchMerged=sim
+- fragola-la-la-la (Fragola La La La): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- fragrama-and-chocrama (Fragrama and Chocrama): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- frankentteo (Frankentteo): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- frigo-camelo (Frigo Camelo): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- frio-ninja (Frio Ninja): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- frogato-pirato (Frogato Pirato): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- frogo-elfo (Frogo Elfo): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- frullato-framingo (Frullato Framingo): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- futbolini-skatini (Futbolini Skatini): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- ganganzelli-trulala (Ganganzelli Trulala): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- gangster-footera (Gangster Footera): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- garama-and-madundung (Garama and Madundung): purchaseCost=10000000000, baseIncomePerSecond=50000000, communityTradeValue=550, demand=high, existCount=null, sources=1, verifiedAt=2026-06-30, modalShouldFetchMerged=nao
+- gato-celesto (Gato Celesto): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- gattatino-neonino (Gattatino Neonino): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- gattatino-nyanino (Gattatino Nyanino): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- gattito-tacoto (Gattito Tacoto): purchaseCost=32500000, baseIncomePerSecond=165000, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- gelato-lumacho (Gelato Lumacho): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- giftini-spyderini (Giftini Spyderini): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- ginger-cisterna (Ginger Cisterna): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- ginger-gerat (Ginger Gerat): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- ginger-globo (Ginger Globo): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- girafa-celestre (Girafa Celestre): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- girafini-raftini (Girafini Raftini): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- glaciator (Glaciator): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- globa-steppa (Globa Steppa): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- glorbo-fruttodrillo (Glorbo Fruttodrillo): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- goat (GOAT): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- gobblino-uniciclino (Gobblino Uniciclino): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- gold-elf (Gold Elf): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- gold-gold-gold (Gold Gold Gold): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- gorillo-subwoofero (Gorillo Subwoofero): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- gorillo-watermelondrillo (Gorillo Watermelondrillo): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- graipuss-medussi (Graipuss Medussi): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- granchiello-spiritell (Granchiello Spiritell): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- granny (Granny): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- griffin (Griffin): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=7542857, demand=very_low, existCount=null, sources=1, verifiedAt=2026-06-30, modalShouldFetchMerged=sim
+- guerriro-digitale (Guerriro Digitale): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- guest-666 (Guest 666): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim
+- gym-bros (Gym Bros): purchaseCost=null, baseIncomePerSecond=null, communityTradeValue=null, demand=null, existCount=null, sources=0, verifiedAt=2026-06-30T20:52:31.428Z, modalShouldFetchMerged=sim

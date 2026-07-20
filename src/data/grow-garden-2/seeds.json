@@ -1,0 +1,903 @@
+{
+  "dataVersion": "2026-07-01-seed-images-1",
+  "updatedAt": "2026-07-01T00:00:00.000Z",
+  "seeds": [
+    {
+      "slug": "carrot",
+      "name": "Carrot",
+      "image": "/assets/grow-garden-2/seeds/seed-placeholder.webp",
+      "rarity": "Common",
+      "purchasePrice": 1,
+      "currency": "Sheckles",
+      "stockMin": 3,
+      "stockMax": 4,
+      "stockChance": 100,
+      "obtainable": true,
+      "obtainMethod": "seed_shop",
+      "packName": null,
+      "packChance": null,
+      "description": "Semente básica do Seed Shop, vendida em pequenas quantidades para começar o seu jardim.",
+      "sources": [
+        {
+          "name": "Relatório inicial de Seed Shop",
+          "page": "Grow a Garden 2 Seed Shop",
+          "verifiedAt": "2026-06-30"
+        }
+      ],
+      "verifiedAt": "2026-06-30",
+      "confidence": "confirmed",
+      "status": "confirmed",
+      "imageStatus": "pending"
+    },
+    {
+      "slug": "strawberry",
+      "name": "Strawberry",
+      "image": "/assets/grow-garden-2/seeds/seed-placeholder.webp",
+      "rarity": "Common",
+      "purchasePrice": 10,
+      "currency": "Sheckles",
+      "stockMin": 4,
+      "stockMax": 6,
+      "stockChance": 100,
+      "obtainable": true,
+      "obtainMethod": "seed_shop",
+      "packName": null,
+      "packChance": null,
+      "description": "Fruta clássica do Seed Shop com custo baixo e alta disponibilidade.",
+      "sources": [
+        {
+          "name": "Relatório inicial de Seed Shop",
+          "page": "Grow a Garden 2 Seed Shop",
+          "verifiedAt": "2026-06-30"
+        }
+      ],
+      "verifiedAt": "2026-06-30",
+      "confidence": "confirmed",
+      "status": "confirmed",
+      "imageStatus": "pending"
+    },
+    {
+      "slug": "blueberry",
+      "name": "Blueberry",
+      "image": "/assets/grow-garden-2/seeds/seed-placeholder.webp",
+      "rarity": "Common",
+      "purchasePrice": 25,
+      "currency": "Sheckles",
+      "stockMin": 1,
+      "stockMax": 2,
+      "stockChance": 100,
+      "obtainable": true,
+      "obtainMethod": "seed_shop",
+      "packName": null,
+      "packChance": null,
+      "description": "Semente doce, encontrada com frequência nas prateleiras da loja.",
+      "sources": [
+        {
+          "name": "Relatório inicial de Seed Shop",
+          "page": "Grow a Garden 2 Seed Shop",
+          "verifiedAt": "2026-06-30"
+        }
+      ],
+      "verifiedAt": "2026-06-30",
+      "confidence": "confirmed",
+      "status": "confirmed",
+      "imageStatus": "pending"
+    },
+    {
+      "slug": "tulip",
+      "name": "Tulip",
+      "image": "/assets/grow-garden-2/seeds/tulip.webp",
+      "rarity": "Uncommon",
+      "purchasePrice": 40,
+      "currency": "Sheckles",
+      "stockMin": 2,
+      "stockMax": 3,
+      "stockChance": 95,
+      "obtainable": true,
+      "obtainMethod": "seed_shop",
+      "packName": null,
+      "packChance": null,
+      "description": "Flor vibrante disponível no Seed Shop com boa taxa de estoque.",
+      "sources": [
+        {
+          "name": "Relatório inicial de Seed Shop",
+          "page": "Grow a Garden 2 Seed Shop",
+          "verifiedAt": "2026-06-30"
+        }
+      ],
+      "verifiedAt": "2026-06-30",
+      "confidence": "confirmed",
+      "status": "confirmed",
+      "imageStatus": "real"
+    },
+    {
+      "slug": "tomato",
+      "name": "Tomato",
+      "image": "/assets/grow-garden-2/seeds/tomato.webp",
+      "rarity": "Uncommon",
+      "purchasePrice": 200,
+      "currency": "Sheckles",
+      "stockMin": 1,
+      "stockMax": 3,
+      "stockChance": 92,
+      "obtainable": true,
+      "obtainMethod": "seed_shop",
+      "packName": null,
+      "packChance": null,
+      "description": "Semente versátil mostrada frequentemente na loja com preço acessível.",
+      "sources": [
+        {
+          "name": "Relatório inicial de Seed Shop",
+          "page": "Grow a Garden 2 Seed Shop",
+          "verifiedAt": "2026-06-30"
+        }
+      ],
+      "verifiedAt": "2026-06-30",
+      "confidence": "confirmed",
+      "status": "confirmed",
+      "imageStatus": "real"
+    },
+    {
+      "slug": "apple",
+      "name": "Apple",
+      "image": "/assets/grow-garden-2/seeds/apple.webp",
+      "rarity": "Uncommon",
+      "purchasePrice": 400,
+      "currency": "Sheckles",
+      "stockMin": 1,
+      "stockMax": 2,
+      "stockChance": 88,
+      "obtainable": true,
+      "obtainMethod": "seed_shop",
+      "packName": null,
+      "packChance": null,
+      "description": "Semente clássica com valor moderado e disponibilidade comum na loja.",
+      "sources": [
+        {
+          "name": "Relatório inicial de Seed Shop",
+          "page": "Grow a Garden 2 Seed Shop",
+          "verifiedAt": "2026-06-30"
+        }
+      ],
+      "verifiedAt": "2026-06-30",
+      "confidence": "confirmed",
+      "status": "confirmed",
+      "imageStatus": "real"
+    },
+    {
+      "slug": "bamboo",
+      "name": "Bamboo",
+      "image": "/assets/grow-garden-2/seeds/bamboo.webp",
+      "rarity": "Rare",
+      "purchasePrice": 700,
+      "currency": "Sheckles",
+      "stockMin": 1,
+      "stockMax": 2,
+      "stockChance": 80,
+      "obtainable": true,
+      "obtainMethod": "seed_shop",
+      "packName": null,
+      "packChance": null,
+      "description": "Semente rara com visual exótico e preço moderado na loja.",
+      "sources": [
+        {
+          "name": "Relatório inicial de Seed Shop",
+          "page": "Grow a Garden 2 Seed Shop",
+          "verifiedAt": "2026-06-30"
+        }
+      ],
+      "verifiedAt": "2026-06-30",
+      "confidence": "confirmed",
+      "status": "confirmed",
+      "imageStatus": "real"
+    },
+    {
+      "slug": "corn",
+      "name": "Corn",
+      "image": "/assets/grow-garden-2/seeds/corn.webp",
+      "rarity": "Rare",
+      "purchasePrice": 2500,
+      "currency": "Sheckles",
+      "stockMin": 1,
+      "stockMax": 2,
+      "stockChance": 78,
+      "obtainable": true,
+      "obtainMethod": "seed_shop",
+      "packName": null,
+      "packChance": null,
+      "description": "Semente de milho com preço histórico de mercado e estoque mais restrito.",
+      "sources": [
+        {
+          "name": "Relatório inicial de Seed Shop",
+          "page": "Grow a Garden 2 Seed Shop",
+          "verifiedAt": "2026-06-30"
+        }
+      ],
+      "verifiedAt": "2026-06-30",
+      "confidence": "confirmed",
+      "status": "confirmed",
+      "imageStatus": "real"
+    },
+    {
+      "slug": "cactus",
+      "name": "Cactus",
+      "image": "/assets/grow-garden-2/seeds/cactus.webp",
+      "rarity": "Rare",
+      "purchasePrice": 5000,
+      "currency": "Sheckles",
+      "stockMin": 1,
+      "stockMax": 2,
+      "stockChance": 70,
+      "obtainable": true,
+      "obtainMethod": "seed_shop",
+      "packName": null,
+      "packChance": null,
+      "description": "Semente resistente, vendida em pequenas quantidades por ser um item raro.",
+      "sources": [
+        {
+          "name": "Relatório inicial de Seed Shop",
+          "page": "Grow a Garden 2 Seed Shop",
+          "verifiedAt": "2026-06-30"
+        }
+      ],
+      "verifiedAt": "2026-06-30",
+      "confidence": "confirmed",
+      "status": "confirmed",
+      "imageStatus": "real"
+    },
+    {
+      "slug": "pineapple",
+      "name": "Pineapple",
+      "image": "/assets/grow-garden-2/seeds/seed-placeholder.webp",
+      "rarity": "Rare",
+      "purchasePrice": 10000,
+      "currency": "Sheckles",
+      "stockMin": 1,
+      "stockMax": 1,
+      "stockChance": 65,
+      "obtainable": true,
+      "obtainMethod": "seed_shop",
+      "packName": null,
+      "packChance": null,
+      "description": "Semente tropical rara, vendida em exclusividade no Seed Shop.",
+      "sources": [
+        {
+          "name": "Relatório inicial de Seed Shop",
+          "page": "Grow a Garden 2 Seed Shop",
+          "verifiedAt": "2026-06-30"
+        }
+      ],
+      "verifiedAt": "2026-06-30",
+      "confidence": "confirmed",
+      "status": "confirmed",
+      "imageStatus": "pending"
+    },
+    {
+      "slug": "mushroom",
+      "name": "Mushroom",
+      "image": "/assets/grow-garden-2/seeds/mushroom.webp",
+      "rarity": "Epic",
+      "purchasePrice": 15000,
+      "currency": "Sheckles",
+      "stockMin": 1,
+      "stockMax": 2,
+      "stockChance": 60,
+      "obtainable": true,
+      "obtainMethod": "seed_shop",
+      "packName": null,
+      "packChance": null,
+      "description": "Semente épica encontrada com menos frequência e preço mais alto.",
+      "sources": [
+        {
+          "name": "Relatório inicial de Seed Shop",
+          "page": "Grow a Garden 2 Seed Shop",
+          "verifiedAt": "2026-06-30"
+        }
+      ],
+      "verifiedAt": "2026-06-30",
+      "confidence": "confirmed",
+      "status": "confirmed",
+      "imageStatus": "real"
+    },
+    {
+      "slug": "green-bean",
+      "name": "Green Bean",
+      "image": "/assets/grow-garden-2/seeds/green-bean.webp",
+      "rarity": "Epic",
+      "purchasePrice": 20000,
+      "currency": "Sheckles",
+      "stockMin": 1,
+      "stockMax": 1,
+      "stockChance": 55,
+      "obtainable": true,
+      "obtainMethod": "seed_shop",
+      "packName": null,
+      "packChance": null,
+      "description": "Semente nutritiva de raridade épica com estoque reduzido.",
+      "sources": [
+        {
+          "name": "Relatório inicial de Seed Shop",
+          "page": "Grow a Garden 2 Seed Shop",
+          "verifiedAt": "2026-06-30"
+        }
+      ],
+      "verifiedAt": "2026-06-30",
+      "confidence": "confirmed",
+      "status": "confirmed",
+      "imageStatus": "real"
+    },
+    {
+      "slug": "banana",
+      "name": "Banana",
+      "image": "/assets/grow-garden-2/seeds/banana.webp",
+      "rarity": "Epic",
+      "purchasePrice": 30000,
+      "currency": "Sheckles",
+      "stockMin": 1,
+      "stockMax": 2,
+      "stockChance": 54,
+      "obtainable": true,
+      "obtainMethod": "seed_shop",
+      "packName": null,
+      "packChance": null,
+      "description": "Semente doce de classe épica disponível em quantidade limitada.",
+      "sources": [
+        {
+          "name": "Relatório inicial de Seed Shop",
+          "page": "Grow a Garden 2 Seed Shop",
+          "verifiedAt": "2026-06-30"
+        }
+      ],
+      "verifiedAt": "2026-06-30",
+      "confidence": "confirmed",
+      "status": "confirmed",
+      "imageStatus": "real"
+    },
+    {
+      "slug": "grape",
+      "name": "Grape",
+      "image": "/assets/grow-garden-2/seeds/grape.webp",
+      "rarity": "Epic",
+      "purchasePrice": 50000,
+      "currency": "Sheckles",
+      "stockMin": 1,
+      "stockMax": 1,
+      "stockChance": 48,
+      "obtainable": true,
+      "obtainMethod": "seed_shop",
+      "packName": null,
+      "packChance": null,
+      "description": "Semente de uva com raridade épica e preço intermediário.",
+      "sources": [
+        {
+          "name": "Relatório inicial de Seed Shop",
+          "page": "Grow a Garden 2 Seed Shop",
+          "verifiedAt": "2026-06-30"
+        }
+      ],
+      "verifiedAt": "2026-06-30",
+      "confidence": "confirmed",
+      "status": "confirmed",
+      "imageStatus": "real"
+    },
+    {
+      "slug": "coconut",
+      "name": "Coconut",
+      "image": "/assets/grow-garden-2/seeds/coconut.webp",
+      "rarity": "Epic",
+      "purchasePrice": null,
+      "currency": "Sheckles",
+      "priceMin": 80000,
+      "priceMax": 150000,
+      "stockMin": 1,
+      "stockMax": 1,
+      "stockChance": 40,
+      "obtainable": true,
+      "obtainMethod": "seed_shop",
+      "packName": null,
+      "packChance": null,
+      "description": "Semente de coco com valor ainda em verificação ou mudança recente.",
+      "sources": [
+        {
+          "name": "Relatório inicial de Seed Shop",
+          "page": "Grow a Garden 2 Seed Shop",
+          "verifiedAt": "2026-06-30"
+        }
+      ],
+      "verifiedAt": "2026-06-30",
+      "confidence": "conflicting",
+      "status": "conflicting",
+      "imageStatus": "real"
+    },
+    {
+      "slug": "mango",
+      "name": "Mango",
+      "image": "/assets/grow-garden-2/seeds/mango.webp",
+      "rarity": "Epic",
+      "purchasePrice": 300000,
+      "currency": "Sheckles",
+      "stockMin": 1,
+      "stockMax": 1,
+      "stockChance": 35,
+      "obtainable": true,
+      "obtainMethod": "seed_shop",
+      "packName": null,
+      "packChance": null,
+      "description": "Semente tropical de alto valor e estoque bem restrito.",
+      "sources": [
+        {
+          "name": "Relatório inicial de Seed Shop",
+          "page": "Grow a Garden 2 Seed Shop",
+          "verifiedAt": "2026-06-30"
+        }
+      ],
+      "verifiedAt": "2026-06-30",
+      "confidence": "confirmed",
+      "status": "confirmed",
+      "imageStatus": "real"
+    },
+    {
+      "slug": "dragon-fruit",
+      "name": "Dragon Fruit",
+      "image": "/assets/grow-garden-2/seeds/seed-placeholder.webp",
+      "rarity": "Legendary",
+      "purchasePrice": 120000,
+      "currency": "Sheckles",
+      "stockMin": 1,
+      "stockMax": 1,
+      "stockChance": 30,
+      "obtainable": true,
+      "obtainMethod": "seed_shop",
+      "packName": null,
+      "packChance": null,
+      "description": "Fruta lendária disponível em estoque muito reduzido.",
+      "sources": [
+        {
+          "name": "Relatório inicial de Seed Shop",
+          "page": "Grow a Garden 2 Seed Shop",
+          "verifiedAt": "2026-06-30"
+        }
+      ],
+      "verifiedAt": "2026-06-30",
+      "confidence": "confirmed",
+      "status": "confirmed",
+      "imageStatus": "pending"
+    },
+    {
+      "slug": "acorn",
+      "name": "Acorn",
+      "image": "/assets/grow-garden-2/seeds/seed-placeholder.webp",
+      "rarity": "Legendary",
+      "purchasePrice": 700000,
+      "currency": "Sheckles",
+      "stockMin": 1,
+      "stockMax": 1,
+      "stockChance": 25,
+      "obtainable": true,
+      "obtainMethod": "seed_shop",
+      "packName": null,
+      "packChance": null,
+      "description": "Semente lendária com preço elevado e disponibilidade limitada.",
+      "sources": [
+        {
+          "name": "Relatório inicial de Seed Shop",
+          "page": "Grow a Garden 2 Seed Shop",
+          "verifiedAt": "2026-06-30"
+        }
+      ],
+      "verifiedAt": "2026-06-30",
+      "confidence": "confirmed",
+      "status": "confirmed",
+      "imageStatus": "pending"
+    },
+    {
+      "slug": "cherry",
+      "name": "Cherry",
+      "image": "/assets/grow-garden-2/seeds/seed-placeholder.webp",
+      "rarity": "Legendary",
+      "purchasePrice": null,
+      "currency": "Sheckles",
+      "priceMin": 900000,
+      "priceMax": 1200000,
+      "stockMin": 1,
+      "stockMax": 1,
+      "stockChance": 22,
+      "obtainable": true,
+      "obtainMethod": "seed_shop",
+      "packName": null,
+      "packChance": null,
+      "description": "Semente lendária cujo preço precisa de verificação adicional.",
+      "sources": [
+        {
+          "name": "Relatório inicial de Seed Shop",
+          "page": "Grow a Garden 2 Seed Shop",
+          "verifiedAt": "2026-06-30"
+        }
+      ],
+      "verifiedAt": "2026-06-30",
+      "confidence": "conflicting",
+      "status": "conflicting",
+      "imageStatus": "pending"
+    },
+    {
+      "slug": "sunflower",
+      "name": "Sunflower",
+      "image": "/assets/grow-garden-2/seeds/seed-placeholder.webp",
+      "rarity": "Legendary",
+      "purchasePrice": 5000000,
+      "currency": "Sheckles",
+      "stockMin": 1,
+      "stockMax": 1,
+      "stockChance": 18,
+      "obtainable": true,
+      "obtainMethod": "seed_shop",
+      "packName": null,
+      "packChance": null,
+      "description": "Semente de raridade lendária com preço alto e estoque muito limitado.",
+      "sources": [
+        {
+          "name": "Relatório inicial de Seed Shop",
+          "page": "Grow a Garden 2 Seed Shop",
+          "verifiedAt": "2026-06-30"
+        }
+      ],
+      "verifiedAt": "2026-06-30",
+      "confidence": "confirmed",
+      "status": "confirmed",
+      "imageStatus": "pending"
+    },
+    {
+      "slug": "venus-fly-trap",
+      "name": "Venus Fly Trap",
+      "image": "/assets/grow-garden-2/seeds/seed-placeholder.webp",
+      "rarity": "Mythic",
+      "purchasePrice": 7000000,
+      "currency": "Sheckles",
+      "stockMin": 1,
+      "stockMax": 1,
+      "stockChance": 15,
+      "obtainable": true,
+      "obtainMethod": "seed_shop",
+      "packName": null,
+      "packChance": null,
+      "description": "Planta carnívora mítica com disponibilidade muito reduzida.",
+      "sources": [
+        {
+          "name": "Relatório inicial de Seed Shop",
+          "page": "Grow a Garden 2 Seed Shop",
+          "verifiedAt": "2026-06-30"
+        }
+      ],
+      "verifiedAt": "2026-06-30",
+      "confidence": "confirmed",
+      "status": "confirmed",
+      "imageStatus": "pending"
+    },
+    {
+      "slug": "pomegranate",
+      "name": "Pomegranate",
+      "image": "/assets/grow-garden-2/seeds/seed-placeholder.webp",
+      "rarity": "Mythic",
+      "purchasePrice": 12000000,
+      "currency": "Sheckles",
+      "stockMin": 1,
+      "stockMax": 1,
+      "stockChance": 12,
+      "obtainable": true,
+      "obtainMethod": "seed_shop",
+      "packName": null,
+      "packChance": null,
+      "description": "Semente mítica sofisticada, vendida em estoque extremamente limitado.",
+      "sources": [
+        {
+          "name": "Relatório inicial de Seed Shop",
+          "page": "Grow a Garden 2 Seed Shop",
+          "verifiedAt": "2026-06-30"
+        }
+      ],
+      "verifiedAt": "2026-06-30",
+      "confidence": "confirmed",
+      "status": "confirmed",
+      "imageStatus": "pending"
+    },
+    {
+      "slug": "poison-apple",
+      "name": "Poison Apple",
+      "image": "/assets/grow-garden-2/seeds/seed-placeholder.webp",
+      "rarity": "Mythic",
+      "purchasePrice": 25000000,
+      "currency": "Sheckles",
+      "stockMin": 1,
+      "stockMax": 1,
+      "stockChance": 10,
+      "obtainable": true,
+      "obtainMethod": "seed_shop",
+      "packName": null,
+      "packChance": null,
+      "description": "Semente venenosa de alto valor e oferta quase exclusiva.",
+      "sources": [
+        {
+          "name": "Relatório inicial de Seed Shop",
+          "page": "Grow a Garden 2 Seed Shop",
+          "verifiedAt": "2026-06-30"
+        }
+      ],
+      "verifiedAt": "2026-06-30",
+      "confidence": "confirmed",
+      "status": "confirmed",
+      "imageStatus": "pending"
+    },
+    {
+      "slug": "venom-spitter",
+      "name": "Venom Spitter",
+      "image": "/assets/grow-garden-2/seeds/seed-placeholder.webp",
+      "rarity": "Mythic",
+      "purchasePrice": 30000000,
+      "currency": "Sheckles",
+      "stockMin": 1,
+      "stockMax": 1,
+      "stockChance": 8,
+      "obtainable": true,
+      "obtainMethod": "seed_shop",
+      "packName": null,
+      "packChance": null,
+      "description": "Semente mítica com preço muito alto e baixa chance de estoque.",
+      "sources": [
+        {
+          "name": "Relatório inicial de Seed Shop",
+          "page": "Grow a Garden 2 Seed Shop",
+          "verifiedAt": "2026-06-30"
+        }
+      ],
+      "verifiedAt": "2026-06-30",
+      "confidence": "confirmed",
+      "status": "confirmed",
+      "imageStatus": "pending"
+    },
+    {
+      "slug": "briar-rose",
+      "name": "Briar Rose",
+      "image": "/assets/grow-garden-2/seeds/seed-placeholder.webp",
+      "rarity": "Mythic",
+      "purchasePrice": 50000000,
+      "currency": "Sheckles",
+      "stockMin": 0,
+      "stockMax": 0,
+      "stockChance": 0,
+      "obtainable": false,
+      "obtainMethod": "seed_shop",
+      "packName": null,
+      "packChance": null,
+      "description": "Semente mítica possivelmente indisponível, mantida na base para auditoria.",
+      "sources": [
+        {
+          "name": "Relatório inicial de Seed Shop",
+          "page": "Grow a Garden 2 Seed Shop",
+          "verifiedAt": "2026-06-30"
+        }
+      ],
+      "verifiedAt": "2026-06-30",
+      "confidence": "conflicting",
+      "status": "conflicting",
+      "imageStatus": "pending"
+    },
+    {
+      "slug": "moon-bloom",
+      "name": "Moon Bloom",
+      "image": "/assets/grow-garden-2/seeds/seed-placeholder.webp",
+      "rarity": "Super",
+      "purchasePrice": 65000000,
+      "currency": "Sheckles",
+      "stockMin": 1,
+      "stockMax": 1,
+      "stockChance": 5,
+      "obtainable": true,
+      "obtainMethod": "seed_shop",
+      "packName": null,
+      "packChance": null,
+      "description": "Semente super rara que aparece em eventos ou restocks especiais.",
+      "sources": [
+        {
+          "name": "Relatório inicial de Seed Shop",
+          "page": "Grow a Garden 2 Seed Shop",
+          "verifiedAt": "2026-06-30"
+        }
+      ],
+      "verifiedAt": "2026-06-30",
+      "confidence": "confirmed",
+      "status": "confirmed",
+      "imageStatus": "pending"
+    },
+    {
+      "slug": "hypno-bloom",
+      "name": "Hypno Bloom",
+      "image": "/assets/grow-garden-2/seeds/seed-placeholder.webp",
+      "rarity": "Super",
+      "purchasePrice": 90000000,
+      "currency": "Sheckles",
+      "stockMin": 1,
+      "stockMax": 1,
+      "stockChance": 4,
+      "obtainable": true,
+      "obtainMethod": "seed_shop",
+      "packName": null,
+      "packChance": null,
+      "description": "Semente super rara e hipnótica com preço de elite.",
+      "sources": [
+        {
+          "name": "Relatório inicial de Seed Shop",
+          "page": "Grow a Garden 2 Seed Shop",
+          "verifiedAt": "2026-06-30"
+        }
+      ],
+      "verifiedAt": "2026-06-30",
+      "confidence": "confirmed",
+      "status": "confirmed",
+      "imageStatus": "pending"
+    },
+    {
+      "slug": "dragons-breath",
+      "name": "Dragon’s Breath",
+      "image": "/assets/grow-garden-2/seeds/seed-placeholder.webp",
+      "rarity": "Super",
+      "purchasePrice": null,
+      "currency": "Sheckles",
+      "priceMin": 90000000,
+      "priceMax": 140000000,
+      "stockMin": 1,
+      "stockMax": 1,
+      "stockChance": 3,
+      "obtainable": true,
+      "obtainMethod": "seed_shop",
+      "packName": null,
+      "packChance": null,
+      "description": "Semente super rara com valor ainda em verificação de mercado.",
+      "sources": [
+        {
+          "name": "Relatório inicial de Seed Shop",
+          "page": "Grow a Garden 2 Seed Shop",
+          "verifiedAt": "2026-06-30"
+        }
+      ],
+      "verifiedAt": "2026-06-30",
+      "confidence": "conflicting",
+      "status": "conflicting",
+      "imageStatus": "pending"
+    },
+    {
+      "slug": "baby-cactus",
+      "name": "Baby Cactus",
+      "image": "/assets/grow-garden-2/seeds/seed-placeholder.webp",
+      "rarity": "Rare",
+      "purchasePrice": null,
+      "currency": null,
+      "stockMin": null,
+      "stockMax": null,
+      "stockChance": 50,
+      "obtainable": true,
+      "obtainMethod": "seed_pack",
+      "packName": "Ghost Pepper Seed Pack",
+      "packChance": 50,
+      "description": "Semente de pacote com chance de aparecer no Ghost Pepper Seed Pack.",
+      "sources": [
+        {
+          "name": "Ghost Pepper Seed Pack audit",
+          "page": "Grow a Garden 2 Seed Pack",
+          "verifiedAt": "2026-06-30"
+        }
+      ],
+      "verifiedAt": "2026-06-30",
+      "confidence": "unknown",
+      "status": "unknown",
+      "imageStatus": "pending"
+    },
+    {
+      "slug": "horned-melon",
+      "name": "Horned Melon",
+      "image": "/assets/grow-garden-2/seeds/seed-placeholder.webp",
+      "rarity": "Epic",
+      "purchasePrice": null,
+      "currency": null,
+      "stockMin": null,
+      "stockMax": null,
+      "stockChance": 30,
+      "obtainable": true,
+      "obtainMethod": "seed_pack",
+      "packName": "Ghost Pepper Seed Pack",
+      "packChance": 30,
+      "description": "Semente de pacote com chance moderada dentro do Ghost Pepper Seed Pack.",
+      "sources": [
+        {
+          "name": "Ghost Pepper Seed Pack audit",
+          "page": "Grow a Garden 2 Seed Pack",
+          "verifiedAt": "2026-06-30"
+        }
+      ],
+      "verifiedAt": "2026-06-30",
+      "confidence": "unknown",
+      "status": "unknown",
+      "imageStatus": "pending"
+    },
+    {
+      "slug": "glow-mushroom",
+      "name": "Glow Mushroom",
+      "image": "/assets/grow-garden-2/seeds/seed-placeholder.webp",
+      "rarity": "Legendary",
+      "purchasePrice": null,
+      "currency": null,
+      "stockMin": null,
+      "stockMax": null,
+      "stockChance": 15,
+      "obtainable": true,
+      "obtainMethod": "seed_pack",
+      "packName": "Ghost Pepper Seed Pack",
+      "packChance": 15,
+      "description": "Semente lendária com chance baixa dentro do pacote.",
+      "sources": [
+        {
+          "name": "Ghost Pepper Seed Pack audit",
+          "page": "Grow a Garden 2 Seed Pack",
+          "verifiedAt": "2026-06-30"
+        }
+      ],
+      "verifiedAt": "2026-06-30",
+      "confidence": "unknown",
+      "status": "unknown",
+      "imageStatus": "pending"
+    },
+    {
+      "slug": "poison-ivy",
+      "name": "Poison Ivy",
+      "image": "/assets/grow-garden-2/seeds/seed-placeholder.webp",
+      "rarity": "Mythic",
+      "purchasePrice": null,
+      "currency": null,
+      "stockMin": null,
+      "stockMax": null,
+      "stockChance": 4,
+      "obtainable": true,
+      "obtainMethod": "seed_pack",
+      "packName": "Ghost Pepper Seed Pack",
+      "packChance": 4,
+      "description": "Semente mítica muito rara encontrada no Ghost Pepper Seed Pack.",
+      "sources": [
+        {
+          "name": "Ghost Pepper Seed Pack audit",
+          "page": "Grow a Garden 2 Seed Pack",
+          "verifiedAt": "2026-06-30"
+        }
+      ],
+      "verifiedAt": "2026-06-30",
+      "confidence": "unknown",
+      "status": "unknown",
+      "imageStatus": "pending"
+    },
+    {
+      "slug": "ghost-pepper",
+      "name": "Ghost Pepper",
+      "image": "/assets/grow-garden-2/seeds/seed-placeholder.webp",
+      "rarity": "Mythic",
+      "purchasePrice": null,
+      "currency": null,
+      "stockMin": null,
+      "stockMax": null,
+      "stockChance": 1,
+      "obtainable": true,
+      "obtainMethod": "seed_pack",
+      "packName": "Ghost Pepper Seed Pack",
+      "packChance": 1,
+      "description": "Semente de pacote mítica com chance mínima dentro do Ghost Pepper Seed Pack.",
+      "sources": [
+        {
+          "name": "Ghost Pepper Seed Pack audit",
+          "page": "Grow a Garden 2 Seed Pack",
+          "verifiedAt": "2026-06-30"
+        }
+      ],
+      "verifiedAt": "2026-06-30",
+      "confidence": "unknown",
+      "status": "unknown",
+      "imageStatus": "pending"
+    }
+  ]
+}

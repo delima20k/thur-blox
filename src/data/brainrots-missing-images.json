@@ -1,0 +1,37 @@
+[
+  {
+    "brainrotSlug": "flappin-clover",
+    "brainrotName": "Flappin Clover",
+    "wikiSearchUrl": "https://stealabrainrot.fandom.com/api.php?action=query&format=json&origin=*&list=search&srnamespace=0&srlimit=10&srsearch=Flappin%20Clover",
+    "reason": "Imagem nao encontrada",
+    "status": "manual_review"
+  },
+  {
+    "brainrotSlug": "valentine-s-brainrots",
+    "brainrotName": "Valentine's Brainrots",
+    "wikiSearchUrl": "https://stealabrainrot.fandom.com/api.php?action=query&format=json&origin=*&list=search&srnamespace=0&srlimit=10&srsearch=Valentine's%20Brainrots",
+    "reason": "Titulo da pagina nao confirmado como o mesmo Brainrot.",
+    "status": "manual_review"
+  },
+  {
+    "brainrotSlug": "duo-brainrots",
+    "brainrotName": "Duo Brainrots",
+    "wikiSearchUrl": "https://stealabrainrot.fandom.com/api.php?action=query&format=json&origin=*&list=search&srnamespace=0&srlimit=10&srsearch=Duo%20Brainrots",
+    "reason": "Imagem duplicada com outro Brainrot; requer revisao manual",
+    "status": "manual_review"
+  },
+  {
+    "brainrotSlug": "la-karkerkar-combinasion",
+    "brainrotName": "La Karkerkar Combinasion",
+    "wikiSearchUrl": "https://stealabrainrot.fandom.com/api.php?action=query&format=json&origin=*&list=search&srnamespace=0&srlimit=10&srsearch=La%20Karkerkar%20Combinasion",
+    "reason": "Imagem duplicada com outro Brainrot; requer revisao manual",
+    "status": "manual_review"
+  },
+  {
+    "brainrotSlug": "los-sweethearts",
+    "brainrotName": "Los Sweethearts",
+    "wikiSearchUrl": "https://stealabrainrot.fandom.com/api.php?action=query&format=json&origin=*&list=search&srnamespace=0&srlimit=10&srsearch=Los%20Sweethearts",
+    "reason": "Imagem duplicada com outro Brainrot; requer revisao manual",
+    "status": "manual_review"
+  }
+]

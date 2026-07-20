@@ -1,0 +1,492 @@
+[
+  {
+    "id": "normal",
+    "slug": "normal",
+    "name": "Normal",
+    "displayNamePtBr": "Normal",
+    "incomeMultiplier": 1,
+    "estimatedValueMultiplier": 1,
+    "percentageIncrease": 0,
+    "tradeValueMultiplier": null,
+    "obtainable": true,
+    "availability": "normal",
+    "eventName": null,
+    "description": null,
+    "icon": null,
+    "sources": [
+      {
+        "name": "Steal a Brainrot Wiki",
+        "sourceType": "wiki",
+        "url": "https://stealabrainrot.fandom.com/wiki/"
+      }
+    ],
+    "verifiedAt": "2026-06-30",
+    "confidence": "medium",
+    "compatibility": {
+      "compatibleBrainrotSlugs": [],
+      "incompatibleBrainrotSlugs": [],
+      "compatibleRarities": [],
+      "incompatibleRarities": [],
+      "exclusiveWith": []
+    },
+    "active": true,
+    "marketMultiplier": null,
+    "marketMultiplierSource": null,
+    "marketMultiplierVerifiedAt": null
+  },
+  {
+    "id": "gold",
+    "slug": "gold",
+    "name": "Gold",
+    "displayNamePtBr": "Dourado",
+    "incomeMultiplier": 1.25,
+    "estimatedValueMultiplier": 1.25,
+    "percentageIncrease": 25,
+    "tradeValueMultiplier": null,
+    "obtainable": true,
+    "availability": "normal",
+    "eventName": null,
+    "description": null,
+    "icon": null,
+    "sources": [
+      {
+        "name": "Steal a Brainrot Wiki",
+        "sourceType": "wiki",
+        "url": "https://stealabrainrot.fandom.com/wiki/"
+      }
+    ],
+    "verifiedAt": "2026-06-30",
+    "confidence": "medium",
+    "compatibility": {
+      "compatibleBrainrotSlugs": [],
+      "incompatibleBrainrotSlugs": [],
+      "compatibleRarities": [],
+      "incompatibleRarities": [],
+      "exclusiveWith": []
+    },
+    "active": true,
+    "marketMultiplier": null,
+    "marketMultiplierSource": null,
+    "marketMultiplierVerifiedAt": null
+  },
+  {
+    "id": "diamond",
+    "slug": "diamond",
+    "name": "Diamond",
+    "displayNamePtBr": "Diamante",
+    "incomeMultiplier": 1.5,
+    "estimatedValueMultiplier": 1.5,
+    "percentageIncrease": 50,
+    "tradeValueMultiplier": null,
+    "obtainable": true,
+    "availability": "normal",
+    "eventName": null,
+    "description": null,
+    "icon": null,
+    "sources": [
+      {
+        "name": "Steal a Brainrot Wiki",
+        "sourceType": "wiki",
+        "url": "https://stealabrainrot.fandom.com/wiki/"
+      }
+    ],
+    "verifiedAt": "2026-06-30",
+    "confidence": "medium",
+    "compatibility": {
+      "compatibleBrainrotSlugs": [],
+      "incompatibleBrainrotSlugs": [],
+      "compatibleRarities": [],
+      "incompatibleRarities": [],
+      "exclusiveWith": []
+    },
+    "active": true,
+    "marketMultiplier": null,
+    "marketMultiplierSource": null,
+    "marketMultiplierVerifiedAt": null
+  },
+  {
+    "id": "bloodrot",
+    "slug": "bloodrot",
+    "name": "Bloodrot",
+    "displayNamePtBr": "Bloodrot",
+    "incomeMultiplier": 2,
+    "estimatedValueMultiplier": 2,
+    "percentageIncrease": 100,
+    "tradeValueMultiplier": null,
+    "obtainable": true,
+    "availability": "event",
+    "eventName": null,
+    "description": null,
+    "icon": null,
+    "sources": [
+      {
+        "name": "Steal a Brainrot Wiki",
+        "sourceType": "wiki",
+        "url": "https://stealabrainrot.fandom.com/wiki/"
+      }
+    ],
+    "verifiedAt": "2026-06-30",
+    "confidence": "medium",
+    "compatibility": {
+      "compatibleBrainrotSlugs": [],
+      "incompatibleBrainrotSlugs": [],
+      "compatibleRarities": [],
+      "incompatibleRarities": [],
+      "exclusiveWith": []
+    },
+    "active": true,
+    "marketMultiplier": null,
+    "marketMultiplierSource": null,
+    "marketMultiplierVerifiedAt": null
+  },
+  {
+    "id": "candy",
+    "slug": "candy",
+    "name": "Candy",
+    "displayNamePtBr": "Candy",
+    "incomeMultiplier": 4,
+    "estimatedValueMultiplier": 4,
+    "percentageIncrease": 300,
+    "tradeValueMultiplier": null,
+    "obtainable": true,
+    "availability": "event",
+    "eventName": null,
+    "description": null,
+    "icon": null,
+    "sources": [
+      {
+        "name": "Steal a Brainrot Wiki",
+        "sourceType": "wiki",
+        "url": "https://stealabrainrot.fandom.com/wiki/"
+      }
+    ],
+    "verifiedAt": "2026-06-30",
+    "confidence": "medium",
+    "compatibility": {
+      "compatibleBrainrotSlugs": [],
+      "incompatibleBrainrotSlugs": [],
+      "compatibleRarities": [],
+      "incompatibleRarities": [],
+      "exclusiveWith": []
+    },
+    "active": true,
+    "marketMultiplier": null,
+    "marketMultiplierSource": null,
+    "marketMultiplierVerifiedAt": null
+  },
+  {
+    "id": "lava",
+    "slug": "lava",
+    "name": "Lava",
+    "displayNamePtBr": "Lava",
+    "incomeMultiplier": 6,
+    "estimatedValueMultiplier": 6,
+    "percentageIncrease": 500,
+    "tradeValueMultiplier": null,
+    "obtainable": true,
+    "availability": "event",
+    "eventName": null,
+    "description": null,
+    "icon": null,
+    "sources": [
+      {
+        "name": "Steal a Brainrot Wiki",
+        "sourceType": "wiki",
+        "url": "https://stealabrainrot.fandom.com/wiki/"
+      }
+    ],
+    "verifiedAt": "2026-06-30",
+    "confidence": "medium",
+    "compatibility": {
+      "compatibleBrainrotSlugs": [],
+      "incompatibleBrainrotSlugs": [],
+      "compatibleRarities": [],
+      "incompatibleRarities": [],
+      "exclusiveWith": []
+    },
+    "active": true,
+    "marketMultiplier": null,
+    "marketMultiplierSource": null,
+    "marketMultiplierVerifiedAt": null
+  },
+  {
+    "id": "galaxy",
+    "slug": "galaxy",
+    "name": "Galaxy",
+    "displayNamePtBr": "Galaxia",
+    "incomeMultiplier": 7,
+    "estimatedValueMultiplier": 7,
+    "percentageIncrease": 600,
+    "tradeValueMultiplier": null,
+    "obtainable": true,
+    "availability": "event",
+    "eventName": null,
+    "description": null,
+    "icon": null,
+    "sources": [
+      {
+        "name": "Steal a Brainrot Wiki",
+        "sourceType": "wiki",
+        "url": "https://stealabrainrot.fandom.com/wiki/"
+      }
+    ],
+    "verifiedAt": "2026-06-30",
+    "confidence": "medium",
+    "compatibility": {
+      "compatibleBrainrotSlugs": [],
+      "incompatibleBrainrotSlugs": [],
+      "compatibleRarities": [],
+      "incompatibleRarities": [],
+      "exclusiveWith": []
+    },
+    "active": true,
+    "marketMultiplier": null,
+    "marketMultiplierSource": null,
+    "marketMultiplierVerifiedAt": null
+  },
+  {
+    "id": "yin-yang",
+    "slug": "yin-yang",
+    "name": "Yin Yang",
+    "displayNamePtBr": "Yin Yang",
+    "incomeMultiplier": 7.5,
+    "estimatedValueMultiplier": 7.5,
+    "percentageIncrease": 650,
+    "tradeValueMultiplier": null,
+    "obtainable": true,
+    "availability": "event",
+    "eventName": null,
+    "description": null,
+    "icon": null,
+    "sources": [
+      {
+        "name": "Steal a Brainrot Wiki",
+        "sourceType": "wiki",
+        "url": "https://stealabrainrot.fandom.com/wiki/"
+      }
+    ],
+    "verifiedAt": "2026-06-30",
+    "confidence": "medium",
+    "compatibility": {
+      "compatibleBrainrotSlugs": [],
+      "incompatibleBrainrotSlugs": [],
+      "compatibleRarities": [],
+      "incompatibleRarities": [],
+      "exclusiveWith": []
+    },
+    "active": true,
+    "marketMultiplier": null,
+    "marketMultiplierSource": null,
+    "marketMultiplierVerifiedAt": null
+  },
+  {
+    "id": "radioactive",
+    "slug": "radioactive",
+    "name": "Radioactive",
+    "displayNamePtBr": "Radioativo",
+    "incomeMultiplier": 8.5,
+    "estimatedValueMultiplier": 8.5,
+    "percentageIncrease": 750,
+    "tradeValueMultiplier": null,
+    "obtainable": true,
+    "availability": "event",
+    "eventName": null,
+    "description": null,
+    "icon": null,
+    "sources": [
+      {
+        "name": "Steal a Brainrot Wiki",
+        "sourceType": "wiki",
+        "url": "https://stealabrainrot.fandom.com/wiki/"
+      }
+    ],
+    "verifiedAt": "2026-06-30",
+    "confidence": "medium",
+    "compatibility": {
+      "compatibleBrainrotSlugs": [],
+      "incompatibleBrainrotSlugs": [],
+      "compatibleRarities": [],
+      "incompatibleRarities": [],
+      "exclusiveWith": []
+    },
+    "active": true,
+    "marketMultiplier": null,
+    "marketMultiplierSource": null,
+    "marketMultiplierVerifiedAt": null
+  },
+  {
+    "id": "cursed",
+    "slug": "cursed",
+    "name": "Cursed",
+    "displayNamePtBr": "Amaldicoado",
+    "incomeMultiplier": 9,
+    "estimatedValueMultiplier": 9,
+    "percentageIncrease": 800,
+    "tradeValueMultiplier": null,
+    "obtainable": true,
+    "availability": "event",
+    "eventName": null,
+    "description": null,
+    "icon": null,
+    "sources": [
+      {
+        "name": "Steal a Brainrot Wiki",
+        "sourceType": "wiki",
+        "url": "https://stealabrainrot.fandom.com/wiki/"
+      }
+    ],
+    "verifiedAt": "2026-06-30",
+    "confidence": "medium",
+    "compatibility": {
+      "compatibleBrainrotSlugs": [],
+      "incompatibleBrainrotSlugs": [],
+      "compatibleRarities": [],
+      "incompatibleRarities": [],
+      "exclusiveWith": []
+    },
+    "active": true,
+    "marketMultiplier": null,
+    "marketMultiplierSource": null,
+    "marketMultiplierVerifiedAt": null
+  },
+  {
+    "id": "rainbow",
+    "slug": "rainbow",
+    "name": "Rainbow / RGB",
+    "displayNamePtBr": "Arco-iris / RGB",
+    "incomeMultiplier": 10,
+    "estimatedValueMultiplier": 10,
+    "percentageIncrease": 900,
+    "tradeValueMultiplier": null,
+    "obtainable": true,
+    "availability": "normal",
+    "eventName": null,
+    "description": null,
+    "icon": null,
+    "sources": [
+      {
+        "name": "Steal a Brainrot Wiki",
+        "sourceType": "wiki",
+        "url": "https://stealabrainrot.fandom.com/wiki/"
+      }
+    ],
+    "verifiedAt": "2026-06-30",
+    "confidence": "medium",
+    "compatibility": {
+      "compatibleBrainrotSlugs": [],
+      "incompatibleBrainrotSlugs": [],
+      "compatibleRarities": [],
+      "incompatibleRarities": [],
+      "exclusiveWith": []
+    },
+    "active": true,
+    "marketMultiplier": null,
+    "marketMultiplierSource": null,
+    "marketMultiplierVerifiedAt": null
+  },
+  {
+    "id": "divine",
+    "slug": "divine",
+    "name": "Divine",
+    "displayNamePtBr": "Divino",
+    "incomeMultiplier": 10,
+    "estimatedValueMultiplier": 10,
+    "percentageIncrease": 900,
+    "tradeValueMultiplier": null,
+    "obtainable": true,
+    "availability": "event",
+    "eventName": null,
+    "description": null,
+    "icon": null,
+    "sources": [
+      {
+        "name": "Steal a Brainrot Wiki",
+        "sourceType": "wiki",
+        "url": "https://stealabrainrot.fandom.com/wiki/"
+      }
+    ],
+    "verifiedAt": "2026-06-30",
+    "confidence": "medium",
+    "compatibility": {
+      "compatibleBrainrotSlugs": [],
+      "incompatibleBrainrotSlugs": [],
+      "compatibleRarities": [],
+      "incompatibleRarities": [],
+      "exclusiveWith": []
+    },
+    "active": true,
+    "marketMultiplier": null,
+    "marketMultiplierSource": null,
+    "marketMultiplierVerifiedAt": null
+  },
+  {
+    "id": "cyber",
+    "slug": "cyber",
+    "name": "Cyber",
+    "displayNamePtBr": "Cyber",
+    "incomeMultiplier": 11,
+    "estimatedValueMultiplier": 11,
+    "percentageIncrease": 1000,
+    "tradeValueMultiplier": null,
+    "obtainable": true,
+    "availability": "event",
+    "eventName": null,
+    "description": null,
+    "icon": null,
+    "sources": [
+      {
+        "name": "Steal a Brainrot Wiki",
+        "sourceType": "wiki",
+        "url": "https://stealabrainrot.fandom.com/wiki/"
+      }
+    ],
+    "verifiedAt": "2026-06-30",
+    "confidence": "medium",
+    "compatibility": {
+      "compatibleBrainrotSlugs": [],
+      "incompatibleBrainrotSlugs": [],
+      "compatibleRarities": [],
+      "incompatibleRarities": [],
+      "exclusiveWith": []
+    },
+    "active": true,
+    "marketMultiplier": null,
+    "marketMultiplierSource": null,
+    "marketMultiplierVerifiedAt": null
+  },
+  {
+    "id": "phantom",
+    "slug": "phantom",
+    "name": "Phantom",
+    "displayNamePtBr": "Phantom",
+    "incomeMultiplier": 12,
+    "estimatedValueMultiplier": 12,
+    "percentageIncrease": 1100,
+    "tradeValueMultiplier": null,
+    "obtainable": true,
+    "availability": "event",
+    "eventName": null,
+    "description": null,
+    "icon": null,
+    "sources": [
+      {
+        "name": "Steal a Brainrot Wiki",
+        "sourceType": "wiki",
+        "url": "https://stealabrainrot.fandom.com/wiki/"
+      }
+    ],
+    "verifiedAt": "2026-06-30",
+    "confidence": "medium",
+    "compatibility": {
+      "compatibleBrainrotSlugs": [],
+      "incompatibleBrainrotSlugs": [],
+      "compatibleRarities": [],
+      "incompatibleRarities": [],
+      "exclusiveWith": []
+    },
+    "active": true,
+    "marketMultiplier": null,
+    "marketMultiplierSource": null,
+    "marketMultiplierVerifiedAt": null
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "slug": "normal",
+    "name": "Normal",
+    "reason": "Impacto no valor de troca em revisao."
+  },
+  {
+    "slug": "gold",
+    "name": "Gold",
+    "reason": "Impacto no valor de troca em revisao."
+  },
+  {
+    "slug": "diamond",
+    "name": "Diamond",
+    "reason": "Impacto no valor de troca em revisao."
+  },
+  {
+    "slug": "rainbow",
+    "name": "Rainbow",
+    "reason": "Impacto no valor de troca em revisao."
+  },
+  {
+    "slug": "bloodrot",
+    "name": "Bloodrot",
+    "reason": "Impacto no valor de troca em revisao."
+  },
+  {
+    "slug": "candy",
+    "name": "Candy",
+    "reason": "Impacto no valor de troca em revisao."
+  },
+  {
+    "slug": "lava",
+    "name": "Lava",
+    "reason": "Impacto no valor de troca em revisao."
+  },
+  {
+    "slug": "galaxy",
+    "name": "Galaxy",
+    "reason": "Impacto no valor de troca em revisao."
+  },
+  {
+    "slug": "yin-yang",
+    "name": "Yin Yang",
+    "reason": "Impacto no valor de troca em revisao."
+  },
+  {
+    "slug": "radioactive",
+    "name": "Radioactive",
+    "reason": "Impacto no valor de troca em revisao."
+  },
+  {
+    "slug": "cursed",
+    "name": "Cursed",
+    "reason": "Impacto no valor de troca em revisao."
+  },
+  {
+    "slug": "cyber",
+    "name": "Cyber",
+    "reason": "Impacto no valor de troca em revisao."
+  }
+]

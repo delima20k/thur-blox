@@ -1,0 +1,4908 @@
+[
+  {
+    "slug": "1x1x1x1",
+    "name": "1x1x1x1",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "25",
+    "name": "25",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "67",
+    "name": "67",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "abyssaloco",
+    "name": "Abyssaloco",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "agarrini-la-palini",
+    "name": "Agarrini la Palini",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "alessio",
+    "name": "Alessio",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "anpali-babel",
+    "name": "Anpali Babel",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "antonio",
+    "name": "Antonio",
+    "missing": [
+      "existCount"
+    ]
+  },
+  {
+    "slug": "appelini",
+    "name": "Appelini",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "aquanaut",
+    "name": "Aquanaut",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "aquarino",
+    "name": "Aquarino",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "arcadopus",
+    "name": "Arcadopus",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "arcadragon",
+    "name": "Arcadragon",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "astrolero-cervalero",
+    "name": "Astrolero Cervalero",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "avocadini-antilopini",
+    "name": "Avocadini Antilopini",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "avocadini-guffo",
+    "name": "Avocadini Guffo",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "avocadorilla",
+    "name": "Avocadorilla",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "baby-duo-brainrots",
+    "name": "Baby Duo Brainrots",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "bacuru-and-egguru",
+    "name": "Bacuru and Egguru",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "ballerina-cappuccina",
+    "name": "Ballerina Cappuccina",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "ballerina-peppermintina",
+    "name": "Ballerina Peppermintina",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "ballerino-lololo",
+    "name": "Ballerino Lololo",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "bambini-crostini",
+    "name": "Bambini Crostini",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "bambu-bambu-sahur",
+    "name": "Bambu Bambu Sahur",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "bananita-dolphinita",
+    "name": "Bananita Dolphinita",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "bananito",
+    "name": "Bananito",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "bananito-bandito",
+    "name": "Bananito Bandito",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "bandito-axolito",
+    "name": "Bandito Axolito",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "bandito-bobritto",
+    "name": "Bandito Bobritto",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "baskito",
+    "name": "Baskito",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "bearito-cabinito",
+    "name": "Bearito Cabinito",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "bee-loco",
+    "name": "Bee Loco",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "belula-beluga",
+    "name": "Belula Beluga",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "berenjello-angello",
+    "name": "Berenjello Angello",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "berryno",
+    "name": "Berryno",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "bisonte-giuppitere",
+    "name": "Bisonte Giuppitere",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "blackhole-goat",
+    "name": "Blackhole Goat",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "blueberrinni-octopusini",
+    "name": "Blueberrinni Octopusini",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "boatito-auratito",
+    "name": "Boatito Auratito",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "boba-panda",
+    "name": "Boba Panda",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "bombardini-tortinii",
+    "name": "Bombardini Tortinii",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "bombardiro-crocodilo",
+    "name": "Bombardiro Crocodilo",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "bombardiro-vaccariro",
+    "name": "Bombardiro Vaccariro",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "bombombini-gusini",
+    "name": "Bombombini Gusini",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "boneca-ambalabu",
+    "name": "Boneca Ambalabu",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "boppin-bunny",
+    "name": "Boppin Bunny",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "brainrot-god-lucky-block",
+    "name": "Brainrot God Lucky Block",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "brasilini-berimbini",
+    "name": "Brasilini Berimbini",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "brr-brr-patapim",
+    "name": "Brr Brr Patapim",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "brr-es-teh-patipum",
+    "name": "Brr es Teh Patipum",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "brri-brri-bicus-dicus-bombicus",
+    "name": "Brri Brri Bicus Dicus Bombicus",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "brunito-marsito",
+    "name": "Brunito Marsito",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "brutto-gialutto",
+    "name": "Brutto Gialutto",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "bucketoro",
+    "name": "Bucketoro",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "buho-de-fuego",
+    "name": "Buho de Fuego",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "buho-de-noelo",
+    "name": "Buho de Noelo",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "buho-de-volto",
+    "name": "Buho de Volto",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "buho-del-cielo",
+    "name": "Buho del Cielo",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "bulbito-bandito-traktorito",
+    "name": "Bulbito Bandito Traktorito",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "bunito-bunito-spinito",
+    "name": "Bunito Bunito Spinito",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "bunny-and-eggy",
+    "name": "Bunny and Eggy",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "bunny-bunny-bunny-sahur",
+    "name": "Bunny Bunny Bunny Sahur",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "bunny-tralala",
+    "name": "Bunny Tralala",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "bunnyman",
+    "name": "Bunnyman",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "buntteo",
+    "name": "Buntteo",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "burbaloni-loliloli",
+    "name": "Burbaloni Loliloli",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "burguro-and-fryuro",
+    "name": "Burguro And Fryuro",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "burrito-bandito",
+    "name": "Burrito Bandito",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "cacasito-satalito",
+    "name": "Cacasito Satalito",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "cachorrito-melonito",
+    "name": "Cachorrito Melonito",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "cacto-hipopotamo",
+    "name": "Cacto Hipopotamo",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "camera-ramena",
+    "name": "Camera Ramena",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "capi-taco",
+    "name": "Capi Taco",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "capitano-gullini",
+    "name": "Capitano Gullini",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "capitano-moby",
+    "name": "Capitano Moby",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "cappuccino-assassino",
+    "name": "Cappuccino Assassino",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "cappuccino-clownino",
+    "name": "Cappuccino Clownino",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "caramello-filtrello",
+    "name": "Caramello Filtrello",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "carloo",
+    "name": "Carloo",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "carrotini-brainini",
+    "name": "Carrotini Brainini",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "cash-or-card",
+    "name": "Cash or Card",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "cavallo-virtuoso",
+    "name": "Cavallo Virtuoso",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "caylusaurus",
+    "name": "Caylusaurus",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "celestial-pegasus",
+    "name": "Celestial Pegasus",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "celularcini-viciosini",
+    "name": "Celularcini Viciosini",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "centrucci-nuclucci",
+    "name": "Centrucci Nuclucci",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "cerberus",
+    "name": "Cerberus",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "chachechi",
+    "name": "Chachechi",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "chef-crabracadabra",
+    "name": "Chef Crabracadabra",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "chicleteira-bicicleteira",
+    "name": "Chicleteira Bicicleteira",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "chicleteira-cupideira",
+    "name": "Chicleteira Cupideira",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "chicleteira-noelteira",
+    "name": "Chicleteira Noelteira",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "chicleteira-surfeiteira",
+    "name": "Chicleteira Surfeiteira",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "chicleteirina-bicicleteirina",
+    "name": "Chicleteirina Bicicleteirina",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "chihuanini-taconini",
+    "name": "Chihuanini Taconini",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "chill-puppy",
+    "name": "Chill Puppy",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "chillin-chili",
+    "name": "Chillin Chili",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "chimnino",
+    "name": "Chimnino",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "chimpanzini-bananini",
+    "name": "Chimpanzini Bananini",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "chimpanzini-spiderini",
+    "name": "Chimpanzini Spiderini",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "chipso-and-queso",
+    "name": "Chipso and Queso",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "chocco-bunny",
+    "name": "Chocco Bunny",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "chrismasmamat",
+    "name": "Chrismasmamat",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "churrito-bunnito",
+    "name": "Churrito Bunnito",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "cigno-fulgoro",
+    "name": "Cigno Fulgoro",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "clickerino-crabo",
+    "name": "Clickerino Crabo",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "cloverat-clapat",
+    "name": "Cloverat Clapat",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "clovkur-kurkur",
+    "name": "Clovkur Kurkur",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "coco-and-mango",
+    "name": "Coco and Mango",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "cocoa-assassino",
+    "name": "Cocoa Assassino",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "cocofanto-elefanto",
+    "name": "Cocofanto Elefanto",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "cocosini-mama",
+    "name": "Cocosini Mama",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "cocoteddy",
+    "name": "Cocoteddy",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "coffin-tung-tung-tung-sahur",
+    "name": "Coffin Tung Tung Tung Sahur",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "cola-cat",
+    "name": "Cola Cat",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "combinasion-disambiguation",
+    "name": "Combinasion (Disambiguation)",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "cooki-and-milki",
+    "name": "Cooki and Milki",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "corn-corn-corn-sahur",
+    "name": "Corn Corn Corn Sahur",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "crabbo-limonetta",
+    "name": "Crabbo Limonetta",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "craburger",
+    "name": "Craburger",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "cuadramat-and-pakrahmatmamat",
+    "name": "Cuadramat and Pakrahmatmamat",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "cupcake-koala",
+    "name": "Cupcake Koala",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "cupid-cupid-sahur",
+    "name": "Cupid Cupid Sahur",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "cupid-hotspot",
+    "name": "Cupid Hotspot",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "digi-narwhal",
+    "name": "Digi Narwhal",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "divino-platypio",
+    "name": "Divino Platypio",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "dj-panda",
+    "name": "DJ Panda",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "doi-doi-do",
+    "name": "Doi Doi Do",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "dolphini-jetskini",
+    "name": "Dolphini Jetskini",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "donkeyturbo-express",
+    "name": "Donkeyturbo Express",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "dragon-aquanini",
+    "name": "Dragon Aquanini",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "dragon-cannelloni",
+    "name": "Dragon Cannelloni",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "dragon-gingerini",
+    "name": "Dragon Gingerini",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "dug-dug-dug",
+    "name": "Dug dug dug",
+    "missing": [
+      "existCount"
+    ]
+  },
+  {
+    "slug": "duggy-bros",
+    "name": "Duggy Bros",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "dul-dul-dul",
+    "name": "Dul Dul Dul",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "dumborino-miracello",
+    "name": "Dumborino Miracello",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "duo-brainrots",
+    "name": "Duo Brainrots",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "easter-easter-easter-sahur",
+    "name": "Easter Easter Easter Sahur",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "eggdin-egg-egg-dun",
+    "name": "Eggdin Egg Egg Dun",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "eid-eid-eid-sahur",
+    "name": "Eid Eid Eid Sahur",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "electro-quacko",
+    "name": "Electro Quacko",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "elefanto-frigo",
+    "name": "Elefanto Frigo",
+    "missing": [
+      "existCount"
+    ]
+  },
+  {
+    "slug": "esok-goala",
+    "name": "Esok Goala",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "esok-sekolah",
+    "name": "Esok Sekolah",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "espresso-signora",
+    "name": "Espresso Signora",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "eviledon",
+    "name": "Eviledon",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "extinct-ballerina",
+    "name": "Extinct Ballerina",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "extinct-matteo",
+    "name": "Extinct Matteo",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "extinct-tralalero",
+    "name": "Extinct Tralalero",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "festive-67",
+    "name": "Festive 67",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "fishboard",
+    "name": "Fishboard",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "fishino-clownino",
+    "name": "Fishino Clownino",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "fizzy-soda",
+    "name": "Fizzy Soda",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "flancito",
+    "name": "Flancito",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "flappin-clover",
+    "name": "Flappin Clover",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "flipa-sandala",
+    "name": "Flipa Sandala",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "flippo-marino",
+    "name": "Flippo Marino",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "fluriflura",
+    "name": "Fluriflura",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "fortunu-and-cashuru",
+    "name": "Fortunu and Cashuru",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "foxini-lanternini",
+    "name": "Foxini Lanternini",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "fragola-la-la-la",
+    "name": "Fragola La La La",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "fragrama-and-chocrama",
+    "name": "Fragrama and Chocrama",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "frankentteo",
+    "name": "Frankentteo",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "frigo-camelo",
+    "name": "Frigo Camelo",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "frio-ninja",
+    "name": "Frio Ninja",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "frogato-pirato",
+    "name": "Frogato Pirato",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "frogo-elfo",
+    "name": "Frogo Elfo",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "frullato-framingo",
+    "name": "Frullato Framingo",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "futbolini-skatini",
+    "name": "Futbolini Skatini",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "ganganzelli-trulala",
+    "name": "Ganganzelli Trulala",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "gangster-footera",
+    "name": "Gangster Footera",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "garama-and-madundung",
+    "name": "Garama and Madundung",
+    "missing": [
+      "existCount"
+    ]
+  },
+  {
+    "slug": "gato-celesto",
+    "name": "Gato Celesto",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "gattatino-neonino",
+    "name": "Gattatino Neonino",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "gattatino-nyanino",
+    "name": "Gattatino Nyanino",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "gattito-tacoto",
+    "name": "Gattito Tacoto",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "gelato-lumacho",
+    "name": "Gelato Lumacho",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "giftini-spyderini",
+    "name": "Giftini Spyderini",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "ginger-cisterna",
+    "name": "Ginger Cisterna",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "ginger-gerat",
+    "name": "Ginger Gerat",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "ginger-globo",
+    "name": "Ginger Globo",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "girafa-celestre",
+    "name": "Girafa Celestre",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "girafini-raftini",
+    "name": "Girafini Raftini",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "glaciator",
+    "name": "Glaciator",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "globa-steppa",
+    "name": "Globa Steppa",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "glorbo-fruttodrillo",
+    "name": "Glorbo Fruttodrillo",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "goat",
+    "name": "GOAT",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "gobblino-uniciclino",
+    "name": "Gobblino Uniciclino",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "gold-elf",
+    "name": "Gold Elf",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "gold-gold-gold",
+    "name": "Gold Gold Gold",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "gorillo-subwoofero",
+    "name": "Gorillo Subwoofero",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "gorillo-watermelondrillo",
+    "name": "Gorillo Watermelondrillo",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "graipuss-medussi",
+    "name": "Graipuss Medussi",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "granchiello-spiritell",
+    "name": "Granchiello Spiritell",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "granny",
+    "name": "Granny",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "griffin",
+    "name": "Griffin",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "guerriro-digitale",
+    "name": "Guerriro Digitale",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "guest-666",
+    "name": "Guest 666",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "gym-bros",
+    "name": "Gym Bros",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "harpuccino",
+    "name": "Harpuccino",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "headless-horseman",
+    "name": "Headless Horseman",
+    "missing": [
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "hippo-golazo",
+    "name": "Hippo Golazo",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "ho-ho-ho-sahur",
+    "name": "Ho Ho Ho Sahur",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "holy-arepa",
+    "name": "Holy Arepa",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "hopilikalika-hopilikalako",
+    "name": "Hopilikalika Hopilikalako",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "horegini-boom",
+    "name": "Horegini Boom",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "hydra-bunny",
+    "name": "Hydra Bunny",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "hydra-dragon-cannelloni",
+    "name": "Hydra Dragon Cannelloni",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "ice-dragon",
+    "name": "Ice Dragon",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "jacko-jack-jack",
+    "name": "Jacko Jack Jack",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "jacko-spaventosa",
+    "name": "Jacko Spaventosa",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "jackorilla",
+    "name": "Jackorilla",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "jelly-moby",
+    "name": "Jelly Moby",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "jingle-jingle-sahur",
+    "name": "Jingle Jingle Sahur",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "job-job-job-sahur",
+    "name": "Job Job Job Sahur",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "john-doe",
+    "name": "John Doe",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "john-pork",
+    "name": "John Pork",
+    "missing": [
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "jolly-jolly-sahur",
+    "name": "Jolly Jolly Sahur",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "kalika-bros",
+    "name": "Kalika Bros",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "karker-sahur",
+    "name": "Karker Sahur",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "karkerheart-luvkur",
+    "name": "Karkerheart Luvkur",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "karkerkar-kurkur",
+    "name": "Karkerkar Kurkur",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "karkerkur-family",
+    "name": "Karkerkur Family",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "ketchuru-and-musturu",
+    "name": "Ketchuru and Musturu",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "ketupat-bros",
+    "name": "Ketupat Bros",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "ketupat-kepat",
+    "name": "Ketupat Kepat",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "kraken",
+    "name": "Kraken",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "krupuk-pagi-pagi",
+    "name": "Krupuk Pagi Pagi",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "la-anniversary-grande",
+    "name": "La Anniversary Grande",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "la-casa-boo",
+    "name": "La Casa Boo",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "la-cucaracha",
+    "name": "La Cucaracha",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "la-easter-grande",
+    "name": "La Easter Grande",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "la-extinct-grande",
+    "name": "La Extinct Grande",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "la-food-combinasion",
+    "name": "La Food Combinasion",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "la-ginger-sekolah",
+    "name": "La Ginger Sekolah",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "la-grande-combinasion",
+    "name": "La Grande Combinasion",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "la-jolly-grande",
+    "name": "La Jolly Grande",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "la-karkerkar-combinasion",
+    "name": "La Karkerkar Combinasion",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "la-lucky-grande",
+    "name": "La Lucky Grande",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "la-romantic-grande",
+    "name": "La Romantic Grande",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "la-sahur-combinasion",
+    "name": "La Sahur Combinasion",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "la-secret-combinasion",
+    "name": "La Secret Combinasion",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "la-spooky-grande",
+    "name": "La Spooky Grande",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "la-summer-grande",
+    "name": "La Summer Grande",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "la-supreme-combinasion",
+    "name": "La Supreme Combinasion",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "la-taco-combinasion",
+    "name": "La Taco Combinasion",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "la-vacca-jacko-linterino",
+    "name": "La Vacca Jacko Linterino",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "la-vacca-lepre-lepreino",
+    "name": "La Vacca Lepre Lepreino",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "la-vacca-prese-presente",
+    "name": "La Vacca Prese Presente",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "la-vacca-saturno-saturnita",
+    "name": "La Vacca Saturno Saturnita",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "las-capuchinas",
+    "name": "Las Capuchinas",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "las-sis",
+    "name": "Las Sis",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "las-tralaleritas",
+    "name": "Las Tralaleritas",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "las-vaquitas-saturnitas",
+    "name": "Las Vaquitas Saturnitas",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "lavadorito-spinito",
+    "name": "Lavadorito Spinito",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "lazy-ducky",
+    "name": "Lazy Ducky",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "lemonita-splashita",
+    "name": "Lemonita Splashita",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "lerulerulerule",
+    "name": "Lerulerulerule",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "lionel-cactuseli",
+    "name": "Lionel Cactuseli",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "lirili-larila",
+    "name": "Lirilì Larilà",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "list-list-list-sahur",
+    "name": "List List List Sahur",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "los-25",
+    "name": "Los 25",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "los-67",
+    "name": "Los 67",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "los-amigos",
+    "name": "Los Amigos",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "los-bombinitos",
+    "name": "Los Bombinitos",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "los-bros",
+    "name": "Los Bros",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "los-bunitos",
+    "name": "Los Bunitos",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "los-burritos",
+    "name": "Los Burritos",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "los-candies",
+    "name": "Los Candies",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "los-chicleteiras",
+    "name": "Los Chicleteiras",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "los-chihuaninis",
+    "name": "Los Chihuaninis",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "los-chillis",
+    "name": "Los Chillis",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "los-combinasionas",
+    "name": "Los Combinasionas",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "los-crocodillitos",
+    "name": "Los Crocodillitos",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "los-cucarachas",
+    "name": "Los Cucarachas",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "los-cupids",
+    "name": "Los Cupids",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "los-fruits",
+    "name": "Los Fruits",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "los-gattitos",
+    "name": "Los Gattitos",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "los-hackers",
+    "name": "Los Hackers",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "los-hotspotsitos",
+    "name": "Los Hotspotsitos",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "los-jobcitos",
+    "name": "Los Jobcitos",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "los-jolly-combinasionas",
+    "name": "Los Jolly Combinasionas",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "los-karkeritos",
+    "name": "Los Karkeritos",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "los-mariachis",
+    "name": "Los Mariachis",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "los-matteos",
+    "name": "Los Matteos",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "los-mi-gatitos",
+    "name": "Los Mi Gatitos",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "los-mobilis",
+    "name": "Los Mobilis",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "los-noobinis",
+    "name": "Los Noobinis",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "los-nooo-my-hotspotsitos",
+    "name": "Los Nooo My Hotspotsitos",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "los-orcalitos",
+    "name": "Los Orcalitos",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "los-planitos",
+    "name": "Los Planitos",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "los-primos",
+    "name": "Los Primos",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "los-puggies",
+    "name": "Los Puggies",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "los-quesadillas",
+    "name": "Los Quesadillas",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "los-sekolahs",
+    "name": "Los Sekolahs",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "los-spaghettis",
+    "name": "Los Spaghettis",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "los-spooky-combinasionas",
+    "name": "Los Spooky Combinasionas",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "los-spyderinis",
+    "name": "Los Spyderinis",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "los-sweethearts",
+    "name": "Los Sweethearts",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "los-tacoritas",
+    "name": "Los Tacoritas",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "los-tipi-tacos",
+    "name": "Los Tipi Tacos",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "los-tortus",
+    "name": "Los Tortus",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "los-tralaleritos",
+    "name": "Los Tralaleritos",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "los-trios",
+    "name": "Los Trios",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "los-tungtungtungcitos",
+    "name": "Los Tungtungtungcitos",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "love-love-bear",
+    "name": "Love Love Bear",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "love-love-love-sahur",
+    "name": "Love Love Love Sahur",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "lovin-rose",
+    "name": "Lovin Rose",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "luck-luck-luck-sahur",
+    "name": "Luck Luck Luck Sahur",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "lumaca-malefica",
+    "name": "Lumaca Malefica",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "luv-luv-luv",
+    "name": "Luv Luv Luv",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "magi-ribbitini",
+    "name": "Magi Ribbitini",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "malame-amarele",
+    "name": "Malame Amarele",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "mangolini-parrocini",
+    "name": "Mangolini Parrocini",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "mariachi-corazoni",
+    "name": "Mariachi Corazoni",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "mastodontico-telepiedone",
+    "name": "Mastodontico Telepiedone",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "matteo",
+    "name": "Matteo",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "meowl",
+    "name": "Meowl",
+    "missing": [
+      "purchaseCost",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "mi-gatito",
+    "name": "Mi Gatito",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "mieteteira-bicicleteira",
+    "name": "Mieteteira Bicicleteira",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "money-money-bros",
+    "name": "Money Money Bros",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "money-money-man",
+    "name": "Money Money Man",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "money-money-puggy",
+    "name": "Money Money Puggy",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "money-money-reindeer",
+    "name": "Money Money Reindeer",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "mummio-rappitto",
+    "name": "Mummio Rappitto",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "mummy-ambalabu",
+    "name": "Mummy Ambalabu",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "mythic-lucky-block",
+    "name": "Mythic Lucky Block",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "nacho-spyder",
+    "name": "Nacho Spyder",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "naughty-naughty",
+    "name": "Naughty Naughty",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "noo-la-polizia",
+    "name": "Noo La Polizia",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "noo-my-candy",
+    "name": "Noo my Candy",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "noo-my-eggs",
+    "name": "Noo my Eggs",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "noo-my-examine",
+    "name": "Noo my examine",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "noo-my-gold",
+    "name": "Noo my Gold",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "noo-my-heart",
+    "name": "Noo my Heart",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "noo-my-present",
+    "name": "Noo my Present",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "noobini-pizzanini",
+    "name": "Noobini Pizzanini",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "noobini-santanini",
+    "name": "Noobini Santanini",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "nooo-my-hotspot",
+    "name": "Nooo My Hotspot",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "north-pole-event",
+    "name": "North Pole Event",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "nuclearo-dinossauro",
+    "name": "Nuclearo Dinossauro",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "octoball",
+    "name": "Octoball",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "odin-din-din-dun",
+    "name": "Odin Din Din Dun",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "ombrello-topolino",
+    "name": "Ombrello Topolino",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "orangutini-ananassini",
+    "name": "Orangutini Ananassini",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "orbi-mochi",
+    "name": "Orbi Mochi",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "orcaledon",
+    "name": "Orcaledon",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "orcalero-orcala",
+    "name": "Orcalero Orcala",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "orcalita-orcala",
+    "name": "Orcalita Orcala",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "pakrahmatmamat",
+    "name": "Pakrahmatmamat",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "pakrahmatmatina",
+    "name": "Pakrahmatmatina",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "pancake-and-syrup",
+    "name": "Pancake and Syrup",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "pandaccini-bananini",
+    "name": "Pandaccini Bananini",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "pandanini-frostini",
+    "name": "Pandanini Frostini",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "paradiso-axolottino",
+    "name": "Paradiso Axolottino",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "patteo",
+    "name": "Patteo",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "pengolino-nuvoletto",
+    "name": "Pengolino Nuvoletto",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "penguin-tree",
+    "name": "Penguin Tree",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "penguino-cocosino",
+    "name": "Penguino Cocosino",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "perochello-lemonchello",
+    "name": "Perochello Lemonchello",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "perrito-burrito",
+    "name": "Perrito Burrito",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "pi-pi-watermelon",
+    "name": "Pi Pi Watermelon",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "piccione-macchina",
+    "name": "Piccione Macchina",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "piccionetta-machina",
+    "name": "Piccionetta Machina",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "pinealotto-fruttarino",
+    "name": "Pinealotto Fruttarino",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "pineaplino",
+    "name": "Pineaplino",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "pipi-avocado",
+    "name": "Pipi Avocado",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "pipi-corni",
+    "name": "Pipi Corni",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "pipi-kiwi",
+    "name": "Pipi Kiwi",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "pipi-potato",
+    "name": "Pipi Potato",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "pirulitoita-bicicleteira",
+    "name": "Pirulitoita Bicicleteira",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "please-my-present",
+    "name": "Please my Present",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "pop-pop-sahur",
+    "name": "Pop Pop Sahur",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "popcuru-and-fizzuru",
+    "name": "Popcuru and Fizzuru",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "pot-hotspot",
+    "name": "Pot Hotspot",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "pot-pumpkin",
+    "name": "Pot Pumpkin",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "pretzo-robo",
+    "name": "Pretzo Robo",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "puffaball",
+    "name": "Puffaball",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "pumpkini-spyderini",
+    "name": "Pumpkini Spyderini",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "quackini-snackini",
+    "name": "Quackini Snackini",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "quackula",
+    "name": "Quackula",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "quesadilla-crocodila",
+    "name": "Quesadilla Crocodila",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "quesadillo-vampiro",
+    "name": "Quesadillo Vampiro",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "quivioli-ameleonni",
+    "name": "Quivioli Ameleonni",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "raccooni-jandelini",
+    "name": "Raccooni Jandelini",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "rainbow-and-gold",
+    "name": "Rainbow and Gold",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "rang-ring-bus",
+    "name": "Rang Ring Bus",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "ref-ref-ref-sahur",
+    "name": "Ref Ref Ref Sahur",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "reindeer-tralala",
+    "name": "Reindeer Tralala",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "reinito-sleighito",
+    "name": "Reinito Sleighito",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "rhino-helicopterino",
+    "name": "Rhino Helicopterino",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "rhino-toasterino",
+    "name": "Rhino Toasterino",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "rico-dinero",
+    "name": "Rico Dinero",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "robo-grafito",
+    "name": "Robo Grafito",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "rocco-disco",
+    "name": "Rocco Disco",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "rocketini-frostini",
+    "name": "Rocketini Frostini",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "rosetti-tualetti",
+    "name": "Rosetti Tualetti",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "rosey-and-teddy",
+    "name": "Rosey and Teddy",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "rubrikiko",
+    "name": "Rubrikiko",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "salamino-penguino",
+    "name": "Salamino Penguino",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "sammyni-cakini",
+    "name": "Sammyni Cakini",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "sammyni-fattini",
+    "name": "Sammyni Fattini",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "sammyni-spyderini",
+    "name": "Sammyni Spyderini",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "sand-sand-sand",
+    "name": "Sand Sand Sand",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "santa-hotspot",
+    "name": "Santa Hotspot",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "santteo",
+    "name": "Santteo",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "sealo-regalo",
+    "name": "Sealo Regalo",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "secret-lucky-block",
+    "name": "Secret Lucky Block",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "serafinna-medusella",
+    "name": "Serafinna Medusella",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "seraphino-gruyero",
+    "name": "Seraphino Gruyero",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "sigma-boy",
+    "name": "Sigma Boy",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "sigma-girl",
+    "name": "Sigma Girl",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "signore-carapace",
+    "name": "Signore Carapace",
+    "missing": [
+      "existCount"
+    ]
+  },
+  {
+    "slug": "skibidi-toilet",
+    "name": "Skibidi Toilet",
+    "missing": [
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "skull-skull-skull",
+    "name": "Skull Skull Skull",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "smurf-cat",
+    "name": "Smurf Cat",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "snailenzo",
+    "name": "Snailenzo",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "snailo-clovero",
+    "name": "Snailo Clovero",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "spaghetti-tualetti",
+    "name": "Spaghetti Tualetti",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "spinny-hammy",
+    "name": "Spinny Hammy",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "spioniro-golubiro",
+    "name": "Spioniro Golubiro",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "spongini-quackini",
+    "name": "Spongini Quackini",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "spooky-and-pumpky",
+    "name": "Spooky and Pumpky",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "spyder-elephant",
+    "name": "Spyder Elephant",
+    "missing": [
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "squalanana",
+    "name": "Squalanana",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "statutino-libertino",
+    "name": "Statutino Libertino",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "steakini-fattini",
+    "name": "Steakini Fattini",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "stoppo-luminino",
+    "name": "Stoppo Luminino",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "strawberrelli-flamingelli",
+    "name": "Strawberrelli Flamingelli",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "strawberrita",
+    "name": "Strawberrita",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "strawberry-elephant",
+    "name": "Strawberry Elephant",
+    "missing": [
+      "existCount"
+    ]
+  },
+  {
+    "slug": "sundrilla-sundae",
+    "name": "Sundrilla Sundae",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "sushi-inu",
+    "name": "Sushi Inu",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "svinina-bombardino",
+    "name": "Svinina Bombardino",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "swag-soda",
+    "name": "Swag Soda",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "swaggy-bros",
+    "name": "Swaggy Bros",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "ta-ta-ta-ta-sahur",
+    "name": "Ta Ta Ta Ta Sahur",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "tacorillo-crocodillo",
+    "name": "Tacorillo Crocodillo",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "tacorita-bicicleta",
+    "name": "Tacorita Bicicleta",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "talpa-di-fero",
+    "name": "Talpa Di Fero",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "tang-tang-keletang",
+    "name": "Tang Tang Keletang",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "tartaragno",
+    "name": "Tartaragno",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "tartaruga-cisterna",
+    "name": "Tartaruga Cisterna",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "te-te-te-sahur",
+    "name": "Te Te Te Sahur",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "telemorte",
+    "name": "Telemorte",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "tenini-ballini",
+    "name": "Tenini Ballini",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "tentacolo-tecnico",
+    "name": "Tentacolo Tecnico",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "ti-ti-ti-sahur",
+    "name": "Ti Ti Ti Sahur",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "tictac-sahur",
+    "name": "Tictac Sahur",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "tigrilini-watermelini",
+    "name": "Tigrilini Watermelini",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "tigroligre-frutonni",
+    "name": "Tigroligre Frutonni",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "tim-cheese",
+    "name": "Tim Cheese",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "tipi-topi-taco",
+    "name": "Tipi Topi Taco",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "tirilikalika-tirilikalako",
+    "name": "Tirilikalika Tirilikalako",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "to-to-to-sahur",
+    "name": "To to to Sahur",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "tob-tobi-tobi",
+    "name": "Tob Tobi Tobi",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "toiletto-focaccino",
+    "name": "Toiletto Focaccino",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "tootini-shrimpini",
+    "name": "Tootini Shrimpini",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "torrtuginni-dragonfrutini",
+    "name": "Torrtuginni Dragonfrutini",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "tortuginni-sandcastlini",
+    "name": "Tortuginni Sandcastlini",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "tracoducotulu-delapeladustuz",
+    "name": "Tracoducotulu Delapeladustuz",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "tractoro-dinosauro",
+    "name": "Tractoro Dinosauro",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "tralaledon",
+    "name": "Tralaledon",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "tralalero-tralala",
+    "name": "Tralalero Tralala",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "tralalita-tralala",
+    "name": "Tralalita Tralala",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "tree-tree-tree-sahur",
+    "name": "Tree Tree Tree Sahur",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "trenostruzzo-turbo-3000",
+    "name": "Trenostruzzo Turbo 3000",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "trenostruzzo-turbo-4000",
+    "name": "Trenostruzzo Turbo 4000",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "trenotubo-axolotrico-9000",
+    "name": "Trenotubo Axolotrico 9000",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "tric-trac-baraboom",
+    "name": "Tric Trac Baraboom",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "trickolino",
+    "name": "Trickolino",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "triplito-tralaleritos",
+    "name": "Triplito Tralaleritos",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "trippi-troppi",
+    "name": "Trippi Troppi",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "trippi-troppi-troppa-trippa",
+    "name": "Trippi Troppi Troppa Trippa",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "trulimero-trulicina",
+    "name": "Trulimero Trulicina",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "tuff-toucan",
+    "name": "Tuff Toucan",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "tukanno-bananno",
+    "name": "Tukanno Bananno",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "tung-tung-tung-sahur",
+    "name": "Tung Tung Tung Sahur",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "unclito-samito",
+    "name": "Unclito Samito",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "urubini-flamenguini",
+    "name": "Urubini Flamenguini",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "valentine-s-brainrots",
+    "name": "Valentine's Brainrots",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "vampira-cappucina",
+    "name": "Vampira Cappucina",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "ventoliero-pavonero",
+    "name": "Ventoliero Pavonero",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "venuspino",
+    "name": "Venuspino",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "vulturino-skeletono",
+    "name": "Vulturino Skeletono",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "w-or-l",
+    "name": "W or L",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "wheelchair-granny",
+    "name": "Wheelchair Granny",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "wombo-rollo",
+    "name": "Wombo Rollo",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "yess-my-examine",
+    "name": "Yess my examine",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "yeti-claus",
+    "name": "Yeti Claus",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "zibra-zubra-zibralini",
+    "name": "Zibra Zubra Zibralini",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  },
+  {
+    "slug": "zombie-tralala",
+    "name": "Zombie Tralala",
+    "missing": [
+      "tradeValue",
+      "purchaseCost",
+      "incomePerSecond",
+      "existCount"
+    ]
+  }
+]

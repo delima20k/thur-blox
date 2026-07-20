@@ -1,0 +1,171 @@
+{
+  "imageSources": {
+    "/assets/grow-a-garden-2/store/seeds/hypno-bloom-seed.webp": {
+      "sourceType": "external_reference_image",
+      "sourceName": "BLOXB Grow a Garden 2 Shop Hypno Bloom Seed",
+      "sourcePage": "https://www.bloxb.com/grow-a-garden-2-shop",
+      "sourceUrl": "https://www.bloxb.com/uploads/images/goods/grow-a-garden-2/all-server-hypno-bloom-seed1.png",
+      "importedAt": "2026-07-01T20:34:03.816Z",
+      "sha256": "fe55e0e9185542151ebf10e6976bb0c80fee5750dd5e871b61970a9ed2898e72"
+    },
+    "/assets/grow-a-garden-2/store/seeds/dragon-breath-seed.webp": {
+      "sourceType": "external_reference_image",
+      "sourceName": "BLOXB Grow a Garden 2 Shop Dragon Breath Seed",
+      "sourcePage": "https://www.bloxb.com/grow-a-garden-2-shop",
+      "sourceUrl": "https://www.bloxb.com/uploads/images/goods/grow-a-garden-2/all-server-dragons-breath-seed1.png?v=1",
+      "importedAt": "2026-07-01T20:34:04.197Z",
+      "sha256": "4d6bdadf31671f1a9df1a0da3d7004dec65acc9329c26f74bc987e446f857403"
+    },
+    "/assets/grow-a-garden-2/store/seeds/moon-bloom-seed.webp": {
+      "sourceType": "external_reference_image",
+      "sourceName": "BLOXB Grow a Garden 2 Shop Moon Bloom Seed",
+      "sourcePage": "https://www.bloxb.com/grow-a-garden-2-shop",
+      "sourceUrl": "https://www.bloxb.com/uploads/images/goods/grow-a-garden-2/all-server-moon-bloom-seed1.png?v=1",
+      "importedAt": "2026-07-01T20:34:04.621Z",
+      "sha256": "6b29d0fb9816881250130a9159a85bb4d5ffd1b1d7fd8d3e2e2a5836a4a646a4"
+    },
+    "/assets/grow-a-garden-2/store/seeds/ghost-pepper-seed.webp": {
+      "sourceType": "external_reference_image",
+      "sourceName": "BLOXB Grow a Garden 2 Shop Ghost Pepper Seed",
+      "sourcePage": "https://www.bloxb.com/grow-a-garden-2-shop",
+      "sourceUrl": "https://www.bloxb.com/uploads/images/goods/grow-a-garden-2/all-server-ghost-pepper-seed1.png?v=1",
+      "importedAt": "2026-07-01T20:34:05.089Z",
+      "sha256": "74713a14b1519125e0246a168ac86e3144ed90cd96f72b41135bc330d380add9"
+    },
+    "/assets/grow-a-garden-2/store/seeds/venom-spitter-seed.webp": {
+      "sourceType": "external_reference_image",
+      "sourceName": "BLOXB Grow a Garden 2 Shop Venom Spitter Seed",
+      "sourcePage": "https://www.bloxb.com/grow-a-garden-2-shop",
+      "sourceUrl": "https://www.bloxb.com/uploads/images/goods/grow-a-garden-2/all-server-venom-spitter-seed1.png",
+      "importedAt": "2026-07-01T20:34:05.460Z",
+      "sha256": "342fc77efa9c1017e9e1d967af25367108931143c680ab7432dd715b77188cab"
+    },
+    "/assets/grow-a-garden-2/store/seeds/rainbow-seed.webp": {
+      "sourceType": "external_reference_image",
+      "sourceName": "BLOXB Grow a Garden 2 Shop Rainbow Seed",
+      "sourcePage": "https://www.bloxb.com/grow-a-garden-2-shop",
+      "sourceUrl": "https://www.bloxb.com/uploads/images/goods/grow-a-garden-2/all-server-rainbow-seed10.png?v=1",
+      "importedAt": "2026-07-01T20:34:05.971Z",
+      "sha256": "6457623279921bddcd3108f8099def24de711ce4106da124dbee1282ce58df80"
+    },
+    "/assets/grow-a-garden-2/store/seeds/mega-seed.webp": {
+      "sourceType": "external_reference_image",
+      "sourceName": "BLOXB Grow a Garden 2 Shop Mega Seed",
+      "sourcePage": "https://www.bloxb.com/grow-a-garden-2-shop",
+      "sourceUrl": "https://www.bloxb.com/uploads/images/goods/grow-a-garden-2/all-server-mega-seed10.png?v=1",
+      "importedAt": "2026-07-01T20:34:06.426Z",
+      "sha256": "2ee70303f2af21101adfb1f9538633bf267a164071bdb231d29ec0be64d7d765"
+    },
+    "/assets/grow-a-garden-2/store/pets/raccoon.webp": {
+      "sourceType": "external_reference_image",
+      "sourceName": "BLOXB Grow a Garden 2 Shop Raccoon",
+      "sourcePage": "https://www.bloxb.com/grow-a-garden-2-shop",
+      "sourceUrl": "https://www.bloxb.com/uploads/images/goods/grow-a-garden-2/all-server-raccoon.png?v=1",
+      "importedAt": "2026-07-01T20:34:06.875Z",
+      "sha256": "542fc839c624af1d4c0096b380a327600e69f03cd63e8801c48632f0cba07e63"
+    },
+    "/assets/grow-a-garden-2/store/pets/dragon-fly.webp": {
+      "sourceType": "external_reference_image",
+      "sourceName": "BLOXB Grow a Garden 2 Shop Dragonfly",
+      "sourcePage": "https://www.bloxb.com/grow-a-garden-2-shop",
+      "sourceUrl": "https://www.bloxb.com/uploads/images/goods/grow-a-garden-2/all-server-golden-dragonfly.png?v=1",
+      "importedAt": "2026-07-01T20:34:07.378Z",
+      "sha256": "368b51fa9d449da0cfe902b1bf61b895f3a99968de4850cf807b8ef5ca94f149"
+    },
+    "/assets/grow-a-garden-2/store/pets/unicorn.webp": {
+      "sourceType": "external_reference_image",
+      "sourceName": "BLOXB Grow a Garden 2 Shop Unicorn",
+      "sourcePage": "https://www.bloxb.com/grow-a-garden-2-shop",
+      "sourceUrl": "https://www.bloxb.com/uploads/images/goods/grow-a-garden-2/all-server-unicorn.png?v=1",
+      "importedAt": "2026-07-01T20:34:07.902Z",
+      "sha256": "cb1ddcddb1c6e0991da78e3ea34e9a24215104ae33b6e4a80057fd5134ca647b"
+    },
+    "/assets/grow-a-garden-2/store/pets/big-unicorn.webp": {
+      "sourceType": "external_reference_image",
+      "sourceName": "BLOXB Grow a Garden 2 Shop Big Unicorn",
+      "sourcePage": "https://www.bloxb.com/grow-a-garden-2-shop",
+      "sourceUrl": "https://www.bloxb.com/uploads/images/goods/grow-a-garden-2/all-server-big-unicorn.png?v=1",
+      "importedAt": "2026-07-01T20:34:08.424Z",
+      "sha256": "03f7e67f4842839c6baf9576bd0985941f43ee41c135781f337f24c397cff47e"
+    },
+    "/assets/grow-a-garden-2/store/pets/super-rarojice-serpent.webp": {
+      "sourceType": "external_reference_image",
+      "sourceName": "BLOXB Grow a Garden 2 Shop Ice Serpent",
+      "sourcePage": "https://www.bloxb.com/grow-a-garden-2-shop",
+      "sourceUrl": "https://www.bloxb.com/uploads/images/goods/grow-a-garden-2/all-server-ice-serpent.png?v=2",
+      "importedAt": "2026-07-01T20:34:08.978Z",
+      "sha256": "aaaa731cee827e9410076512e997bdae58d43e7d3e8e02d777add8752fe9a22a"
+    },
+    "/assets/grow-a-garden-2/store/gears/super-watering-can.webp": {
+      "sourceType": "external_reference_image",
+      "sourceName": "BLOXB Grow a Garden 2 Shop Super Watering Can",
+      "sourcePage": "https://www.bloxb.com/grow-a-garden-2-shop",
+      "sourceUrl": "https://www.bloxb.com/uploads/images/goods/grow-a-garden-2/all-server-super-watering-can1.png",
+      "importedAt": "2026-07-01T20:34:09.498Z",
+      "sha256": "f52e4c9519dcd9bd97c4f22eafb9c7f8935a2f168308ef6ce75f37a5a0d8fadf"
+    },
+    "/assets/grow-a-garden-2/store/gears/super-sprinkler.webp": {
+      "sourceType": "external_reference_image",
+      "sourceName": "BLOXB Grow a Garden 2 Shop Super Sprinkler",
+      "sourcePage": "https://www.bloxb.com/grow-a-garden-2-shop",
+      "sourceUrl": "https://www.bloxb.com/uploads/images/goods/grow-a-garden-2/all-server-super-sprinkler1.png?v=3",
+      "importedAt": "2026-07-01T20:34:10.023Z",
+      "sha256": "b8f9bf6d40b9e6fbbc488c3294f285be69dae58783313d211f636a9d33097dde"
+    },
+    "/assets/grow-a-garden-2/store/packages/5x-hypno-bloom-seed.webp": {
+      "sourceType": "external_reference_image_with_quantity_badge",
+      "sourceName": "BLOXB Grow a Garden 2 Shop Hypno Bloom Seed",
+      "sourcePage": "https://www.bloxb.com/grow-a-garden-2-shop",
+      "sourceUrl": "https://www.bloxb.com/uploads/images/goods/grow-a-garden-2/all-server-hypno-bloom-seed1.png",
+      "importedAt": "2026-07-01T20:34:03.816Z",
+      "sha256": "02b13786d9d0512a4b5e07ac00346520793f5e1168ff9308e0fc3fa1d4dadab9",
+      "packageQuantity": 5,
+      "derivedFrom": "/assets/grow-a-garden-2/store/seeds/hypno-bloom-seed.webp"
+    },
+    "/assets/grow-a-garden-2/store/packages/5x-moon-bloom-seed.webp": {
+      "sourceType": "external_reference_image_with_quantity_badge",
+      "sourceName": "BLOXB Grow a Garden 2 Shop Moon Bloom Seed",
+      "sourcePage": "https://www.bloxb.com/grow-a-garden-2-shop",
+      "sourceUrl": "https://www.bloxb.com/uploads/images/goods/grow-a-garden-2/all-server-moon-bloom-seed1.png?v=1",
+      "importedAt": "2026-07-01T20:34:04.621Z",
+      "sha256": "3c1f503f91b1794367548f1224a411a7f0df9ad4a2161045328e9fc28b54535f",
+      "packageQuantity": 5,
+      "derivedFrom": "/assets/grow-a-garden-2/store/seeds/moon-bloom-seed.webp"
+    },
+    "/assets/grow-a-garden-2/store/packages/10x-dragon-breath-seed.webp": {
+      "sourceType": "external_reference_image_with_quantity_badge",
+      "sourceName": "BLOXB Grow a Garden 2 Shop Dragon Breath Seed",
+      "sourcePage": "https://www.bloxb.com/grow-a-garden-2-shop",
+      "sourceUrl": "https://www.bloxb.com/uploads/images/goods/grow-a-garden-2/all-server-dragons-breath-seed1.png?v=1",
+      "importedAt": "2026-07-01T20:34:04.197Z",
+      "sha256": "e6f770809ab8f4f01e801f5d927523e17dba6953416be84497a9d5606172c0b5",
+      "packageQuantity": 10,
+      "derivedFrom": "/assets/grow-a-garden-2/store/seeds/dragon-breath-seed.webp"
+    },
+    "/assets/grow-a-garden-2/store/packages/5x-dragon-breath-seed.webp": {
+      "sourceType": "external_reference_image_with_quantity_badge",
+      "sourceName": "BLOXB Grow a Garden 2 Shop Dragon Breath Seed",
+      "sourcePage": "https://www.bloxb.com/grow-a-garden-2-shop",
+      "sourceUrl": "https://www.bloxb.com/uploads/images/goods/grow-a-garden-2/all-server-dragons-breath-seed1.png?v=1",
+      "importedAt": "2026-07-01T20:34:04.197Z",
+      "sha256": "0b6e961e8e95ce2aba98424c4620f9e39014965b82c761227e8d49b49af4c842",
+      "packageQuantity": 5,
+      "derivedFrom": "/assets/grow-a-garden-2/store/seeds/dragon-breath-seed.webp"
+    },
+    "/assets/grow-a-garden-2/store/gears/super-sprinkler-watering-can.webp": {
+      "sourceType": "external_reference_composite",
+      "sourceName": "BLOXB Grow a Garden 2 Shop Super Sprinkler + Super Watering Can",
+      "sourcePage": "https://www.bloxb.com/grow-a-garden-2-shop",
+      "sourceUrl": [
+        "https://www.bloxb.com/uploads/images/goods/grow-a-garden-2/all-server-super-sprinkler1.png?v=3",
+        "https://www.bloxb.com/uploads/images/goods/grow-a-garden-2/all-server-super-watering-can1.png"
+      ],
+      "importedAt": "2026-07-01T20:34:12.003Z",
+      "derivedFrom": [
+        "/assets/grow-a-garden-2/store/gears/super-sprinkler.webp",
+        "/assets/grow-a-garden-2/store/gears/super-watering-can.webp"
+      ],
+      "sha256": "81627b3981ccc9f8d66fc201e0d9f5ac6d990d65ecce70c8ee578d8b30d930d9"
+    }
+  }
+}

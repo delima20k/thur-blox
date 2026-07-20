@@ -1,0 +1,305 @@
+[
+  {
+    "brainrotSlug": "antonio",
+    "name": "Antonio",
+    "baseTradeValue": 70000,
+    "tradeValue": 70000,
+    "tradeValueMin": null,
+    "tradeValueMax": null,
+    "demand": "medium",
+    "sources": [
+      {
+        "name": "Game.Guide",
+        "url": "https://www.game.guide/steal-a-brainrot-value-list",
+        "verifiedAt": "2026-06-30"
+      }
+    ],
+    "confidence": "medium",
+    "status": "community_estimate",
+    "communityTradeValue": 70000
+  },
+  {
+    "brainrotSlug": "cerberus",
+    "name": "Cerberus",
+    "baseTradeValue": 1415186,
+    "tradeValue": 1415186,
+    "tradeValueMin": null,
+    "tradeValueMax": null,
+    "demand": "high",
+    "sources": [
+      {
+        "name": "Game.Guide",
+        "url": "https://www.game.guide/steal-a-brainrot-value-list",
+        "verifiedAt": "2026-06-30"
+      }
+    ],
+    "confidence": "medium",
+    "status": "community_estimate",
+    "communityTradeValue": 1415186
+  },
+  {
+    "brainrotSlug": "digi-narwhal",
+    "name": "Digi Narwhal",
+    "baseTradeValue": 15500,
+    "tradeValue": 15500,
+    "tradeValueMin": null,
+    "tradeValueMax": null,
+    "demand": "high",
+    "sources": [
+      {
+        "name": "Game.Guide",
+        "url": "https://www.game.guide/steal-a-brainrot-value-list",
+        "verifiedAt": "2026-06-30"
+      }
+    ],
+    "confidence": "medium",
+    "status": "community_estimate",
+    "communityTradeValue": 15500
+  },
+  {
+    "brainrotSlug": "elefanto-frigo",
+    "name": "Elefanto Frigo",
+    "baseTradeValue": 112500,
+    "tradeValue": 112500,
+    "tradeValueMin": null,
+    "tradeValueMax": null,
+    "demand": "medium",
+    "sources": [
+      {
+        "name": "Game.Guide",
+        "url": "https://www.game.guide/steal-a-brainrot-value-list",
+        "verifiedAt": "2026-06-30"
+      }
+    ],
+    "confidence": "medium",
+    "status": "community_estimate",
+    "communityTradeValue": 112500
+  },
+  {
+    "brainrotSlug": "foxini-lanternini",
+    "name": "Foxini Lanternini",
+    "baseTradeValue": 2500,
+    "tradeValue": 2500,
+    "tradeValueMin": null,
+    "tradeValueMax": null,
+    "demand": "high",
+    "sources": [
+      {
+        "name": "Game.Guide",
+        "url": "https://www.game.guide/steal-a-brainrot-value-list",
+        "verifiedAt": "2026-06-30"
+      }
+    ],
+    "confidence": "medium",
+    "status": "community_estimate",
+    "communityTradeValue": 2500
+  },
+  {
+    "brainrotSlug": "garama-and-madundung",
+    "name": "Garama and Madundung",
+    "baseTradeValue": 550,
+    "tradeValue": 550,
+    "tradeValueMin": null,
+    "tradeValueMax": null,
+    "demand": "high",
+    "sources": [
+      {
+        "name": "Fonte comunitaria cadastrada",
+        "verifiedAt": "2026-06-30"
+      }
+    ],
+    "confidence": "medium",
+    "status": "community_estimate",
+    "communityTradeValue": 550
+  },
+  {
+    "brainrotSlug": "griffin",
+    "name": "Griffin",
+    "baseTradeValue": 7542857,
+    "tradeValue": 7542857,
+    "tradeValueMin": null,
+    "tradeValueMax": null,
+    "demand": "very_low",
+    "sources": [
+      {
+        "name": "Game.Guide",
+        "url": "https://www.game.guide/steal-a-brainrot-value-list",
+        "verifiedAt": "2026-06-30"
+      }
+    ],
+    "confidence": "medium",
+    "status": "community_estimate",
+    "communityTradeValue": 7542857
+  },
+  {
+    "brainrotSlug": "headless-horseman",
+    "name": "Headless Horseman",
+    "baseTradeValue": 875000,
+    "tradeValue": 875000,
+    "tradeValueMin": null,
+    "tradeValueMax": null,
+    "demand": "high",
+    "sources": [
+      {
+        "name": "Game.Guide",
+        "url": "https://www.game.guide/steal-a-brainrot-value-list",
+        "verifiedAt": "2026-06-30"
+      }
+    ],
+    "confidence": "medium",
+    "status": "community_estimate",
+    "communityTradeValue": 875000
+  },
+  {
+    "brainrotSlug": "la-easter-grande",
+    "name": "La Easter Grande",
+    "baseTradeValue": 476,
+    "tradeValue": 476,
+    "tradeValueMin": null,
+    "tradeValueMax": null,
+    "demand": "high",
+    "sources": [
+      {
+        "name": "Game.Guide",
+        "url": "https://www.game.guide/steal-a-brainrot-value-list",
+        "verifiedAt": "2026-06-30"
+      }
+    ],
+    "confidence": "medium",
+    "status": "community_estimate",
+    "communityTradeValue": 476
+  },
+  {
+    "brainrotSlug": "love-love-bear",
+    "name": "Love Love Bear",
+    "baseTradeValue": 50600,
+    "tradeValue": 50600,
+    "tradeValueMin": null,
+    "tradeValueMax": null,
+    "demand": "medium",
+    "sources": [
+      {
+        "name": "Game.Guide",
+        "url": "https://www.game.guide/steal-a-brainrot-value-list",
+        "verifiedAt": "2026-06-30"
+      }
+    ],
+    "confidence": "medium",
+    "status": "community_estimate",
+    "communityTradeValue": 50600
+  },
+  {
+    "brainrotSlug": "meowl",
+    "name": "Meowl",
+    "baseTradeValue": 75000,
+    "tradeValue": 75000,
+    "tradeValueMin": null,
+    "tradeValueMax": null,
+    "demand": "high",
+    "sources": [
+      {
+        "name": "Game.Guide",
+        "url": "https://www.game.guide/steal-a-brainrot-value-list",
+        "verifiedAt": "2026-06-30"
+      }
+    ],
+    "confidence": "medium",
+    "status": "community_estimate",
+    "communityTradeValue": 75000
+  },
+  {
+    "brainrotSlug": "money-money-bros",
+    "name": "Money Money Bros",
+    "baseTradeValue": 1200,
+    "tradeValue": 1200,
+    "tradeValueMin": null,
+    "tradeValueMax": null,
+    "demand": "high",
+    "sources": [
+      {
+        "name": "Game.Guide",
+        "url": "https://www.game.guide/steal-a-brainrot-value-list",
+        "verifiedAt": "2026-06-30"
+      }
+    ],
+    "confidence": "medium",
+    "status": "community_estimate",
+    "communityTradeValue": 1200
+  },
+  {
+    "brainrotSlug": "signore-carapace",
+    "name": "Signore Carapace",
+    "baseTradeValue": 207500,
+    "tradeValue": 207500,
+    "tradeValueMin": null,
+    "tradeValueMax": null,
+    "demand": "high",
+    "sources": [
+      {
+        "name": "Game.Guide",
+        "url": "https://www.game.guide/steal-a-brainrot-value-list",
+        "verifiedAt": "2026-06-30"
+      }
+    ],
+    "confidence": "medium",
+    "status": "community_estimate",
+    "communityTradeValue": 207500
+  },
+  {
+    "brainrotSlug": "skibidi-toilet",
+    "name": "Skibidi Toilet",
+    "baseTradeValue": 3506429,
+    "tradeValue": 3506429,
+    "tradeValueMin": null,
+    "tradeValueMax": null,
+    "demand": "high",
+    "sources": [
+      {
+        "name": "Game.Guide",
+        "url": "https://www.game.guide/steal-a-brainrot-value-list",
+        "verifiedAt": "2026-06-30"
+      }
+    ],
+    "confidence": "medium",
+    "status": "community_estimate",
+    "communityTradeValue": 3506429
+  },
+  {
+    "brainrotSlug": "strawberry-elephant",
+    "name": "Strawberry Elephant",
+    "baseTradeValue": 4126071,
+    "tradeValue": 4126071,
+    "tradeValueMin": null,
+    "tradeValueMax": null,
+    "demand": "high",
+    "sources": [
+      {
+        "name": "Game.Guide",
+        "url": "https://www.game.guide/steal-a-brainrot-value-list",
+        "verifiedAt": "2026-06-30"
+      }
+    ],
+    "confidence": "medium",
+    "status": "community_estimate",
+    "communityTradeValue": 4126071
+  },
+  {
+    "brainrotSlug": "tictac-sahur",
+    "name": "Tictac Sahur",
+    "baseTradeValue": 390,
+    "tradeValue": 390,
+    "tradeValueMin": null,
+    "tradeValueMax": null,
+    "demand": "high",
+    "sources": [
+      {
+        "name": "Game.Guide",
+        "url": "https://www.game.guide/steal-a-brainrot-value-list",
+        "verifiedAt": "2026-06-30"
+      }
+    ],
+    "confidence": "medium",
+    "status": "community_estimate",
+    "communityTradeValue": 390
+  }
+]

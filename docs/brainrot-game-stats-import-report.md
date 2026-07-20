@@ -1,0 +1,516 @@
+# Importacao de dados do jogo
+
+Data: 2026-06-30T20:52:31.428Z
+Modo: --all
+Dry run: nao
+Concorrencia: 6
+Timeout por requisicao: 8000ms
+Retries: 0
+Pets processados: 493
+Total final com custo: 25
+Total final com renda-base: 23
+Conflitos: 0
+Redirecionamentos: 0
+Paginas ausentes: 0
+
+## Redirecionamentos
+
+
+## Conflitos
+
+
+## Linhas
+
+- OK 1x1x1x1: custo=null, renda=null, status=review
+- OK 25: custo=null, renda=null, status=review
+- OK 67: custo=null, renda=null, status=review
+- OK Abyssaloco: custo=null, renda=null, status=review
+- OK Agarrini la Palini: custo=null, renda=null, status=review
+- OK Alessio: custo=null, renda=null, status=review
+- OK Anpali Babel: custo=null, renda=null, status=review
+- OK Antonio: custo=6000000, renda=18500, status=confirmed
+- OK Appelini: custo=null, renda=null, status=review
+- OK Aquanaut: custo=null, renda=null, status=review
+- OK Aquarino: custo=null, renda=null, status=review
+- OK Arcadopus: custo=null, renda=null, status=review
+- OK Arcadragon: custo=null, renda=null, status=review
+- OK Astrolero Cervalero: custo=null, renda=null, status=review
+- OK Avocadini Antilopini: custo=null, renda=null, status=review
+- OK Avocadini Guffo: custo=null, renda=null, status=review
+- OK Avocadorilla: custo=null, renda=null, status=review
+- OK Baby Duo Brainrots: custo=null, renda=null, status=review
+- OK Bacuru and Egguru: custo=null, renda=null, status=review
+- OK Ballerina Cappuccina: custo=null, renda=null, status=review
+- OK Ballerina Peppermintina: custo=null, renda=null, status=review
+- OK Ballerino Lololo: custo=null, renda=null, status=review
+- OK Bambini Crostini: custo=null, renda=null, status=review
+- OK Bambu Bambu Sahur: custo=null, renda=null, status=review
+- OK Bananita Dolphinita: custo=null, renda=null, status=review
+- OK Bananito: custo=null, renda=null, status=review
+- OK Bananito Bandito: custo=null, renda=null, status=review
+- OK Bandito Axolito: custo=null, renda=null, status=review
+- OK Bandito Bobritto: custo=null, renda=null, status=review
+- OK Baskito: custo=null, renda=null, status=review
+- OK Bearito Cabinito: custo=null, renda=null, status=review
+- OK Bee Loco: custo=null, renda=null, status=review
+- OK Belula Beluga: custo=null, renda=null, status=review
+- OK Berenjello Angello: custo=null, renda=null, status=review
+- OK Berryno: custo=null, renda=null, status=review
+- OK Bisonte Giuppitere: custo=null, renda=null, status=review
+- OK Blackhole Goat: custo=null, renda=null, status=review
+- OK Blueberrinni Octopusini: custo=null, renda=null, status=review
+- OK Boatito Auratito: custo=null, renda=null, status=review
+- OK Boba Panda: custo=null, renda=null, status=review
+- OK Bombardini Tortinii: custo=null, renda=null, status=review
+- OK Bombardiro Crocodilo: custo=null, renda=null, status=review
+- OK Bombardiro Vaccariro: custo=null, renda=null, status=review
+- OK Bombombini Gusini: custo=null, renda=null, status=review
+- OK Boneca Ambalabu: custo=5000, renda=40, status=confirmed
+- OK Boppin Bunny: custo=null, renda=null, status=review
+- OK Brainrot God Lucky Block: custo=null, renda=null, status=review
+- OK Brasilini Berimbini: custo=null, renda=null, status=review
+- OK Brr Brr Patapim: custo=null, renda=null, status=review
+- OK Brr es Teh Patipum: custo=null, renda=null, status=review
+- OK Brri Brri Bicus Dicus Bombicus: custo=null, renda=null, status=review
+- OK Brunito Marsito: custo=null, renda=null, status=review
+- OK Brutto Gialutto: custo=null, renda=null, status=review
+- OK Bucketoro: custo=null, renda=null, status=review
+- OK Buho de Fuego: custo=null, renda=null, status=review
+- OK Buho de Noelo: custo=null, renda=null, status=review
+- OK Buho de Volto: custo=null, renda=null, status=review
+- OK Buho del Cielo: custo=null, renda=null, status=review
+- OK Bulbito Bandito Traktorito: custo=null, renda=null, status=review
+- OK Bunito Bunito Spinito: custo=900000000, renda=3000000, status=confirmed
+- OK Bunny and Eggy: custo=null, renda=null, status=review
+- OK Bunny Bunny Bunny Sahur: custo=null, renda=null, status=review
+- OK Bunny Tralala: custo=null, renda=null, status=review
+- OK Bunnyman: custo=500000000, renda=1500000, status=confirmed
+- OK Buntteo: custo=null, renda=null, status=review
+- OK Burbaloni Loliloli: custo=null, renda=null, status=review
+- OK Burguro And Fryuro: custo=null, renda=null, status=review
+- OK Burrito Bandito: custo=850000000, renda=4000000, status=confirmed
+- OK Cacasito Satalito: custo=null, renda=null, status=review
+- OK Cachorrito Melonito: custo=null, renda=null, status=review
+- OK Cacto Hipopotamo: custo=null, renda=null, status=review
+- OK Camera Ramena: custo=null, renda=null, status=review
+- OK Capi Taco: custo=31000000, renda=155000, status=confirmed
+- OK Capitano Gullini: custo=null, renda=null, status=review
+- OK Capitano Moby: custo=null, renda=null, status=review
+- OK Cappuccino Assassino: custo=10000, renda=75, status=confirmed
+- OK Cappuccino Clownino: custo=null, renda=null, status=review
+- OK Caramello Filtrello: custo=null, renda=null, status=review
+- OK Carloo: custo=null, renda=null, status=review
+- OK Carrotini Brainini: custo=null, renda=null, status=review
+- OK Cash or Card: custo=null, renda=null, status=review
+- OK Cavallo Virtuoso: custo=null, renda=null, status=review
+- OK Caylusaurus: custo=null, renda=null, status=review
+- OK Celestial Pegasus: custo=null, renda=null, status=review
+- OK Celularcini Viciosini: custo=null, renda=null, status=review
+- OK Centrucci Nuclucci: custo=null, renda=null, status=review
+- OK Cerberus: custo=null, renda=null, status=review
+- OK Chachechi: custo=null, renda=null, status=review
+- OK Chef Crabracadabra: custo=150000, renda=600, status=confirmed
+- OK Chicleteira Bicicleteira: custo=null, renda=null, status=review
+- OK Chicleteira Cupideira: custo=null, renda=null, status=review
+- OK Chicleteira Noelteira: custo=null, renda=null, status=review
+- OK Chicleteira Surfeiteira: custo=null, renda=null, status=review
+- OK Chicleteirina Bicicleteirina: custo=null, renda=null, status=review
+- OK Chihuanini Taconini: custo=null, renda=null, status=review
+- OK Chill Puppy: custo=null, renda=null, status=review
+- OK Chillin Chili: custo=null, renda=null, status=review
+- OK Chimnino: custo=null, renda=null, status=review
+- OK Chimpanzini Bananini: custo=null, renda=null, status=review
+- OK Chimpanzini Spiderini: custo=null, renda=null, status=review
+- OK Chipso and Queso: custo=null, renda=null, status=review
+- OK Chocco Bunny: custo=null, renda=null, status=review
+- OK Chrismasmamat: custo=null, renda=null, status=review
+- OK Churrito Bunnito: custo=null, renda=null, status=review
+- OK Cigno Fulgoro: custo=null, renda=null, status=review
+- OK Clickerino Crabo: custo=null, renda=null, status=review
+- OK Cloverat Clapat: custo=null, renda=null, status=review
+- OK Clovkur Kurkur: custo=null, renda=null, status=review
+- OK Coco and Mango: custo=null, renda=null, status=review
+- OK Cocoa Assassino: custo=null, renda=null, status=review
+- OK Cocofanto Elefanto: custo=null, renda=null, status=review
+- OK Cocosini Mama: custo=null, renda=null, status=review
+- OK Cocoteddy: custo=null, renda=null, status=review
+- OK Coffin Tung Tung Tung Sahur: custo=null, renda=null, status=review
+- OK Cola Cat: custo=null, renda=null, status=review
+- OK Combinasion (Disambiguation): custo=null, renda=null, status=review
+- OK Cooki and Milki: custo=null, renda=null, status=review
+- OK Corn Corn Corn Sahur: custo=null, renda=null, status=review
+- OK Crabbo Limonetta: custo=null, renda=null, status=review
+- OK Craburger: custo=null, renda=null, status=review
+- OK Cuadramat and Pakrahmatmamat: custo=null, renda=null, status=review
+- OK Cupcake Koala: custo=null, renda=null, status=review
+- OK Cupid Cupid Sahur: custo=null, renda=null, status=review
+- OK Cupid Hotspot: custo=null, renda=null, status=review
+- OK Digi Narwhal: custo=null, renda=null, status=review
+- OK Divino Platypio: custo=null, renda=null, status=review
+- OK DJ Panda: custo=null, renda=null, status=review
+- OK Doi Doi Do: custo=null, renda=null, status=review
+- OK Dolphini Jetskini: custo=null, renda=null, status=review
+- OK Donkeyturbo Express: custo=null, renda=null, status=review
+- OK Dragon Aquanini: custo=null, renda=null, status=review
+- OK Dragon Cannelloni: custo=null, renda=null, status=review
+- OK Dragon Gingerini: custo=null, renda=null, status=review
+- OK Dug dug dug: custo=45500000, renda=255000, status=confirmed
+- OK Duggy Bros: custo=null, renda=null, status=review
+- OK Dul Dul Dul: custo=null, renda=null, status=review
+- OK Dumborino Miracello: custo=null, renda=null, status=review
+- OK Duo Brainrots: custo=null, renda=null, status=review
+- OK Easter Easter Easter Sahur: custo=null, renda=null, status=review
+- OK Eggdin Egg Egg Dun: custo=null, renda=null, status=review
+- OK Eid Eid Eid Sahur: custo=null, renda=null, status=review
+- OK Electro Quacko: custo=null, renda=null, status=review
+- OK Elefanto Frigo: custo=4600000, renda=14000, status=confirmed
+- OK Esok Goala: custo=null, renda=null, status=review
+- OK Esok Sekolah: custo=null, renda=null, status=review
+- OK Espresso Signora: custo=null, renda=null, status=review
+- OK Eviledon: custo=null, renda=null, status=review
+- OK Extinct Ballerina: custo=null, renda=null, status=review
+- OK Extinct Matteo: custo=null, renda=null, status=review
+- OK Extinct Tralalero: custo=null, renda=null, status=review
+- OK Festive 67: custo=null, renda=null, status=review
+- OK Fishboard: custo=null, renda=null, status=review
+- OK Fishino Clownino: custo=null, renda=null, status=review
+- OK Fizzy Soda: custo=null, renda=null, status=review
+- OK Flancito: custo=null, renda=null, status=review
+- OK Flappin Clover: custo=42, renda=null, status=review
+- OK Flipa Sandala: custo=null, renda=null, status=review
+- OK Flippo Marino: custo=null, renda=null, status=review
+- OK Fluriflura: custo=null, renda=null, status=review
+- OK Fortunu and Cashuru: custo=null, renda=null, status=review
+- OK Foxini Lanternini: custo=null, renda=null, status=review
+- OK Fragola La La La: custo=null, renda=null, status=review
+- OK Fragrama and Chocrama: custo=null, renda=null, status=review
+- OK Frankentteo: custo=null, renda=null, status=review
+- OK Frigo Camelo: custo=null, renda=null, status=review
+- OK Frio Ninja: custo=null, renda=null, status=review
+- OK Frogato Pirato: custo=null, renda=null, status=review
+- OK Frogo Elfo: custo=null, renda=null, status=review
+- OK Frullato Framingo: custo=null, renda=null, status=review
+- OK Futbolini Skatini: custo=null, renda=null, status=review
+- OK Ganganzelli Trulala: custo=null, renda=null, status=review
+- OK Gangster Footera: custo=null, renda=null, status=review
+- OK Garama and Madundung: custo=10000000000, renda=50000000, status=confirmed
+- OK Gato Celesto: custo=null, renda=null, status=review
+- OK Gattatino Neonino: custo=null, renda=null, status=review
+- OK Gattatino Nyanino: custo=null, renda=null, status=review
+- OK Gattito Tacoto: custo=32500000, renda=165000, status=confirmed
+- OK Gelato Lumacho: custo=null, renda=null, status=review
+- OK Giftini Spyderini: custo=null, renda=null, status=review
+- OK Ginger Cisterna: custo=null, renda=null, status=review
+- OK Ginger Gerat: custo=null, renda=null, status=review
+- OK Ginger Globo: custo=null, renda=null, status=review
+- OK Girafa Celestre: custo=null, renda=null, status=review
+- OK Girafini Raftini: custo=null, renda=null, status=review
+- OK Glaciator: custo=null, renda=null, status=review
+- OK Globa Steppa: custo=null, renda=null, status=review
+- OK Glorbo Fruttodrillo: custo=null, renda=null, status=review
+- OK GOAT: custo=null, renda=null, status=review
+- OK Gobblino Uniciclino: custo=null, renda=null, status=review
+- OK Gold Elf: custo=null, renda=null, status=review
+- OK Gold Gold Gold: custo=null, renda=null, status=review
+- OK Gorillo Subwoofero: custo=null, renda=null, status=review
+- OK Gorillo Watermelondrillo: custo=null, renda=null, status=review
+- OK Graipuss Medussi: custo=null, renda=null, status=review
+- OK Granchiello Spiritell: custo=null, renda=null, status=review
+- OK Granny: custo=null, renda=null, status=review
+- OK Griffin: custo=null, renda=null, status=review
+- OK Guerriro Digitale: custo=null, renda=null, status=review
+- OK Guest 666: custo=null, renda=null, status=review
+- OK Gym Bros: custo=null, renda=null, status=review
+- OK Harpuccino: custo=null, renda=null, status=review
+- OK Headless Horseman: custo=null, renda=null, status=review
+- OK Hippo Golazo: custo=null, renda=null, status=review
+- OK Ho Ho Ho Sahur: custo=null, renda=null, status=review
+- OK Holy Arepa: custo=null, renda=null, status=review
+- OK Hopilikalika Hopilikalako: custo=null, renda=null, status=review
+- OK Horegini Boom: custo=null, renda=null, status=review
+- OK Hydra Bunny: custo=null, renda=null, status=review
+- OK Hydra Dragon Cannelloni: custo=null, renda=null, status=review
+- OK Ice Dragon: custo=null, renda=null, status=review
+- OK Jacko Jack Jack: custo=null, renda=null, status=review
+- OK Jacko Spaventosa: custo=null, renda=null, status=review
+- OK Jackorilla: custo=null, renda=null, status=review
+- OK Jelly Moby: custo=null, renda=null, status=review
+- OK Jingle Jingle Sahur: custo=null, renda=null, status=review
+- OK Job Job Job Sahur: custo=null, renda=null, status=review
+- OK John Doe: custo=null, renda=null, status=review
+- OK John Pork: custo=null, renda=null, status=review
+- OK Jolly Jolly Sahur: custo=null, renda=null, status=review
+- OK Kalika Bros: custo=47500000000, renda=115000000, status=confirmed
+- OK Karker Sahur: custo=null, renda=null, status=review
+- OK Karkerheart Luvkur: custo=null, renda=null, status=review
+- OK Karkerkar Kurkur: custo=null, renda=null, status=review
+- OK Karkerkur Family: custo=null, renda=null, status=review
+- OK Ketchuru and Musturu: custo=null, renda=null, status=review
+- OK Ketupat Bros: custo=null, renda=null, status=review
+- OK Ketupat Kepat: custo=null, renda=null, status=review
+- OK Kraken: custo=null, renda=null, status=review
+- OK Krupuk Pagi Pagi: custo=null, renda=null, status=review
+- OK La Anniversary Grande: custo=null, renda=null, status=review
+- OK La Casa Boo: custo=null, renda=null, status=review
+- OK La Cucaracha: custo=null, renda=null, status=review
+- OK La Easter Grande: custo=null, renda=null, status=review
+- OK La Extinct Grande: custo=null, renda=null, status=review
+- OK La Food Combinasion: custo=null, renda=null, status=review
+- OK La Ginger Sekolah: custo=null, renda=null, status=review
+- OK La Grande Combinasion: custo=null, renda=null, status=review
+- OK La Jolly Grande: custo=null, renda=null, status=review
+- OK La Karkerkar Combinasion: custo=null, renda=null, status=review
+- OK La Lucky Grande: custo=null, renda=null, status=review
+- OK La Romantic Grande: custo=null, renda=null, status=review
+- OK La Sahur Combinasion: custo=null, renda=null, status=review
+- OK La Secret Combinasion: custo=null, renda=null, status=review
+- OK La Spooky Grande: custo=null, renda=null, status=review
+- OK La Summer Grande: custo=null, renda=null, status=review
+- OK La Supreme Combinasion: custo=null, renda=null, status=review
+- OK La Taco Combinasion: custo=null, renda=null, status=review
+- OK La Vacca Jacko Linterino: custo=null, renda=null, status=review
+- OK La Vacca Lepre Lepreino: custo=null, renda=null, status=review
+- OK La Vacca Prese Presente: custo=160000000, renda=600000, status=confirmed
+- OK La Vacca Saturno Saturnita: custo=null, renda=null, status=review
+- OK Las Capuchinas: custo=null, renda=null, status=review
+- OK Las Sis: custo=null, renda=null, status=review
+- OK Las Tralaleritas: custo=null, renda=null, status=review
+- OK Las Vaquitas Saturnitas: custo=null, renda=null, status=review
+- OK Lavadorito Spinito: custo=null, renda=null, status=review
+- OK Lazy Ducky: custo=null, renda=null, status=review
+- OK Lemonita Splashita: custo=null, renda=null, status=review
+- OK Lerulerulerule: custo=null, renda=null, status=review
+- OK Lionel Cactuseli: custo=null, renda=null, status=review
+- OK Lirilì Larilà: custo=null, renda=null, status=review
+- OK List List List Sahur: custo=null, renda=null, status=review
+- OK Los 25: custo=null, renda=null, status=review
+- OK Los 67: custo=null, renda=null, status=review
+- OK Los Amigos: custo=null, renda=null, status=review
+- OK Los Bombinitos: custo=null, renda=null, status=review
+- OK Los Bros: custo=null, renda=null, status=review
+- OK Los Bunitos: custo=null, renda=null, status=review
+- OK Los Burritos: custo=null, renda=null, status=review
+- OK Los Candies: custo=null, renda=null, status=review
+- OK Los Chicleteiras: custo=null, renda=null, status=review
+- OK Los Chihuaninis: custo=null, renda=null, status=review
+- OK Los Chillis: custo=null, renda=null, status=review
+- OK Los Combinasionas: custo=null, renda=null, status=review
+- OK Los Crocodillitos: custo=null, renda=null, status=review
+- OK Los Cucarachas: custo=null, renda=null, status=review
+- OK Los Cupids: custo=null, renda=null, status=review
+- OK Los Fruits: custo=null, renda=null, status=review
+- OK Los Gattitos: custo=null, renda=null, status=review
+- OK Los Hackers: custo=null, renda=null, status=review
+- OK Los Hotspotsitos: custo=null, renda=null, status=review
+- OK Los Jobcitos: custo=null, renda=null, status=review
+- OK Los Jolly Combinasionas: custo=null, renda=null, status=review
+- OK Los Karkeritos: custo=null, renda=null, status=review
+- OK Los Mariachis: custo=null, renda=null, status=review
+- OK Los Matteos: custo=null, renda=null, status=review
+- OK Los Mi Gatitos: custo=null, renda=null, status=review
+- OK Los Mobilis: custo=null, renda=null, status=review
+- OK Los Noobinis: custo=null, renda=null, status=review
+- OK Los Nooo My Hotspotsitos: custo=null, renda=null, status=review
+- OK Los Orcalitos: custo=null, renda=null, status=review
+- OK Los Planitos: custo=null, renda=null, status=review
+- OK Los Primos: custo=null, renda=null, status=review
+- OK Los Puggies: custo=null, renda=null, status=review
+- OK Los Quesadillas: custo=null, renda=null, status=review
+- OK Los Sekolahs: custo=null, renda=null, status=review
+- OK Los Spaghettis: custo=null, renda=null, status=review
+- OK Los Spooky Combinasionas: custo=null, renda=null, status=review
+- OK Los Spyderinis: custo=null, renda=null, status=review
+- OK Los Sweethearts: custo=null, renda=null, status=review
+- OK Los Tacoritas: custo=null, renda=null, status=review
+- OK Los Tipi Tacos: custo=null, renda=null, status=review
+- OK Los Tortus: custo=null, renda=null, status=review
+- OK Los Tralaleritos: custo=null, renda=null, status=review
+- OK Los Trios: custo=null, renda=null, status=review
+- OK Los Tungtungtungcitos: custo=null, renda=null, status=review
+- OK Love Love Bear: custo=null, renda=null, status=review
+- OK Love Love Love Sahur: custo=null, renda=null, status=review
+- OK Lovin Rose: custo=null, renda=null, status=review
+- OK Luck Luck Luck Sahur: custo=null, renda=null, status=review
+- OK Lumaca Malefica: custo=null, renda=null, status=review
+- OK Luv Luv Luv: custo=null, renda=null, status=review
+- OK Magi Ribbitini: custo=null, renda=null, status=review
+- OK Malame Amarele: custo=null, renda=null, status=review
+- OK Mangolini Parrocini: custo=null, renda=null, status=review
+- OK Mariachi Corazoni: custo=null, renda=null, status=review
+- OK Mastodontico Telepiedone: custo=null, renda=null, status=review
+- OK Matteo: custo=null, renda=null, status=review
+- OK Meowl: custo=null, renda=275000000, status=confirmed
+- OK Mi Gatito: custo=null, renda=null, status=review
+- OK Mieteteira Bicicleteira: custo=null, renda=null, status=review
+- OK Money Money Bros: custo=null, renda=null, status=review
+- OK Money Money Man: custo=null, renda=null, status=review
+- OK Money Money Puggy: custo=null, renda=null, status=review
+- OK Money Money Reindeer: custo=null, renda=null, status=review
+- OK Mummio Rappitto: custo=null, renda=null, status=review
+- OK Mummy Ambalabu: custo=null, renda=null, status=review
+- OK Mythic Lucky Block: custo=null, renda=null, status=review
+- OK Nacho Spyder: custo=null, renda=null, status=review
+- OK Naughty Naughty: custo=null, renda=null, status=review
+- OK Noo La Polizia: custo=null, renda=null, status=review
+- OK Noo my Candy: custo=null, renda=null, status=review
+- OK Noo my Eggs: custo=null, renda=null, status=review
+- OK Noo my examine: custo=null, renda=null, status=review
+- OK Noo my Gold: custo=null, renda=null, status=review
+- OK Noo my Heart: custo=null, renda=null, status=review
+- OK Noo my Present: custo=null, renda=null, status=review
+- OK Noobini Pizzanini: custo=null, renda=null, status=review
+- OK Noobini Santanini: custo=null, renda=null, status=review
+- OK Nooo My Hotspot: custo=null, renda=null, status=review
+- OK North Pole Event: custo=2, renda=null, status=review
+- OK Nuclearo Dinossauro: custo=null, renda=null, status=review
+- OK Octoball: custo=null, renda=null, status=review
+- OK Odin Din Din Dun: custo=null, renda=null, status=review
+- OK Ombrello Topolino: custo=null, renda=null, status=review
+- OK Orangutini Ananassini: custo=null, renda=null, status=review
+- OK Orbi Mochi: custo=null, renda=null, status=review
+- OK Orcaledon: custo=null, renda=null, status=review
+- OK Orcalero Orcala: custo=null, renda=null, status=review
+- OK Orcalita Orcala: custo=null, renda=null, status=review
+- OK Pakrahmatmamat: custo=null, renda=null, status=review
+- OK Pakrahmatmatina: custo=null, renda=null, status=review
+- OK Pancake and Syrup: custo=null, renda=null, status=review
+- OK Pandaccini Bananini: custo=null, renda=null, status=review
+- OK Pandanini Frostini: custo=null, renda=null, status=review
+- OK Paradiso Axolottino: custo=null, renda=null, status=review
+- OK Patteo: custo=null, renda=null, status=review
+- OK Pengolino Nuvoletto: custo=null, renda=null, status=review
+- OK Penguin Tree: custo=null, renda=null, status=review
+- OK Penguino Cocosino: custo=null, renda=null, status=review
+- OK Perochello Lemonchello: custo=null, renda=null, status=review
+- OK Perrito Burrito: custo=null, renda=null, status=review
+- OK Pi Pi Watermelon: custo=null, renda=null, status=review
+- OK Piccione Macchina: custo=null, renda=null, status=review
+- OK Piccionetta Machina: custo=null, renda=null, status=review
+- OK Pinealotto Fruttarino: custo=null, renda=null, status=review
+- OK Pineaplino: custo=null, renda=null, status=review
+- OK Pipi Avocado: custo=null, renda=null, status=review
+- OK Pipi Corni: custo=null, renda=null, status=review
+- OK Pipi Kiwi: custo=null, renda=null, status=review
+- OK Pipi Potato: custo=null, renda=null, status=review
+- OK Pirulitoita Bicicleteira: custo=null, renda=null, status=review
+- OK Please my Present: custo=null, renda=null, status=review
+- OK Pop Pop Sahur: custo=null, renda=null, status=review
+- OK Popcuru and Fizzuru: custo=null, renda=null, status=review
+- OK Pot Hotspot: custo=null, renda=null, status=review
+- OK Pot Pumpkin: custo=null, renda=null, status=review
+- OK Pretzo Robo: custo=null, renda=null, status=review
+- OK Puffaball: custo=null, renda=null, status=review
+- OK Pumpkini Spyderini: custo=null, renda=null, status=review
+- OK Quackini Snackini: custo=null, renda=null, status=review
+- OK Quackula: custo=null, renda=null, status=review
+- OK Quesadilla Crocodila: custo=null, renda=null, status=review
+- OK Quesadillo Vampiro: custo=null, renda=null, status=review
+- OK Quivioli Ameleonni: custo=null, renda=null, status=review
+- OK Raccooni Jandelini: custo=null, renda=null, status=review
+- OK Rainbow and Gold: custo=1, renda=null, status=review
+- OK Rang Ring Bus: custo=null, renda=null, status=review
+- OK Ref Ref Ref Sahur: custo=null, renda=null, status=review
+- OK Reindeer Tralala: custo=160000000, renda=600000, status=confirmed
+- OK Reinito Sleighito: custo=null, renda=null, status=review
+- OK Rhino Helicopterino: custo=null, renda=null, status=review
+- OK Rhino Toasterino: custo=null, renda=null, status=review
+- OK Rico Dinero: custo=null, renda=null, status=review
+- OK Robo Grafito: custo=null, renda=null, status=review
+- OK Rocco Disco: custo=150000000, renda=650000, status=confirmed
+- OK Rocketini Frostini: custo=null, renda=null, status=review
+- OK Rosetti Tualetti: custo=null, renda=null, status=review
+- OK Rosey and Teddy: custo=null, renda=null, status=review
+- OK Rubrikiko: custo=null, renda=null, status=review
+- OK Salamino Penguino: custo=null, renda=null, status=review
+- OK Sammyni Cakini: custo=null, renda=null, status=review
+- OK Sammyni Fattini: custo=null, renda=null, status=review
+- OK Sammyni Spyderini: custo=null, renda=null, status=review
+- OK Sand Sand Sand: custo=null, renda=null, status=review
+- OK Santa Hotspot: custo=null, renda=null, status=review
+- OK Santteo: custo=null, renda=null, status=review
+- OK Sealo Regalo: custo=null, renda=null, status=review
+- OK Secret Lucky Block: custo=null, renda=null, status=review
+- OK Serafinna Medusella: custo=null, renda=null, status=review
+- OK Seraphino Gruyero: custo=null, renda=null, status=review
+- OK Sigma Boy: custo=null, renda=null, status=review
+- OK Sigma Girl: custo=null, renda=null, status=review
+- OK Signore Carapace: custo=320000, renda=1300, status=confirmed
+- OK Skibidi Toilet: custo=null, renda=null, status=review
+- OK Skull Skull Skull: custo=null, renda=null, status=review
+- OK Smurf Cat: custo=null, renda=null, status=review
+- OK Snailenzo: custo=null, renda=null, status=review
+- OK Snailo Clovero: custo=null, renda=null, status=review
+- OK Spaghetti Tualetti: custo=null, renda=null, status=review
+- OK Spinny Hammy: custo=null, renda=null, status=review
+- OK Spioniro Golubiro: custo=null, renda=null, status=review
+- OK Spongini Quackini: custo=null, renda=null, status=review
+- OK Spooky and Pumpky: custo=null, renda=null, status=review
+- OK Spyder Elephant: custo=null, renda=null, status=review
+- OK Squalanana: custo=null, renda=null, status=review
+- OK Statutino Libertino: custo=null, renda=null, status=review
+- OK Steakini Fattini: custo=null, renda=null, status=review
+- OK Stoppo Luminino: custo=null, renda=null, status=review
+- OK Strawberrelli Flamingelli: custo=null, renda=null, status=review
+- OK Strawberrita: custo=null, renda=null, status=review
+- OK Strawberry Elephant: custo=500000000000, renda=250000000, status=confirmed
+- OK Sundrilla Sundae: custo=null, renda=null, status=review
+- OK Sushi Inu: custo=null, renda=null, status=review
+- OK Svinina Bombardino: custo=null, renda=null, status=review
+- OK Swag Soda: custo=null, renda=null, status=review
+- OK Swaggy Bros: custo=null, renda=null, status=review
+- OK Ta Ta Ta Ta Sahur: custo=null, renda=null, status=review
+- OK Tacorillo Crocodillo: custo=null, renda=null, status=review
+- OK Tacorita Bicicleta: custo=null, renda=null, status=review
+- OK Talpa Di Fero: custo=null, renda=null, status=review
+- OK Tang Tang Keletang: custo=null, renda=null, status=review
+- OK Tartaragno: custo=null, renda=null, status=review
+- OK Tartaruga Cisterna: custo=null, renda=null, status=review
+- OK Te Te Te Sahur: custo=null, renda=null, status=review
+- OK Telemorte: custo=null, renda=null, status=review
+- OK Tenini Ballini: custo=null, renda=null, status=review
+- OK Tentacolo Tecnico: custo=null, renda=null, status=review
+- OK Ti Ti Ti Sahur: custo=null, renda=null, status=review
+- OK Tictac Sahur: custo=null, renda=null, status=review
+- OK Tigrilini Watermelini: custo=null, renda=null, status=review
+- OK Tigroligre Frutonni: custo=null, renda=null, status=review
+- OK Tim Cheese: custo=null, renda=null, status=review
+- OK Tipi Topi Taco: custo=null, renda=null, status=review
+- OK Tirilikalika Tirilikalako: custo=null, renda=null, status=review
+- OK To to to Sahur: custo=575000000, renda=2250000, status=confirmed
+- OK Tob Tobi Tobi: custo=null, renda=null, status=review
+- OK Toiletto Focaccino: custo=4850000, renda=16000, status=confirmed
+- OK Tootini Shrimpini: custo=46000000, renda=260000, status=confirmed
+- OK Torrtuginni Dragonfrutini: custo=null, renda=null, status=review
+- OK Tortuginni Sandcastlini: custo=null, renda=null, status=review
+- OK Tracoducotulu Delapeladustuz: custo=null, renda=null, status=review
+- OK Tractoro Dinosauro: custo=null, renda=null, status=review
+- OK Tralaledon: custo=null, renda=null, status=review
+- OK Tralalero Tralala: custo=null, renda=null, status=review
+- OK Tralalita Tralala: custo=null, renda=null, status=review
+- OK Tree Tree Tree Sahur: custo=null, renda=null, status=review
+- OK Trenostruzzo Turbo 3000: custo=null, renda=null, status=review
+- OK Trenostruzzo Turbo 4000: custo=null, renda=null, status=review
+- OK Trenotubo Axolotrico 9000: custo=null, renda=null, status=review
+- OK Tric Trac Baraboom: custo=null, renda=null, status=review
+- OK Trickolino: custo=null, renda=null, status=review
+- OK Triplito Tralaleritos: custo=null, renda=null, status=review
+- OK Trippi Troppi: custo=null, renda=null, status=review
+- OK Trippi Troppi Troppa Trippa: custo=null, renda=null, status=review
+- OK Trulimero Trulicina: custo=null, renda=null, status=review
+- OK Tuff Toucan: custo=null, renda=null, status=review
+- OK Tukanno Bananno: custo=null, renda=null, status=review
+- OK Tung Tung Tung Sahur: custo=500000000, renda=1500000, status=confirmed
+- OK Unclito Samito: custo=null, renda=null, status=review
+- OK Urubini Flamenguini: custo=null, renda=null, status=review
+- OK Valentine's Brainrots: custo=null, renda=null, status=review
+- OK Vampira Cappucina: custo=null, renda=null, status=review
+- OK Ventoliero Pavonero: custo=null, renda=null, status=review
+- OK Venuspino: custo=null, renda=null, status=review
+- OK Vulturino Skeletono: custo=null, renda=null, status=review
+- OK W or L: custo=null, renda=null, status=review
+- OK Wheelchair Granny: custo=null, renda=null, status=review
+- OK Wombo Rollo: custo=null, renda=null, status=review
+- OK Yess my examine: custo=null, renda=null, status=review
+- OK Yeti Claus: custo=null, renda=null, status=review
+- OK Zibra Zubra Zibralini: custo=null, renda=null, status=review
+- OK Zombie Tralala: custo=null, renda=null, status=review
