@@ -6449,8 +6449,8 @@ body {
   width: min(100% - clamp(32px, 14vw, 244px), 1376px);
   min-height: clamp(260px, 34vw, 360px);
   display: grid;
-  grid-template-columns: minmax(0, 1fr) minmax(220px, 0.36fr);
-  gap: clamp(18px, 5vw, 72px);
+  grid-template-columns: minmax(0, 1fr) minmax(340px, 0.48fr);
+  gap: clamp(22px, 5vw, 76px);
   align-items: center;
   margin: 0 auto;
   padding: clamp(34px, 5.2vw, 78px) 0 clamp(26px, 4vw, 58px);
@@ -6506,48 +6506,82 @@ body {
 }
 
 .home-portal .portal-hero-art {
-  min-height: 210px;
+  min-height: clamp(260px, 29vw, 340px);
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
 }
 
 .home-portal .portal-showcase {
   position: relative;
-  width: min(100%, 260px);
-  min-height: 210px;
+  display: grid;
+  grid-template-columns: minmax(0, 1.05fr) minmax(116px, 0.68fr);
+  grid-template-rows: 92px 1fr;
+  gap: 16px;
+  align-items: stretch;
+  width: min(100%, 430px);
+  min-height: 286px;
   margin-left: auto;
 }
 
-.home-portal .portal-showcase-logo {
-  position: absolute;
+.home-portal .portal-showcase-card,
+.home-portal .portal-showcase-logo-card {
+  position: relative;
+  overflow: hidden;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  background:
+    linear-gradient(140deg, rgba(255, 255, 255, 0.08), rgba(255, 255, 255, 0.02)),
+    rgba(16, 17, 25, 0.86);
+  box-shadow: 0 22px 56px rgba(0, 0, 0, 0.34);
+}
+
+.home-portal .portal-showcase-card {
+  border-radius: 18px;
+}
+
+.home-portal .portal-showcase-logo-card {
   z-index: 3;
-  right: 28px;
-  top: 26px;
-  width: 90px;
-  height: 90px;
-  object-fit: contain;
-  filter: drop-shadow(0 18px 28px rgba(0, 0, 0, 0.42));
+  display: grid;
+  place-items: center;
+  justify-self: center;
+  width: 92px;
+  height: 92px;
+  border-radius: 16px;
+  transform: rotate(3deg);
+}
+
+.home-portal .garden-showcase-card {
+  grid-row: 1 / span 2;
+  min-height: 286px;
+  transform: rotate(-2deg);
+}
+
+.home-portal .brainrot-showcase-card {
+  align-self: end;
+  min-height: 160px;
+  transform: rotate(3deg);
 }
 
 .home-portal .portal-showcase-image {
-  position: absolute;
-  width: 128px;
-  aspect-ratio: 1;
-  border-radius: 12px;
+  display: block;
+  width: 100%;
+  height: 100%;
   object-fit: cover;
-  opacity: 0.5;
-  border: 1px solid rgba(255, 255, 255, 0.11);
-  box-shadow: 0 18px 36px rgba(0, 0, 0, 0.32);
+}
+
+.home-portal .portal-showcase-logo {
+  width: 72px;
+  height: 72px;
+  object-fit: contain;
+  filter: drop-shadow(0 14px 20px rgba(0, 0, 0, 0.42));
 }
 
 .home-portal .brainrot-showcase {
-  right: 0;
-  bottom: 0;
-  transform: rotate(6deg);
+  object-position: center;
 }
 
 .home-portal .garden-showcase {
-  left: 0;
-  top: 88px;
-  transform: rotate(-5deg);
+  object-position: center;
 }
 
 .home-portal .hero-scroll-button {
@@ -6735,21 +6769,29 @@ body {
 
 .home-portal .portal-benefit-item {
   display: grid;
-  justify-items: center;
-  gap: 18px;
-  min-height: 212px;
-  padding: 24px;
+  grid-template-columns: 56px minmax(0, 1fr);
+  align-items: center;
+  gap: 16px;
+  min-height: 136px;
+  padding: 20px;
   border: 1px solid rgba(255, 255, 255, 0.1);
-  border-radius: 22px;
+  border-radius: 18px;
   background: rgba(17, 18, 26, 0.72);
-  text-align: center;
-  box-shadow: 0 20px 54px rgba(0, 0, 0, 0.28);
+  text-align: left;
+  box-shadow: 0 18px 42px rgba(0, 0, 0, 0.24);
+  transition: transform 160ms ease, border-color 160ms ease, box-shadow 160ms ease;
+}
+
+.home-portal .portal-benefit-item:hover {
+  transform: translateY(-2px);
+  border-color: rgba(223, 255, 0, 0.28);
+  box-shadow: 0 22px 48px rgba(0, 0, 0, 0.32);
 }
 
 .home-portal .benefit-icon {
   position: relative;
-  width: 64px;
-  height: 64px;
+  width: 56px;
+  height: 56px;
   border-radius: 12px;
   background: rgba(223, 255, 0, 0.1);
   color: var(--thur-neon);
@@ -6758,10 +6800,10 @@ body {
 .home-portal .benefit-icon[data-icon="send"]::before {
   content: "";
   position: absolute;
-  left: 16px;
-  top: 17px;
-  width: 28px;
-  height: 28px;
+  left: 15px;
+  top: 16px;
+  width: 24px;
+  height: 24px;
   border-top: 3px solid currentColor;
   border-right: 3px solid currentColor;
   transform: rotate(22deg) skew(-12deg);
@@ -6770,10 +6812,10 @@ body {
 .home-portal .benefit-icon[data-icon="headphones"]::before {
   content: "";
   position: absolute;
-  left: 17px;
-  top: 17px;
-  width: 26px;
-  height: 24px;
+  left: 15px;
+  top: 16px;
+  width: 24px;
+  height: 22px;
   border: 3px solid currentColor;
   border-bottom: 0;
   border-radius: 18px 18px 0 0;
@@ -6782,21 +6824,21 @@ body {
 .home-portal .benefit-icon[data-icon="headphones"]::after {
   content: "";
   position: absolute;
-  left: 15px;
-  right: 15px;
-  top: 34px;
-  height: 14px;
-  border-left: 5px solid currentColor;
-  border-right: 5px solid currentColor;
+  left: 14px;
+  right: 14px;
+  top: 32px;
+  height: 13px;
+  border-left: 4px solid currentColor;
+  border-right: 4px solid currentColor;
 }
 
 .home-portal .benefit-icon[data-icon="shield"]::before {
   content: "";
   position: absolute;
-  left: 20px;
-  top: 15px;
-  width: 24px;
-  height: 30px;
+  left: 18px;
+  top: 14px;
+  width: 22px;
+  height: 28px;
   border: 3px solid currentColor;
   border-radius: 8px 8px 12px 12px;
   clip-path: polygon(50% 0, 100% 14%, 100% 70%, 50% 100%, 0 70%, 0 14%);
@@ -6805,8 +6847,8 @@ body {
 .home-portal .benefit-icon[data-icon="shield"]::after {
   content: "";
   position: absolute;
-  left: 28px;
-  top: 27px;
+  left: 25px;
+  top: 25px;
   width: 9px;
   height: 5px;
   border-left: 2px solid currentColor;
@@ -6816,14 +6858,16 @@ body {
 
 .home-portal .portal-benefit-item strong {
   color: #f7f8fb;
-  font-size: 1.15rem;
+  font-size: 1.06rem;
+  line-height: 1.2;
 }
 
 .home-portal .portal-benefit-item p {
-  max-width: 24rem;
-  margin: 0;
+  max-width: 26rem;
+  margin: 7px 0 0;
   color: #b8bdc8;
-  line-height: 1.55;
+  font-size: 0.94rem;
+  line-height: 1.45;
 }
 
 .home-portal .portal-reviews {
@@ -7061,11 +7105,15 @@ body {
 
   .home-portal .portal-showcase {
     margin: 0 auto;
+    width: min(100%, 400px);
   }
 
-  .home-portal .portal-game-grid,
-  .home-portal .portal-benefits-grid {
+  .home-portal .portal-game-grid {
     grid-template-columns: 1fr;
+  }
+
+  .home-portal .portal-benefits-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
   .home-portal .review-card {
@@ -7109,7 +7157,16 @@ body {
   }
 
   .home-portal .portal-hero-art {
-    min-height: 200px;
+    min-height: 250px;
+  }
+
+  .home-portal .portal-benefits-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .home-portal .portal-benefit-item {
+    min-height: 124px;
+    padding: 18px;
   }
 
   .home-portal .portal-game-card {
@@ -7173,18 +7230,30 @@ body {
   }
 
   .home-portal .portal-showcase {
-    min-height: 184px;
-    width: 232px;
+    grid-template-columns: minmax(0, 1fr) 104px;
+    grid-template-rows: 76px 1fr;
+    gap: 12px;
+    min-height: 220px;
+    width: min(100%, 322px);
+  }
+
+  .home-portal .portal-showcase-logo-card {
+    width: 76px;
+    height: 76px;
+    border-radius: 14px;
   }
 
   .home-portal .portal-showcase-logo {
-    right: 26px;
-    width: 76px;
-    height: 76px;
+    width: 58px;
+    height: 58px;
   }
 
-  .home-portal .portal-showcase-image {
-    width: 110px;
+  .home-portal .garden-showcase-card {
+    min-height: 220px;
+  }
+
+  .home-portal .brainrot-showcase-card {
+    min-height: 132px;
   }
 
   .home-portal .portal-game-card {

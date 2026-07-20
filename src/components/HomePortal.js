@@ -132,17 +132,17 @@ const BENEFITS = [
   {
     icon: 'send',
     title: 'Envio imediato',
-    text: 'Receba as instruções e o andamento do pedido de forma rápida após a confirmação.'
+    text: 'Receba instruções e atualizações do pedido rapidamente após a confirmação.'
   },
   {
     icon: 'headphones',
     title: 'Suporte eficiente',
-    text: 'Em caso de dúvidas, fale com o suporte da loja para receber ajuda no processo.'
+    text: 'Fale com o suporte da loja sempre que precisar de ajuda.'
   },
   {
     icon: 'shield',
     title: 'Compra segura',
-    text: 'Seus dados são tratados com segurança durante o fluxo de pedido e pagamento.'
+    text: 'Seus dados são tratados com segurança durante o pedido e pagamento.'
   }
 ];
 
@@ -1216,9 +1216,15 @@ export class HomePortal {
       ]),
       createElement('div', { class: 'portal-hero-art' }, [
         createElement('div', { class: 'portal-showcase', 'aria-hidden': 'true' }, [
-          createElement('img', { src: APP_LOGO, alt: '', class: 'portal-showcase-logo' }),
-          createElement('img', { src: PORTAL_CARD_IMAGES.brainrot, alt: '', class: 'portal-showcase-image brainrot-showcase' }),
-          createElement('img', { src: PORTAL_CARD_IMAGES['grow-garden'], alt: '', class: 'portal-showcase-image garden-showcase' })
+          createElement('div', { class: 'portal-showcase-card garden-showcase-card' }, [
+            createElement('img', { src: PORTAL_CARD_IMAGES['grow-garden'], alt: '', class: 'portal-showcase-image garden-showcase' })
+          ]),
+          createElement('div', { class: 'portal-showcase-card brainrot-showcase-card' }, [
+            createElement('img', { src: PORTAL_CARD_IMAGES.brainrot, alt: '', class: 'portal-showcase-image brainrot-showcase' })
+          ]),
+          createElement('div', { class: 'portal-showcase-logo-card' }, [
+            createElement('img', { src: APP_LOGO, alt: '', class: 'portal-showcase-logo' })
+          ])
         ])
       ]),
       createElement('button', { type: 'button', class: 'hero-scroll-button', 'data-action': 'see-games-secondary', 'aria-label': 'Descer para categorias' }, '')
