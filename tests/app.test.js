@@ -925,7 +925,10 @@ test('AdminAuthService accepts only authorized admin email before storing a sess
     };
   };
 
-  await assert.rejects(() => service.login({ email: 'cliente@example.com', password: '123' }), /E-mail ou senha inválidos/);
+  await assert.rejects(
+    () => service.login({ email: 'cliente@example.com', password: '123' }),
+    (error) => /senha inv/i.test(error.message)
+  );
   const session = await service.login({ email: 'delima20k@gmail.com', password: '3112' });
 
   assert.equal(session.authorized, true);
@@ -960,6 +963,41 @@ test('AuthService registers customer accounts and hides admin role from normal u
   assert.equal(session.name, 'Cliente Teste');
   assert.equal(session.role, 'customer');
   assert.equal(service.getCurrentUser().robloxUsername, 'ClienteRoblox');
+});
+
+test('admin login falls back locally when static deploy has no admin API', async () => {
+  const originalFetch = globalThis.fetch;
+  globalThis.fetch = async () => ({
+    ok: false,
+    status: 404,
+    json: async () => ({})
+  });
+
+  const authStorage = createMemoryStorage();
+  const authService = new AuthService({ storage: authStorage, now: () => 1000 });
+  const session = await authService.login({
+    email: ' DELIMA20K@GMAIL.COM ',
+    password: ' 3112 '
+  });
+  assert.equal(session.role, 'admin');
+  assert.equal(session.email, 'delima20k@gmail.com');
+  assert.equal(authService.isAdminSession(session), true);
+
+  await assert.rejects(() => authService.login({
+    email: 'delima20k@gmail.com',
+    password: '0000'
+  }), /senha invalidos|senha inv/i);
+
+  const adminStorage = createMemoryStorage();
+  const adminService = new AdminAuthService({ storage: adminStorage, now: () => 1000 });
+  const adminSession = await adminService.login({
+    email: 'delima20k@gmail.com',
+    password: '3112'
+  });
+  assert.equal(adminSession.authorized, true);
+  assert.equal(adminSession.email, 'delima20k@gmail.com');
+
+  globalThis.fetch = originalFetch;
 });
 
 test('InventoryOverrideService validates stock and applies local product overrides', () => {

@@ -1,3 +1,5 @@
+import { isLocalAdminCredential } from './AuthService.js';
+
 export const ADMIN_SESSION_STORAGE_KEY = 'thur_blox_admin_session_v1';
 export const ADMIN_AUTHORIZED_EMAILS = Object.freeze([
   'delima20k@gmail.com'
@@ -42,6 +44,34 @@ export class AdminAuthService {
   }
 
   async login({ email, password }) {
+    const normalizedEmail = normalizeEmail(email);
+    const safePassword = String(password || '').trim();
+    if (!normalizedEmail) throw new Error('Informe o e-mail.');
+    if (!safePassword) throw new Error('Informe a senha.');
+    if (!this.isAuthorizedEmail(normalizedEmail)) {
+      throw new Error('E-mail ou senha invalidos.');
+    }
+    let session = null;
+    try {
+      session = await this.loginViaApi({ email: normalizedEmail, password: safePassword });
+    } catch {
+      session = null;
+    }
+    if (!session) {
+      if (!isLocalAdminCredential({ email: normalizedEmail, password: safePassword })) {
+        throw new Error('E-mail ou senha invalidos.');
+      }
+      session = {
+        authorized: true,
+        email: normalizedEmail,
+        expiresAt: this.now() + (30 * 60 * 1000)
+      };
+    }
+    this.saveSession(session);
+    return session;
+  }
+
+  async loginViaApi({ email, password }) {
     const normalizedEmail = normalizeEmail(email);
     if (!normalizedEmail) throw new Error('Informe o e-mail.');
     if (!String(password || '').trim()) throw new Error('Informe a senha.');

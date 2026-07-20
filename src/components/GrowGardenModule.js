@@ -492,6 +492,24 @@ export class GrowGardenModule {
     this.adminAccess.error = '';
     this.render();
     try {
+      const session = await this.authService.login({
+        email: this.adminAccess.email,
+        password: this.adminAccess.password
+      });
+      if (this.authService.isAdminSession(session)) {
+        this.adminAccess.authorized = true;
+        this.adminAccess.email = session.email;
+        this.adminAccess.modalOpen = false;
+        this.adminAccess.password = '';
+        this.adminSession = session;
+        this.activeTab = 'admin';
+        if (this.isLocalOrderStorageMode()) {
+          this.manualOrders = this.localOrderRepository.list();
+        } else {
+          await this.loadUserOrders();
+        }
+        return;
+      }
       const response = await fetch('/api/admin/access', {
         method: 'POST',
         credentials: 'include',
