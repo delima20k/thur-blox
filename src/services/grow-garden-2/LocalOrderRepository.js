@@ -1,4 +1,4 @@
-const DEFAULT_STORAGE_KEY = 'thur_blox_local_test_orders';
+const DEFAULT_STORAGE_KEY = 'thur_blox_local_orders';
 
 export class LocalOrderRepository {
   constructor({ storage = globalThis.localStorage, storageKey = DEFAULT_STORAGE_KEY } = {}) {
@@ -27,8 +27,8 @@ export class LocalOrderRepository {
     const store = this.readStore();
     const safeOrder = {
       ...order,
-      storageMode: 'local_test',
-      storageLabel: 'Pedido local.',
+      storageMode: 'local',
+      storageLabel: 'Pedido manual.',
       customer_user_id: order.customerUserId || order.customer_user_id || null,
       customer_email: order.email || '',
       customer_name: order.customerName || '',

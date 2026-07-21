@@ -213,22 +213,19 @@ test('Grow a Garden 2 required seed images are mapped to confirmed unique webp a
   assert.equal(existsSync(resolve(projectRoot, 'src', 'data', 'grow-garden-seeds.js')), false, 'legacy mock seed file must not exist');
 });
 
-test('Grow a Garden 2 commerce starts locked without real prices or stock', () => {
-  assert.equal(STORE_COMMERCE_CONFIG.commerceEnabled, false);
-  assert.equal(STORE_COMMERCE_CONFIG.testCheckoutEnabled, true);
+test('Grow a Garden 2 commerce creates manual local orders without a backend API', () => {
+  assert.equal(STORE_COMMERCE_CONFIG.commerceEnabled, true);
+  assert.equal(STORE_COMMERCE_CONFIG.testCheckoutEnabled, false);
   assert.equal(STORE_COMMERCE_CONFIG.orderStorageMode, 'local');
-  assert.equal(growGardenStoreProductsData.defaultSaleEnabled, false);
-  assert.equal(growGardenStoreProductsData.defaultPriceInCents, null);
-  assert.equal(growGardenStoreProductsData.defaultAvailableStock, 0);
+  assert.equal(STORE_COMMERCE_CONFIG.paymentEnvironment, 'production');
   assert.equal(growGardenStoreProductsData.currency, 'BRL');
   assert.equal(growGardenStoreProductsData.deliveryType, 'manual_in_game');
-  assert.ok(growGardenModuleCode.includes('Modo de teste'), 'UI should explain the test mode without raw technical flags');
+  assert.equal(growGardenModuleCode.includes('Modo de teste'), false, 'customer UI must not show test mode');
   assert.equal(growGardenModuleCode.includes('COMMERCE_ENABLED=false'), false, 'customer UI must not show raw technical flags');
-  assert.ok(growGardenModuleCode.includes('Nenhuma cobranca real sera gerada'), 'UI must not imply real Pix while locked');
   assert.ok(growGardenModuleCode.includes('ORDER_CREATE_ERROR'), 'checkout must log real order creation failures');
   assert.ok(growGardenModuleCode.includes('Nenhum cupom aplicado.'), 'empty coupons should be described clearly');
-  assert.ok(growGardenModuleCode.includes('LocalOrderRepository'), 'local test orders should have an explicit repository');
-  assert.ok(growGardenModuleCode.includes('ORDER_LOCAL_TEST_STORAGE'), 'local test fallback must be visible in console');
+  assert.ok(growGardenModuleCode.includes('LocalOrderRepository'), 'manual local orders should have an explicit repository');
+  assert.ok(growGardenModuleCode.includes('ORDER_LOCAL_STORAGE'), 'local order creation must be visible in development logs');
   assert.ok(!storeConfigCode.includes('VITE_'), 'secret-like commerce config must not use VITE-prefixed keys');
 });
 
@@ -1341,8 +1338,7 @@ test('cart checkout accepts refreshed seed and package stock and still blocks so
   const productsBySlug = new Map(growGardenStoreProductsData.products.map((product) => [product.slug, product]));
   const availableResult = service.buildCartPixOrder({
     items: [
-      ['moon-bloom-seed', 2],
-      ['5x-moon-bloom-seed', 5]
+      ['firefly', 1]
     ].map(([slug, quantity]) => {
       const product = service.normalizeStoreProduct(productsBySlug.get(slug));
       return { seed: { ...product, commerce: product }, quantity };
@@ -1358,11 +1354,13 @@ test('cart checkout accepts refreshed seed and package stock and still blocks so
   });
 
   assert.equal(availableResult.ok, true);
-  assert.equal(availableResult.order.items.length, 2);
-  assert.equal(availableResult.order.totalInCents, 21330);
+  assert.equal(availableResult.order.items.length, 1);
+  assert.equal(availableResult.order.productSlug, 'firefly');
+  assert.equal(availableResult.order.totalInCents, 790);
+  assert.equal(availableResult.order.pixPayloadStatus, 'ready');
 
   const overStockResult = service.buildCartPixOrder({
-    items: [['moon-bloom-seed', 101]].map(([slug, quantity]) => {
+    items: [['firefly', 11]].map(([slug, quantity]) => {
       const product = service.normalizeStoreProduct(productsBySlug.get(slug));
       return { seed: { ...product, commerce: product }, quantity };
     }),
@@ -1377,7 +1375,7 @@ test('cart checkout accepts refreshed seed and package stock and still blocks so
   });
   assert.equal(overStockResult.ok, false);
   assert.equal(overStockResult.code, 'OUT_OF_STOCK');
-  assert.equal(overStockResult.errors.includes('Moon Bloom Seed nao possui estoque suficiente.'), true);
+  assert.equal(overStockResult.errors.includes('Firefly nao possui estoque suficiente.'), true);
 
   const blockedResult = service.buildCartPixOrder({
     items: ['hypno-bloom-seed', 'dragon-breath-seed'].map((slug) => {
@@ -1536,7 +1534,7 @@ test('Thur Blox keeps public portal while protecting admin by authorized email',
   assert.equal(growGardenModuleCode.includes("'PK'"), false);
 });
 
-test('LocalOrderRepository persists local test orders for checkout and admin', () => {
+test('LocalOrderRepository persists manual local orders for checkout and admin', () => {
   const memory = new Map();
   const storage = {
     getItem: (key) => memory.get(key) || null,
@@ -1562,7 +1560,8 @@ test('LocalOrderRepository persists local test orders for checkout and admin', (
     createdAt: '2026-07-02T00:00:00.000Z'
   });
 
-  assert.equal(created.storageMode, 'local_test');
+  assert.equal(created.storageMode, 'local');
+  assert.equal(created.storageLabel, 'Pedido manual.');
   assert.equal(created.customer_user_id, 'user_cliente_1');
   assert.equal(created.totalInCents, 790);
   assert.equal(repository.findByCode('thur-local1').orderCode, 'THUR-LOCAL1');

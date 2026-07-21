@@ -1,16 +1,16 @@
 export const STORE_COMMERCE_CONFIG = Object.freeze({
   commerceEnabled: true,
   testCheckoutEnabled: false,
-  orderStorageMode: 'backend',
-  paymentEnvironment: 'sandbox',
+  orderStorageMode: 'local',
+  paymentEnvironment: 'production',
   apiBaseUrl: '/api',
   paymentProvider: null,
   pix: Object.freeze({
     mode: 'manual',
     key: 'delimathur668@gmail.com',
     keyType: 'email',
-    receiverName: '',
-    receiverCity: ''
+    receiverName: 'THUR BLOX',
+    receiverCity: 'SAO PAULO'
   }),
   storeName: 'THUR BLOX',
   requiredProductionDocuments: [

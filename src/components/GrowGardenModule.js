@@ -29,7 +29,7 @@ const ORDER_ERROR_MESSAGES = {
   API_NOT_CONFIGURED: 'O servico de pedidos ainda nao foi configurado.',
   API_OFFLINE: 'O servico de pedidos esta temporariamente indisponivel.',
   CORS_ERROR: 'O navegador bloqueou a comunicacao com o servico de pedidos.',
-  ORDER_API_ERROR: 'O servico recusou a criacao do pedido.',
+  ORDER_API_ERROR: 'Servico de pedidos indisponivel. Tente novamente.',
   LOCAL_STORAGE_ERROR: 'Nao foi possivel salvar o pedido.',
   PRODUCT_NOT_FOUND: 'Produto nao encontrado.',
   SALE_DISABLED: 'Este produto ainda nao esta disponivel para venda.',
@@ -1740,6 +1740,11 @@ export class GrowGardenModule {
     return STORE_COMMERCE_CONFIG.orderStorageMode === 'local';
   }
 
+  isCheckoutDebugEnabled() {
+    const host = String(globalThis.location?.hostname || '');
+    return ['localhost', '127.0.0.1', '::1'].includes(host);
+  }
+
   getOrderApiUrl() {
     const baseUrl = String(STORE_COMMERCE_CONFIG.apiBaseUrl || '').replace(/\/$/, '');
     return baseUrl ? `${baseUrl}${ORDER_API_PATH}` : DEFAULT_ORDER_API_URL;
@@ -1753,16 +1758,7 @@ export class GrowGardenModule {
 
   async createCheckoutOrder(seed, requestBody) {
     if (this.isLocalOrderStorageMode()) {
-      try {
-        return await this.createApiOrder(requestBody);
-      } catch (error) {
-        if (STORE_COMMERCE_CONFIG.testCheckoutEnabled !== true) throw error;
-        console.warn('ORDER_API_FALLBACK_LOCAL', {
-          message: 'API de pedidos indisponivel. Usando armazenamento local.',
-          code: error?.code || 'ORDER_API_ERROR'
-        });
-        return this.createLocalTestOrder(seed, requestBody);
-      }
+      return this.createLocalOrder(seed, requestBody);
     }
     return this.createApiOrder(requestBody);
   }
@@ -1897,16 +1893,33 @@ export class GrowGardenModule {
     return body.order;
   }
 
-  createLocalTestOrder(seed, requestBody) {
-    if (STORE_COMMERCE_CONFIG.testCheckoutEnabled !== true) {
-      throw new OrderServiceError('API_NOT_CONFIGURED', 'API_NOT_CONFIGURED');
-    }
+  createLocalOrder(seed, requestBody) {
     const items = Array.isArray(requestBody.items) && requestBody.items.length > 0
       ? requestBody.items.map((item) => {
         const product = this.getCartProduct(item.productSlug || item.seedSlug);
         return product ? { seed: { ...product, commerce: product }, quantity: item.quantity } : null;
       }).filter(Boolean)
       : [{ seed, quantity: requestBody.quantity }];
+    const debugProduct = items[0]?.seed || seed;
+    if (this.isCheckoutDebugEnabled()) {
+      console.info('CHECKOUT_ORDER_CREATE_LOCAL', {
+        productSlug: debugProduct?.slug,
+        productName: debugProduct?.name,
+        category: debugProduct?.category,
+        stock: debugProduct?.commerce?.availableStock ?? debugProduct?.availableStock,
+        saleEnabled: debugProduct?.commerce?.saleEnabled ?? debugProduct?.saleEnabled,
+        stockStatus: debugProduct?.commerce?.stockStatus ?? debugProduct?.stockStatus,
+        quantity: requestBody.quantity || requestBody.items,
+        customerName: requestBody.customerName,
+        customerEmail: requestBody.email,
+        robloxUsername: requestBody.robloxUsername,
+        couponCode: requestBody.couponCode,
+        acceptedTerms: requestBody.termsAccepted,
+        orderStorageMode: STORE_COMMERCE_CONFIG.orderStorageMode,
+        commerceEnabled: STORE_COMMERCE_CONFIG.commerceEnabled,
+        checkoutEnabled: STORE_COMMERCE_CONFIG.testCheckoutEnabled
+      });
+    }
     const result = this.storeCommerceService.buildCartPixOrder({
       items,
       customerName: requestBody.customerName,
@@ -1922,8 +1935,11 @@ export class GrowGardenModule {
       throw new OrderServiceError(result.code, result.errors.join(' '));
     }
     try {
-      const order = this.localOrderRepository.create(result.order);
-      console.warn('ORDER_LOCAL_TEST_STORAGE', {
+      const order = this.localOrderRepository.create({
+        ...result.order,
+        pixQrImageUrl: null
+      });
+      if (this.isCheckoutDebugEnabled()) console.info('ORDER_LOCAL_STORAGE', {
         message: 'Pedido salvo no armazenamento local.',
         orderCode: order.orderCode,
         storageMode: order.storageMode
@@ -1935,7 +1951,8 @@ export class GrowGardenModule {
   }
 
   buildPixPaymentPanel(seed, order, state) {
-    const hasPixPayload = Boolean(order.pixPayload && order.pixQrImageUrl);
+    const hasPixPayload = Boolean(order.pixPayload);
+    const hasPixQr = Boolean(order.pixQrImageUrl);
     const orderItems = Array.isArray(order.items) && order.items.length > 0
       ? order.items
       : [{
@@ -1977,7 +1994,7 @@ export class GrowGardenModule {
         ]),
         null,
         createElement('div', { class: 'pix-primary-column' }, [
-          hasPixPayload
+          hasPixQr
             ? createElement('div', { class: 'pix-qr-panel' }, [
               createElement('img', {
                 class: 'pix-qr-image pix-qr-code',
@@ -1988,7 +2005,12 @@ export class GrowGardenModule {
               }),
               createElement('p', { class: 'pix-qr-fallback', hidden: true }, qrFallbackMessage)
             ])
-            : createElement('div', { class: 'pix-brcode-box pending' }, [
+            : hasPixPayload
+              ? createElement('div', { class: 'pix-brcode-box pending' }, [
+                createElement('strong', {}, 'Pix copia e cola gerado.'),
+                createElement('p', {}, 'Use o codigo abaixo para pagar. O QR Code fica disponivel quando houver backend Pix ativo.')
+              ])
+              : createElement('div', { class: 'pix-brcode-box pending' }, [
               createElement('strong', {}, 'Nao foi possivel gerar a cobranca Pix.'),
               createElement('p', {}, order.pixPayloadError || state.message || 'Tente novamente. Nenhum pagamento manual sera exibido como fallback.'),
               createElement('button', {
@@ -3426,7 +3448,7 @@ export class GrowGardenModule {
         this.buildPaymentLine('Total', formatMoney(order.totalInCents, 'BRL')),
         this.buildPaymentLine('Cliente', order.customerName),
         this.buildPaymentLine('Roblox', `@${order.robloxUsername}`),
-        order.storageMode === 'local_test' ? this.buildPaymentLine('Armazenamento', 'Pedido local.') : null,
+        order.storageMode === 'local' ? this.buildPaymentLine('Origem', 'Pedido manual') : null,
         this.buildPaymentLine('Pagamento informado', order.customerReportedPayment ? 'Sim' : 'Nao'),
         this.buildPaymentLine('Comprovante', order.receiptStatus || 'Nao enviado')
       ].filter(Boolean)),
